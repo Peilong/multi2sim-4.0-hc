@@ -1,0 +1,14 @@
+(Consumer) [ Record Counter: 0]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: 0, -246, 0
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: 0, -246, 0
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 1]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: 0, -246, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 28125, -28125, -581250

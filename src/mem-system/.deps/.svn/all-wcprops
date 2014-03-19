@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/11/src/mem-system/.deps
+END
+cache.Po
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/cache.Po
+END
+directory.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/directory.Po
+END
+config.Po
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/config.Po
+END
+local-mem-protocol.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/local-mem-protocol.Po
+END
+module.Po
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/module.Po
+END
+spec-mem.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/spec-mem.Po
+END
+memory.Po
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/11/src/mem-system/.deps/memory.Po
+END
+nmoesi-protocol.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/nmoesi-protocol.Po
+END
+command.Po
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/command.Po
+END
+mmu.Po
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/mmu.Po
+END
+mem-system.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/8/src/mem-system/.deps/mem-system.Po
+END

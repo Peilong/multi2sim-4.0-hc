@@ -1,0 +1,138 @@
+system call 'brk' (code 45, inst 5623, pid 1000)
+  newbrk=0x0 (previous brk was 0x804b000)
+  ret=(134524928, 0x804b000)
+system call 'newuname' (code 122, inst 14648, pid 1000)
+  putsname=0xbffefc0a
+  sysname='Linux', nodename='Multi2Sim'
+  relaese='3.1.9-1.fc16.i686#1 Fri Jan 13 16:37:42 UTC 2012', version='i686'
+  machine='', domainname=''
+  ret=(0, 0x0)
+system call 'access' (code 33, inst 15690, pid 1000)
+  file_name='/etc/ld.so.nohwcap', mode=0x0
+  full_path='/etc/ld.so.nohwcap'
+  mode={}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'mmap2' (code 192, inst 16970, pid 1000)
+  addr=0x0, len=4096, prot=0x3, flags=0x22, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS}
+  ret=(-1208287232, 0xb7fb0000)
+system call 'access' (code 33, inst 18688, pid 1000)
+  file_name='/etc/ld.so.preload', mode=0x4
+  full_path='/etc/ld.so.preload'
+  mode={R_OK}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'open' (code 5, inst 24252, pid 1000)
+  filename='/etc/ld.so.cache' flags=0x80000, mode=0x0
+  fullpath='/etc/ld.so.cache'
+  flags={524288}
+    file descriptor opened: guest_fd=3, host_fd=9
+  ret=(3, 0x3)
+system call 'fstat64' (code 197, inst 24749, pid 1000)
+  fd=3, statbuf_ptr=0xbffef8a0
+  host_fd=9
+  stat64 structure:
+    dev=1792, ino=34261, mode=33188, nlink=1
+    uid=0, gid=0, rdev=0
+    size=91264, blksize=1024, blocks=182
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 24934, pid 1000)
+  addr=0x0, len=91264, prot=0x1, flags=0x2, guest_fd=3, offset=0x0
+  prot={PROT_READ}, flags={MAP_PRIVATE}
+  ret=(-1208381440, 0xb7f99000)
+system call 'close' (code 6, inst 25073, pid 1000)
+  guest_fd=3
+  host_fd=9
+  ret=(0, 0x0)
+system call 'access' (code 33, inst 25932, pid 1000)
+  file_name='/etc/ld.so.nohwcap', mode=0x0
+  full_path='/etc/ld.so.nohwcap'
+  mode={}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'open' (code 5, inst 30762, pid 1000)
+  filename='/lib32/libc.so.6' flags=0x80000, mode=0x13428
+  fullpath='/lib32/libc.so.6'
+  flags={524288}
+    file descriptor opened: guest_fd=3, host_fd=9
+  ret=(3, 0x3)
+system call 'read' (code 3, inst 30859, pid 1000)
+  guest_fd=3, buf_ptr=0xbffef9e4, count=0x200
+  host_fd=9
+  buf="ELF\01\01\01\0\0\0\0\0\0\0\0\0\03\0\03\0\01\0\0\0\10–\01\04\0\0\0p0\1a\0\0\0\0\0"...
+  ret=(512, 0x200)
+system call 'fstat64' (code 197, inst 33305, pid 1000)
+  fd=3, statbuf_ptr=0xbffef900
+  host_fd=9
+  stat64 structure:
+    dev=1792, ino=1265671, mode=33261, nlink=1
+    uid=0, gid=0, rdev=0
+    size=1717736, blksize=1024, blocks=3372
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 37066, pid 1000)
+  addr=0x0, len=1731292, prot=0x5, flags=0x802, guest_fd=3, offset=0x0
+  prot={PROT_READ|PROT_EXEC}, flags={MAP_PRIVATE|MAP_DENYWRITE}
+  ret=(-1210114048, 0xb7df2000)
+system call 'mprotect' (code 125, inst 37223, pid 1000)
+  start=0xb7f92000, len=0x1000, prot=0x0
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 37454, pid 1000)
+  addr=0xb7f93000, len=12288, prot=0x3, flags=0x812, guest_fd=3, offset=0x1a0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE}
+  ret=(-1208406016, 0xb7f93000)
+system call 'mmap2' (code 192, inst 38035, pid 1000)
+  addr=0xb7f96000, len=10972, prot=0x3, flags=0x32, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS}
+  ret=(-1208393728, 0xb7f96000)
+system call 'close' (code 6, inst 39670, pid 1000)
+  guest_fd=3
+  host_fd=9
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 55104, pid 1000)
+  addr=0x0, len=4096, prot=0x3, flags=0x22, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS}
+  ret=(-1210118144, 0xb7df1000)
+system call 'set_thread_area' (code 243, inst 55980, pid 1000)
+  uinfo_ptr=0xbffefdd0
+  entry_number=0xffffffff, base_addr=0xb7df16c0, limit=0xfffff
+  seg_32bit=0x1, contents=0x0, read_exec_only=0x0
+  limit_in_pages=0x1, seg_not_present=0x0, useable=0x1
+  ret=(0, 0x0)
+system call 'mprotect' (code 125, inst 169657, pid 1000)
+  start=0xb7f93000, len=0x2000, prot=0x1
+  ret=(0, 0x0)
+system call 'mprotect' (code 125, inst 172397, pid 1000)
+  start=0x8049000, len=0x1000, prot=0x1
+  ret=(0, 0x0)
+system call 'munmap' (code 91, inst 185378, pid 1000)
+  addr=0xb7f99000, size=0x16480
+  ret=(0, 0x0)
+system call 'setitimer' (code 104, inst 196278, pid 1000)
+  which=1 (ITIMER_VIRTUAL), value_ptr=0xbffeff50, old_value_ptr=0x0
+  itimerval at 'value_ptr':
+    it_interval: tv_sec=0, tv_usec=250000
+    it_value: tv_sec=0, tv_usec=250000
+  ret=(0, 0x0)
+system call 'exit_group' (code 252, inst 200187, pid 1000)
+  status=0
+  ret=(0, 0x0)
+
+
+**
+** System calls summary:
+**
+
+System call          Count
+------------------------------
+read                 1
+open                 2
+close                2
+access               3
+brk                  1
+munmap               1
+setitimer            1
+newuname             1
+mprotect             3
+mmap2                6
+fstat64              2
+set_thread_area      1
+exit_group           1
+

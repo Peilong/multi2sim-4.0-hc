@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results
+END
+IDSI_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/IDSI_xeon
+END
+Xeon_core
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/Xeon_core
+END
+T1
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/T1
+END
+Xeon_uncore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/Xeon_uncore
+END
+T2
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/T2
+END
+Alpha21364
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/Alpha21364
+END
+3des_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/3des_xeon
+END
+Alpha21364_90nm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/Alpha21364_90nm
+END
+SLAMC_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/SLAMC_xeon
+END
+SLAMJ_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/SLAMJ_xeon
+END
+A9_2000_withIOC
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/A9_2000_withIOC
+END
+A9_800
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/A9_800
+END
+T1_ST_64
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/T1_ST_64
+END
+T1_DC_64
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/T1_DC_64
+END
+T1_SBT_64
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/T1_SBT_64
+END
+SURF_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/SURF_xeon
+END
+A9_2000
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/A9_2000
+END
+Penryn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/9/McPAT08release/results/Penryn
+END
+Smithwaterman_xeon
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/Smithwaterman_xeon
+END
+SLAM_Atom
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/12/McPAT08release/results/SLAM_Atom
+END

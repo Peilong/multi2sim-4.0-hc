@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.pipeline
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/1-mem-config
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/run.bash
+END
+report.pipeline.all.cycle
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.pipeline.all.cycle
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/.project
+END
+segmentation_acc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/segmentation_acc.c
+END
+segmentation_acc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/segmentation_acc.tcl
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/.cproject
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/1-cpu-config
+END
+Bus-Data-Generate
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/Bus-Data-Generate
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.mem
+END
+segmentation_acc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/segmentation_acc.h
+END
+report.mem.all.cycle
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.mem.all.cycle
+END
+report.pipeline.acc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.pipeline.acc
+END
+Bus-Data-Generate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/Bus-Data-Generate.c
+END
+seg-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/seg-test.c
+END
+seg_bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/seg_bus.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/Makefile
+END
+report.mem.acc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/segmentation/report.mem.acc
+END

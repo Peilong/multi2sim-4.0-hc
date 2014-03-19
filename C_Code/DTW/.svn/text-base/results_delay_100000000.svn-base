@@ -1,0 +1,4897 @@
+(Consumer) [ Record Counter: 0]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: 0, -246, 0
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: 0, -246, 0
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 1]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: 0, -246, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: 0, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 2]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: 0, -246, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: 0, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 3]
+(Consumer) Raw Gyros: 6, -51, 3
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 750, -6375, 375
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 4]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 5]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -297, -261, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 6]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -261, 210
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 7]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -42, -744
+(Consumer) Raw Mags: -291, -261, 210
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -32812.5, -581250
+(Consumer) Comp Mags: -291.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 8]
+(Consumer) Raw Gyros: 6, -39, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -291, -249, 210
+(Consumer) Comp Gyros: 750, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -291.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 9]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -291, -249, 219
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -291.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 10]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -291, -249, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 11]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -249, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 12]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -258, 219
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 13]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 14]
+(Consumer) Raw Gyros: 15, -42, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 1875, -5250, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 15]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -291, -258, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -291.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 16]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 17]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -291, -255, 207
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 18]
+(Consumer) Raw Gyros: 6, -48, 3
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -291, -255, 207
+(Consumer) Comp Gyros: 750, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -291.001, -255.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 19]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -255, 207
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -255.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 20]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -306, -246, 207
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -246, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 21]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -306, -246, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -306.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 22]
+(Consumer) Raw Gyros: 18, -39, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -306, -246, 216
+(Consumer) Comp Gyros: 2250, -4875, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -306.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 23]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -306, -246, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 24]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 25]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 26]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 27]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 28]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 29]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 30]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 30, -39, -735
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 31]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -294, -261, 219
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 32]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -246, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 33]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 30, -39, -735
+(Consumer) Raw Mags: -294, -246, 216
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 23437.5, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 34]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -246, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 35]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -291, -246, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -291.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 36]
+(Consumer) Raw Gyros: 6, -42, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 750, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 37]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -36, -747
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -583594
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 38]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 39]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -306, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -306.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 40]
+(Consumer) Raw Gyros: 18, -39, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -246, 219
+(Consumer) Comp Gyros: 2250, -4875, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 41]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -306, -246, 213
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -306.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 42]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 30, -39, -735
+(Consumer) Raw Mags: -306, -246, 213
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -574219
+(Consumer) Comp Mags: -306.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 43]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -246, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 44]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -261, 213
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 45]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 46]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 47]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 48]
+(Consumer) Raw Gyros: 15, -42, 3
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -306, -261, 210
+(Consumer) Comp Gyros: 1875, -5250, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 49]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 50]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 51]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 52]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -246, 219
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 53]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 54]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 55]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -291, -246, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -291.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 56]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 57]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 58]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -747
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -583594
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 59]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -306, -255, 219
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 60]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 61]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -306, -261, 213
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 62]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 213
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 63]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -261, 213
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 64]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -261, 213
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 65]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 66]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 67]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 68]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 69]
+(Consumer) Raw Gyros: 9, -39, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 70]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 71]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 72]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 73]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 74]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 75]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 36, -39, -744
+(Consumer) Raw Mags: -291, -246, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 28125, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 76]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 77]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 78]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -291, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -291.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 79]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 80]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -261, 219
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 81]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -261, 213
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 82]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -294, -261, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 83]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 84]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -297, -249, 213
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -249, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 85]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 24, -36, -744
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 18750, -28125, -581250
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 86]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 33, -33, -738
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 25781.2, -25781.2, -576562
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 87]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -306, -249, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 88]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 89]
+(Consumer) Raw Gyros: 18, -51, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 2250, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 90]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 91]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -252, 216
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 92]
+(Consumer) Raw Gyros: 6, -51, 3
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -246, 216
+(Consumer) Comp Gyros: 750, -6375, 375
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 93]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -297, -246, 210
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -297.001, -246, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 94]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -246, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -246, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 95]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -291, -246, 210
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -246, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 96]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -291, -255, 210
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 97]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -33, -741
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -25781.2, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 98]
+(Consumer) Raw Gyros: 9, -42, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 1125, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 99]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 100]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 101]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -261, 213
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 102]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -261, 213
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 103]
+(Consumer) Raw Gyros: 6, -42, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 750, -5250, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 104]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -249, 213
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -249, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 105]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 106]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 24, -36, -738
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 18750, -28125, -576562
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 107]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -306, -249, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 108]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 109]
+(Consumer) Raw Gyros: 9, -42, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1125, -5250, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 110]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 111]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -33, -741
+(Consumer) Raw Mags: -291, -252, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -25781.2, -578906
+(Consumer) Comp Mags: -291.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 112]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 30, -39, -735
+(Consumer) Raw Mags: -291, -258, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -574219
+(Consumer) Comp Mags: -291.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 113]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -291, -258, 210
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -291.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 114]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -291, -258, 210
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 115]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 30, -36, -735
+(Consumer) Raw Mags: -291, -258, 210
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 23437.5, -28125, -574219
+(Consumer) Comp Mags: -291.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 116]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -291, -249, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 117]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -291, -249, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 118]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -291, -249, 216
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -291.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 119]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -249, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 120]
+(Consumer) Raw Gyros: 18, -42, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -5250, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 121]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 24, -36, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 122]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -42, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -32812.5, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 123]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -297, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 124]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 125]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 126]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 127]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -249, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 128]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 129]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 130]
+(Consumer) Raw Gyros: 6, -39, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 750, -4875, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 131]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -291, -252, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 132]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -291, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -291.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 133]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -291, -258, 210
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 28125, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 134]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -291, -258, 210
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -291.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 135]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -258, 210
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 136]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -249, 210
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 137]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -294, -249, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -294.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 138]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -294, -249, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 139]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 140]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 141]
+(Consumer) Raw Gyros: 15, -39, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1875, -4875, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 142]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 143]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 144]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 145]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 146]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 147]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 24, -36, -738
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -576562
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 148]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 36, -39, -744
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 28125, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 149]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 150]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -306, -252, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 151]
+(Consumer) Raw Gyros: 9, -42, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -291, -252, 216
+(Consumer) Comp Gyros: 1125, -5250, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -291.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 152]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -291, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -291.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 153]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -291, -258, 213
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -291.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 154]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 24, -36, -744
+(Consumer) Raw Mags: -291, -258, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -581250
+(Consumer) Comp Mags: -291.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 155]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -258, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 156]
+(Consumer) Raw Gyros: 15, -42, -3
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -249, 213
+(Consumer) Comp Gyros: 1875, -5250, -375
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -249, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 157]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -294, -249, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 158]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -249, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 159]
+(Consumer) Raw Gyros: 18, -51, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -249, 216
+(Consumer) Comp Gyros: 2250, -6375, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 160]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 161]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 162]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 163]
+(Consumer) Raw Gyros: 6, -48, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 750, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 164]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 165]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 166]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -747
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -583594
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 167]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 168]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 169]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -39, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 170]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 171]
+(Consumer) Raw Gyros: 18, -39, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -291, -261, 216
+(Consumer) Comp Gyros: 2250, -4875, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -291.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 172]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 173]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 174]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 175]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -294, -255, 213
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -294.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 176]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -294, -249, 213
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -249, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 177]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -294, -249, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -294.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 178]
+(Consumer) Raw Gyros: 9, -51, 3
+(Consumer) Raw Accels: 36, -33, -738
+(Consumer) Raw Mags: -294, -249, 219
+(Consumer) Comp Gyros: 1125, -6375, 375
+(Consumer) Comp Accels: 28125, -25781.2, -576562
+(Consumer) Comp Mags: -294.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 179]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -297, -249, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 180]
+(Consumer) Raw Gyros: 18, -39, 0
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -297, -270, 219
+(Consumer) Comp Gyros: 2250, -4875, 0
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -270.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 181]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 182]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 183]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -270, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -270.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 184]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 185]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 186]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 24, -39, -735
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 18750, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 187]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 188]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 189]
+(Consumer) Raw Gyros: 9, -42, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 190]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 191]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -291, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -291.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 192]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 30, -39, -735
+(Consumer) Raw Mags: -291, -255, 216
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -574219
+(Consumer) Comp Mags: -291.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 193]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 194]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 195]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -255, 213
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 196]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -246, 213
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 197]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -246, 219
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 198]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -300, -246, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -300.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 199]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -246, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 200]
+(Consumer) Raw Gyros: 9, -51, 3
+(Consumer) Raw Accels: 33, -33, -735
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 1125, -6375, 375
+(Consumer) Comp Accels: 25781.2, -25781.2, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 201]
+(Consumer) Raw Gyros: 15, -39, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 202]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 203]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 204]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 205]
+(Consumer) Raw Gyros: 15, -39, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 206]
+(Consumer) Raw Gyros: 9, -60, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1125, -7500, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 207]
+(Consumer) Raw Gyros: 15, -39, -3
+(Consumer) Raw Accels: 24, -39, -741
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, -375
+(Consumer) Comp Accels: 18750, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 208]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 209]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -306, -261, 207
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 210]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -306, -261, 207
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 211]
+(Consumer) Raw Gyros: 18, -51, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -291, -261, 207
+(Consumer) Comp Gyros: 2250, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -291.001, -261.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 212]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -291, -255, 207
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 213]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 214]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 215]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -255, 213
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 216]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -246, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 217]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -300, -246, 219
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -300.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 218]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -246, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 219]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -300, -246, 219
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -300.001, -246, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 220]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -258, 219
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 221]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 222]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 223]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 224]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 225]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 226]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 227]
+(Consumer) Raw Gyros: 9, -39, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 228]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 229]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 230]
+(Consumer) Raw Gyros: 6, -48, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 750, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 231]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -291, -258, 207
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 232]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -291, -255, 207
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -291.001, -255.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 233]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 234]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -291, -255, 213
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -291.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 235]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -255, 213
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 236]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -300, -246, 213
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -246, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 237]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -246, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -300.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 238]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -300, -246, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -300.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 239]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -246, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -246, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 240]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 241]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 242]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 243]
+(Consumer) Raw Gyros: 15, -39, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 1875, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 244]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 245]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 246]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 247]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -309, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -309.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 248]
+(Consumer) Raw Gyros: 6, -48, -3
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -309, -258, 216
+(Consumer) Comp Gyros: 750, -6000, -375
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -309.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 249]
+(Consumer) Raw Gyros: 18, -39, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -309, -258, 207
+(Consumer) Comp Gyros: 2250, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -309.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 250]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -309, -258, 207
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -309.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 251]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 252]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 253]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -306, -258, 213
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -306.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 254]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -258, 213
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 255]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -258, 213
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 256]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -264, 213
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -264.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 257]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -300, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -300.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 258]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -264, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 259]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 36, -36, -747
+(Consumer) Raw Mags: -300, -264, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -583594
+(Consumer) Comp Mags: -300.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 260]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 261]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 262]
+(Consumer) Raw Gyros: 18, -39, 0
+(Consumer) Raw Accels: 36, -39, -744
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 2250, -4875, 0
+(Consumer) Comp Accels: 28125, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 263]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 24, -36, -741
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 18750, -28125, -578906
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 264]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 265]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -39, -744
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 266]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 267]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -309, -261, 216
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -309.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 268]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -309, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -309.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 269]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -309, -258, 207
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -309.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 270]
+(Consumer) Raw Gyros: 6, -42, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -309, -258, 207
+(Consumer) Comp Gyros: 750, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -309.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 271]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 272]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -306, -258, 207
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -306.001, -258.001, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 273]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -306, -258, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 274]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -306, -258, 213
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 275]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -294, -258, 213
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 276]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -294, -264, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -294.001, -264.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 277]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 278]
+(Consumer) Raw Gyros: 18, -42, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 279]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 280]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 281]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 282]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 283]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 284]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 285]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 286]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 287]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -309, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -309.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 288]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -309, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -309.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 289]
+(Consumer) Raw Gyros: 18, -51, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -309, -258, 210
+(Consumer) Comp Gyros: 2250, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -309.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 290]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -309, -258, 210
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -309.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 291]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -258, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 292]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -306, -258, 210
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -306.001, -258.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 293]
+(Consumer) Raw Gyros: 9, -39, 3
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 1125, -4875, 375
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 294]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 295]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 296]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 297]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 298]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 299]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 300]
+(Consumer) Raw Gyros: 18, -42, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 2250, -5250, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 301]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 302]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 303]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -264, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 304]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 305]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 306]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 307]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 308]
+(Consumer) Raw Gyros: 6, -48, 3
+(Consumer) Raw Accels: 36, -39, -735
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 750, -6000, 375
+(Consumer) Comp Accels: 28125, -30468.8, -574219
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 309]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 310]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 311]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -306, -255, 210
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -306.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 312]
+(Consumer) Raw Gyros: 15, -39, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -306, -267, 210
+(Consumer) Comp Gyros: 1875, -4875, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -306.001, -267.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 313]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -267, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 314]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 30, -36, -735
+(Consumer) Raw Mags: -306, -267, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -574219
+(Consumer) Comp Mags: -306.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 315]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 316]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 317]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -294, -264, 219
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -294.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 318]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -294, -264, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 319]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 320]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 321]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 322]
+(Consumer) Raw Gyros: 9, -42, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1125, -5250, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 323]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -306, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -306.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 324]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 325]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 24, -36, -735
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 18750, -28125, -574219
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 326]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -39, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 327]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 328]
+(Consumer) Raw Gyros: 6, -42, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 750, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 329]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -39, -744
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 330]
+(Consumer) Raw Gyros: 6, -51, 3
+(Consumer) Raw Accels: 36, -39, -735
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 750, -6375, 375
+(Consumer) Comp Accels: 28125, -30468.8, -574219
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 331]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 332]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -267, 210
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -267.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 333]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 28125, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 334]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 335]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 336]
+(Consumer) Raw Gyros: 9, -42, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -252, 216
+(Consumer) Comp Gyros: 1125, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 337]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -294, -252, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 338]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -294, -252, 219
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 339]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -252, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 340]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 341]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 342]
+(Consumer) Raw Gyros: 9, -42, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1125, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 343]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -306, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 344]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 345]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 346]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 347]
+(Consumer) Raw Gyros: 18, -42, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -5250, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 348]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 349]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 350]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 351]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 352]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -300, -267, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 353]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 354]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 355]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 356]
+(Consumer) Raw Gyros: 18, -42, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -252, 216
+(Consumer) Comp Gyros: 2250, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 357]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -252, 219
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 358]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -252, 219
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 359]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -252, 219
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -252.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 360]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 361]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 362]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 363]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 364]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 365]
+(Consumer) Raw Gyros: 9, -39, 0
+(Consumer) Raw Accels: 30, -36, -735
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, 0
+(Consumer) Comp Accels: 23437.5, -28125, -574219
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 366]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 367]
+(Consumer) Raw Gyros: 18, -51, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 368]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 369]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -267, 219
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 370]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -300, -267, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -300.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 371]
+(Consumer) Raw Gyros: 9, -39, 3
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -300, -267, 219
+(Consumer) Comp Gyros: 1125, -4875, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -300.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 372]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -300, -267, 219
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -300.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 373]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 374]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -36, -744
+(Consumer) Raw Mags: -300, -267, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -581250
+(Consumer) Comp Mags: -300.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 375]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 376]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -294, -252, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -294.001, -252.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 377]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -294, -252, 210
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -294.001, -252.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 378]
+(Consumer) Raw Gyros: 18, -51, -3
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -252, 210
+(Consumer) Comp Gyros: 2250, -6375, -375
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -252.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 379]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -252, 210
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -252.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 380]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -297, -264, 210
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 381]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 382]
+(Consumer) Raw Gyros: 6, -48, 3
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 750, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 383]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 384]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 385]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -42, -735
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.8, -32812.5, -574219
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 386]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 387]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 388]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -33, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -25781.2, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 389]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -267, 219
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 390]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -294, -267, 219
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 391]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -306, -267, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 392]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 393]
+(Consumer) Raw Gyros: 6, -48, 3
+(Consumer) Raw Accels: 33, -33, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 750, -6000, 375
+(Consumer) Comp Accels: 25781.2, -25781.2, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 394]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 24, -36, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 18750, -28125, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 395]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 396]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 397]
+(Consumer) Raw Gyros: 15, -51, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -264, 210
+(Consumer) Comp Gyros: 1875, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 398]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -294, -264, 210
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 399]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -264, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 400]
+(Consumer) Raw Gyros: 6, -42, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -264, 210
+(Consumer) Comp Gyros: 750, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 401]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 402]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 403]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -264, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 404]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 405]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 406]
+(Consumer) Raw Gyros: 9, -42, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1125, -5250, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 407]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 408]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 409]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -267, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 410]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -294, -267, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 411]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -306, -267, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -306.001, -267.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 412]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 413]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 414]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 415]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 416]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -264.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 417]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 418]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 419]
+(Consumer) Raw Gyros: 18, -42, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 2250, -5250, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 420]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 421]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 422]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 423]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 424]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -42, -735
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -32812.5, -574219
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 425]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 426]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -39, -735
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 427]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -294.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 428]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 429]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 430]
+(Consumer) Raw Gyros: 18, -42, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 2250, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 431]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 24, -36, -738
+(Consumer) Raw Mags: -306, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -576562
+(Consumer) Comp Mags: -306.001, -267.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 432]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -306, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -306.001, -261.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 433]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 434]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -306, -261, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -306.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 435]
+(Consumer) Raw Gyros: 6, -39, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -261, 219
+(Consumer) Comp Gyros: 750, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -261.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 436]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 437]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 438]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 439]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -264, 210
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 440]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -255, 210
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 441]
+(Consumer) Raw Gyros: 9, -39, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 1125, -4875, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 442]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -300, -255, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 443]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 444]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 445]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 446]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 447]
+(Consumer) Raw Gyros: 9, -42, 0
+(Consumer) Raw Accels: 36, -36, -735
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1125, -5250, 0
+(Consumer) Comp Accels: 28125, -28125, -574219
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 448]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 449]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 450]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 451]
+(Consumer) Raw Gyros: 6, -39, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -306, -258, 216
+(Consumer) Comp Gyros: 750, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -306.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 452]
+(Consumer) Raw Gyros: 18, -57, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -306, -249, 216
+(Consumer) Comp Gyros: 2250, -7125, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -306.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 453]
+(Consumer) Raw Gyros: 6, -51, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -306, -249, 219
+(Consumer) Comp Gyros: 750, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -306.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 454]
+(Consumer) Raw Gyros: 18, -39, 0
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -306, -249, 219
+(Consumer) Comp Gyros: 2250, -4875, 0
+(Consumer) Comp Accels: 23437.5, -30468.8, -581250
+(Consumer) Comp Mags: -306.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 455]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.8, -28125, -576562
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 456]
+(Consumer) Raw Gyros: 9, -48, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 1125, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 457]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -39, -744
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -30468.8, -581250
+(Consumer) Comp Mags: -300.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 458]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 459]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -264.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 460]
+(Consumer) Raw Gyros: 15, -39, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 1875, -4875, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 461]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 462]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 463]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -297.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 464]
+(Consumer) Raw Gyros: 6, -51, -3
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 750, -6375, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 465]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 466]
+(Consumer) Raw Gyros: 15, -39, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1875, -4875, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 467]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -255.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 468]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 469]
+(Consumer) Raw Gyros: 6, -51, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 750, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 470]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -258, 216
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 471]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -258, 216
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -258.001, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 472]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -300, -249, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -300.001, -249, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 473]
+(Consumer) Raw Gyros: 15, -39, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 1875, -4875, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 474]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 475]
+(Consumer) Raw Gyros: 9, -51, 3
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -297, -249, 219
+(Consumer) Comp Gyros: 1125, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -297.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 476]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 477]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 478]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 24, -36, -735
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 18750, -28125, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 479]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -258, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 480]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -574219
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 481]
+(Consumer) Raw Gyros: 18, -42, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 2250, -5250, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 482]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -300, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -300.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 483]
+(Consumer) Raw Gyros: 9, -51, -3
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, -375
+(Consumer) Comp Accels: 21093.8, -30468.8, -574219
+(Consumer) Comp Mags: -297.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 484]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 485]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -255, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 486]
+(Consumer) Raw Gyros: 9, -51, 3
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -255, 213
+(Consumer) Comp Gyros: 1125, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 487]
+(Consumer) Raw Gyros: 15, -39, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -255, 213
+(Consumer) Comp Gyros: 1875, -4875, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -255.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 488]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -258, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 489]
+(Consumer) Raw Gyros: 6, -51, -6
+(Consumer) Raw Accels: 24, -39, -738
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 750, -6375, -750
+(Consumer) Comp Accels: 18750, -30468.8, -576562
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 490]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 33, -42, -741
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 25781.2, -32812.5, -578906
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 491]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -300, -258, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -300.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 492]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 493]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 21093.8, -30468.8, -578906
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 494]
+(Consumer) Raw Gyros: 6, -51, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 750, -6375, -375
+(Consumer) Comp Accels: 21093.8, -28125, -574219
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 495]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -297, -249, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.8, -581250
+(Consumer) Comp Mags: -297.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 496]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 497]
+(Consumer) Raw Gyros: 9, -42, 3
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 1125, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 498]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -258, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.8, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 499]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -39, -741
+(Consumer) Raw Mags: -294, -258, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.8, -578906
+(Consumer) Comp Mags: -294.001, -258.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 500]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -294.001, -255.001, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 501]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 502]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.7, -576562
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 503]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -747
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -583594
+(Consumer) Comp Mags: -297.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 504]
+(Consumer) Raw Gyros: 18, -39, -6
+(Consumer) Raw Accels: 24, -39, -738
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 2250, -4875, -750
+(Consumer) Comp Accels: 18750, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 505]
+(Consumer) Raw Gyros: 6, -51, 3
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 750, -6375, 375
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 506]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -33, -744
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -25781.2, -581250
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 507]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 508]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -297, -264, 213
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -264, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 509]
+(Consumer) Raw Gyros: 15, -42, -3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1875, -5250, -375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 510]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 511]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.7, -28125, -574219
+(Consumer) Comp Mags: -300.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 512]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 36, -36, -744
+(Consumer) Raw Mags: -300, -249, 219
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 28125, -28125, -581250
+(Consumer) Comp Mags: -300.001, -249, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 513]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 24, -39, -738
+(Consumer) Raw Mags: -300, -249, 210
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 18750, -30468.7, -576562
+(Consumer) Comp Mags: -300.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 514]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -300, -249, 210
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -300.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 515]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -249, 210
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.7, -28125, -576562
+(Consumer) Comp Mags: -297.001, -249, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 516]
+(Consumer) Raw Gyros: 15, -48, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -258, 210
+(Consumer) Comp Gyros: 1875, -6000, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -258, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 517]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -258, 207
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -258, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 518]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -297, -258, 207
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -297.001, -258, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 519]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -294, -258, 207
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.7, -30468.7, In DetectGesture, accDTW is gonna be called next.
+
+*************************************
+calling dynamic lib function 'accDTW'
+-578906
+(Consumer) Comp Mags: -294.001, distance is got!
+-258, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 520]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -255, 207
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: In DetectGesture, accDTW is gonna be called next.
+
+*************************************
+calling dynamic lib function 'accDTW'
+25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -255, distance is got!
+207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 521]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: In DetectGesture, accDTW is gonna be called next.
+
+*************************************
+calling dynamic lib function 'accDTW'
+21093.7, -28125, -574219
+		args[0] = 134550088 (0x8051248)
+		args[1] = 3062894512 (0xb6900fb0)
+		args[2] = 124 (0x7c)
+		args[3] = 3062919840 (0xb69072a0)
+		args[4] = 134550088 (0x8051248)
+		args[5] = 3086668966 (0xb7fad4a6)
+		args[6] = 134522026 (0x804a4aa)
+Done with function args!
+Function DTWdistance is called.
+		args[0] = 134550088 (0x8051248)
+		args[1] = 3062895416 (0xb6901338)
+		args[2] = 124 (0x7c)
+		args[3] = 3062919840 (0xb69072a0)
+		args[4] = 6 (0x6)
+		args[5] = 3086668966 (0xb7fad4a6)
+		args[6] = 134522026 (0x804a4aa)
+Done with function args!
+Function DTWdistance is called.
+		args[0] = 134550088 (0x8051248)
+		args[1] = 3062907704 (0xb6904338)
+		args[2] = 124 (0x7c)
+		args[3] = 3062919840 (0xb69072a0)
+		args[4] = 124 (0x7c)
+		args[5] = 3086668966 (0xb7fad4a6)
+		args[6] = 134522026 (0x804a4aa)
+Done with function args!
+Function DTWdistance is called.
+		args[0] = 134550088 (0x8051248)
+		args[1] = 3062918784 (0xb6906e80)
+		args[2] = 124 (0x7c)
+		args[3] = 3062919840 (0xb69072a0)
+		args[4] = 110 (0x6e)
+		args[5] = 3086668966 (0xb(Consumer) Comp Mags: -294.001, -255, distance is got!
+In DetectGesture, accDTW is gonna be called next.
+
+*************************************
+calling dynamic lib function 'accDTW'
+219
+(Consumer) Temperature: 1
+distance is got!
+In DetectGesture, accDTW is gonna be called next.
+
+*************************************
+calling dynamic lib function 'accDTW'
+(Consumer) [ Record Counter: 522]
+(Consumer) Raw Gyros: 18, -42, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: distance is got!
+2250, -5250, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) Gesture ID Recognized: 1
+
+(Consumer) [ Record Counter: 523]
+(Consumer) Raw Gyros: 6, -48, -3
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 750, -6000, -375
+(Consumer) Comp Accels: 21093.7, -28125, -576562
+(Consumer) Comp Mags: -297.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 524]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 525]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.7, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 526]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 527]
+(Consumer) Raw Gyros: 6, -39, -3
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -261, 213
+(Consumer) Comp Gyros: 750, -4875, -375
+(Consumer) Comp Accels: 21093.7, -30468.7, -574219
+(Consumer) Comp Mags: -297.001, -261, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 528]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -264, 213
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264, 213
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 529]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -39, -738
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.7, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 530]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 531]
+(Consumer) Raw Gyros: 18, -51, -3
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 2250, -6375, -375
+(Consumer) Comp Accels: 21093.7, -28125, -578906
+(Consumer) Comp Mags: -300.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 532]
+(Consumer) Raw Gyros: 6, -39, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -300, -261, 219
+(Consumer) Comp Gyros: 750, -4875, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -300.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 533]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 534]
+(Consumer) Raw Gyros: 6, -48, -3
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 750, -6000, -375
+(Consumer) Comp Accels: 23437.5, -30468.7, -576562
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 535]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -261, 210
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 536]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -33, -741
+(Consumer) Raw Mags: -297, -261, 210
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.7, -25781.2, -578906
+(Consumer) Comp Mags: -297.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 537]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -297, -261, 207
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -297.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 538]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 27, -39, -741
+(Consumer) Raw Mags: -297, -261, 207
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 21093.7, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 539]
+(Consumer) Raw Gyros: 15, -42, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -294, -261, 207
+(Consumer) Comp Gyros: 1875, -5250, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -578906
+(Consumer) Comp Mags: -294.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 540]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -255, 207
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -255, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 541]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.7, -28125, -581250
+(Consumer) Comp Mags: -294.001, -255, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 542]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -294.001, -255, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 543]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -297.001, -255, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 544]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -39, -744
+(Consumer) Raw Mags: -297, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -30468.7, -581250
+(Consumer) Comp Mags: -297.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 545]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 546]
+(Consumer) Raw Gyros: 18, -39, 3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 2250, -4875, 375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 547]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 24, -36, -738
+(Consumer) Raw Mags: -297, -261, 219
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 18750, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 548]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 549]
+(Consumer) Raw Gyros: 18, -39, -3
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 2250, -4875, -375
+(Consumer) Comp Accels: 23437.5, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 550]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 551]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -300, -264, 219
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -300.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 552]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -261, 219
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -261, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 553]
+(Consumer) Raw Gyros: 18, -48, -3
+(Consumer) Raw Accels: 24, -36, -741
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 2250, -6000, -375
+(Consumer) Comp Accels: 18750, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 554]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -576562
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 555]
+(Consumer) Raw Gyros: 18, -51, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 2250, -6375, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 556]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -300, -261, 210
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -300.001, -261, 210
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 557]
+(Consumer) Raw Gyros: 15, -39, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -261, 207
+(Consumer) Comp Gyros: 1875, -4875, -375
+(Consumer) Comp Accels: 21093.7, -30468.7, -581250
+(Consumer) Comp Mags: -300.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 558]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -261, 207
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 559]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -39, -735
+(Consumer) Raw Mags: -297, -261, 207
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.7, -30468.7, -574219
+(Consumer) Comp Mags: -297.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 560]
+(Consumer) Raw Gyros: 18, -48, 3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -267, 207
+(Consumer) Comp Gyros: 2250, -6000, 375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -267, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 561]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -297, -267, 216
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.7, -28125, -578906
+(Consumer) Comp Mags: -297.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 562]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 36, -39, -738
+(Consumer) Raw Mags: -297, -267, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 28125, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 563]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -267, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 564]
+(Consumer) Raw Gyros: 18, -42, -3
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -297, -255, 216
+(Consumer) Comp Gyros: 2250, -5250, -375
+(Consumer) Comp Accels: 23437.5, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -255, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 565]
+(Consumer) Raw Gyros: 6, -48, 0
+(Consumer) Raw Accels: 33, -39, -738
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 750, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 566]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -744
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.7, -28125, -581250
+(Consumer) Comp Mags: -297.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 567]
+(Consumer) Raw Gyros: 9, -51, 0
+(Consumer) Raw Accels: 33, -39, -735
+(Consumer) Raw Mags: -297, -255, 219
+(Consumer) Comp Gyros: 1125, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -574219
+(Consumer) Comp Mags: -297.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 568]
+(Consumer) Raw Gyros: 15, -48, -3
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -297, -264, 219
+(Consumer) Comp Gyros: 1875, -6000, -375
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -297.001, -264, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 569]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 33, -39, -741
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -578906
+(Consumer) Comp Mags: -297.001, -264, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 570]
+(Consumer) Raw Gyros: 9, -51, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -264, 216
+(Consumer) Comp Gyros: 1125, -6375, -750
+(Consumer) Comp Accels: 21093.7, -28125, -574219
+(Consumer) Comp Mags: -297.001, -264, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 571]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -264, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -264, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 572]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 573]
+(Consumer) Raw Gyros: 9, -39, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1125, -4875, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 574]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 30, -36, -744
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 23437.5, -28125, -581250
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 575]
+(Consumer) Raw Gyros: 18, -51, 3
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6375, 375
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 576]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 21093.7, -28125, -576562
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 577]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 36, -36, -741
+(Consumer) Raw Mags: -300, -261, 207
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 28125, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 578]
+(Consumer) Raw Gyros: 15, -51, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -300, -261, 207
+(Consumer) Comp Gyros: 1875, -6375, -750
+(Consumer) Comp Accels: 21093.7, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 579]
+(Consumer) Raw Gyros: 9, -39, 3
+(Consumer) Raw Accels: 36, -36, -738
+(Consumer) Raw Mags: -297, -261, 207
+(Consumer) Comp Gyros: 1125, -4875, 375
+(Consumer) Comp Accels: 28125, -28125, -576562
+(Consumer) Comp Mags: -297.001, -261, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 580]
+(Consumer) Raw Gyros: 18, -48, -6
+(Consumer) Raw Accels: 27, -36, -741
+(Consumer) Raw Mags: -297, -267, 207
+(Consumer) Comp Gyros: 2250, -6000, -750
+(Consumer) Comp Accels: 21093.7, -28125, -578906
+(Consumer) Comp Mags: -297.001, -267, 207
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 581]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -297, -267, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -297.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 582]
+(Consumer) Raw Gyros: 9, -48, -3
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -297, -267, 216
+(Consumer) Comp Gyros: 1125, -6000, -375
+(Consumer) Comp Accels: 21093.7, -28125, -574219
+(Consumer) Comp Mags: -297.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 583]
+(Consumer) Raw Gyros: 15, -51, 0
+(Consumer) Raw Accels: 33, -36, -741
+(Consumer) Raw Mags: -294, -267, 216
+(Consumer) Comp Gyros: 1875, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -578906
+(Consumer) Comp Mags: -294.001, -267, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 584]
+(Consumer) Raw Gyros: 9, -39, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -294, -255, 216
+(Consumer) Comp Gyros: 1125, -4875, -750
+(Consumer) Comp Accels: 21093.7, -28125, -574219
+(Consumer) Comp Mags: -294.001, -255, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 585]
+(Consumer) Raw Gyros: 15, -48, 0
+(Consumer) Raw Accels: 36, -33, -744
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1875, -6000, 0
+(Consumer) Comp Accels: 28125, -25781.2, -581250
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 586]
+(Consumer) Raw Gyros: 18, -51, -3
+(Consumer) Raw Accels: 24, -36, -741
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 2250, -6375, -375
+(Consumer) Comp Accels: 18750, -28125, -578906
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 587]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -735
+(Consumer) Raw Mags: -294, -255, 219
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -574219
+(Consumer) Comp Mags: -294.001, -255, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 588]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 24, -36, -744
+(Consumer) Raw Mags: -294, -252, 219
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 18750, -28125, -581250
+(Consumer) Comp Mags: -294.001, -252, 219
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 589]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -294, -252, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -294.001, -252, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 590]
+(Consumer) Raw Gyros: 6, -39, -3
+(Consumer) Raw Accels: 30, -36, -738
+(Consumer) Raw Mags: -294, -252, 216
+(Consumer) Comp Gyros: 750, -4875, -375
+(Consumer) Comp Accels: 23437.5, -28125, -576562
+(Consumer) Comp Mags: -294.001, -252, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 591]
+(Consumer) Raw Gyros: 18, -51, 0
+(Consumer) Raw Accels: 33, -39, -744
+(Consumer) Raw Mags: -300, -252, 216
+(Consumer) Comp Gyros: 2250, -6375, 0
+(Consumer) Comp Accels: 25781.2, -30468.7, -581250
+(Consumer) Comp Mags: -300.001, -252, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 592]
+(Consumer) Raw Gyros: 15, -48, -6
+(Consumer) Raw Accels: 27, -36, -738
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1875, -6000, -750
+(Consumer) Comp Accels: 21093.7, -28125, -576562
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 593]
+(Consumer) Raw Gyros: 9, -48, 0
+(Consumer) Raw Accels: 33, -36, -738
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, 0
+(Consumer) Comp Accels: 25781.2, -28125, -576562
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 594]
+(Consumer) Raw Gyros: 15, -51, -3
+(Consumer) Raw Accels: 27, -39, -744
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1875, -6375, -375
+(Consumer) Comp Accels: 21093.7, -30468.7, -581250
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 595]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -36, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -28125, -578906
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 596]
+(Consumer) Raw Gyros: 9, -48, -6
+(Consumer) Raw Accels: 27, -36, -735
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1125, -6000, -750
+(Consumer) Comp Accels: 21093.7, -28125, -574219
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 597]
+(Consumer) Raw Gyros: 15, -42, 3
+(Consumer) Raw Accels: 33, -36, -744
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 1875, -5250, 375
+(Consumer) Comp Accels: 25781.2, -28125, -581250
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 598]
+(Consumer) Raw Gyros: 18, -48, 0
+(Consumer) Raw Accels: 30, -39, -741
+(Consumer) Raw Mags: -300, -261, 216
+(Consumer) Comp Gyros: 2250, -6000, 0
+(Consumer) Comp Accels: 23437.5, -30468.7, -578906
+(Consumer) Comp Mags: -300.001, -261, 216
+(Consumer) Temperature: 1
+(Consumer) [ Record Counter: 599]
+(Consumer) Raw Gyros: 6, -48, -6
+(Consumer) Raw Accels: 30, -39, -738
+(Consumer) Raw Mags: -297, -261, 216
+(Consumer) Comp Gyros: 750, -6000, -750
+(Consumer) Comp Accels: 23437.5, -30468.7, -576562
+(Consumer) Comp Mags: -297.001, -261, 216
+(Consumer) Temperature: 1
+7fad4a6)
+		args[6] = 134522026 (0x804a4aa)
+Done with function args!
+Function DTWdistance is called.
+		args[0] = 134550088 (0x8051248)
+		args[1] = 3062918568 (0xb6906da8)
+		args[2] = 124 (0x7c)
+		args[3] = 3062919840 (0xb69072a0)
+		args[4] = 6 (0x6)
+		args[5] = 3086668966 (0xb7fad4a6)
+		args[6] = 134522026 (0x804a4aa)
+Done with function args!
+Function DTWdistance is called.
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+Time = 529.35
+SimEnd = ContextsFinished
+Cycles = 884033565
+
+[ x86 ]
+SimType = Detailed
+Time = 529.35
+Instructions = 106860358
+InstructionsPerSecond = 201870
+Contexts = 3
+Memory = 31752192
+Cycles = 884033305
+CyclesPerSecond = 1670031
+FastForwardInstructions = 0
+CommittedInstructions = 109225124
+IPC = 0.1236
+BranchPredictionAccuracy = 0.9003
+

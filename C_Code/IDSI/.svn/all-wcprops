@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/1-mem-config
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/run.bash
+END
+cache_access_pattern
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/cache_access_pattern
+END
+report.pipeline.all.cycle
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/report.pipeline.all.cycle
+END
+IDSI-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/IDSI-test.c
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/1-cpu-config
+END
+IDSI_cache_access
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/IDSI_cache_access
+END
+report.mem.all.cycle
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/report.mem.all.cycle
+END
+output
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/output
+END
+report.pipeline.acc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/report.pipeline.acc
+END
+IDSI-test
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/IDSI-test
+END
+IDSI.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/IDSI.c
+END
+report.mem.acc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/report.mem.acc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/Makefile
+END
+IDSI.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/IDSI/IDSI.h
+END

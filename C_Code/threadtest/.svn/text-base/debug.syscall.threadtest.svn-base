@@ -1,0 +1,301 @@
+system call 'brk' (code 45, inst 5831, pid 1000)
+  newbrk=0x0 (previous brk was 0x804b000)
+  ret=(134524928, 0x804b000)
+system call 'newuname' (code 122, inst 14634, pid 1000)
+  putsname=0xbffefc0a
+  sysname='Linux', nodename='Multi2Sim'
+  relaese='3.1.9-1.fc16.i686#1 Fri Jan 13 16:37:42 UTC 2012', version='i686'
+  machine='', domainname=''
+  ret=(0, 0x0)
+system call 'access' (code 33, inst 15470, pid 1000)
+  file_name='/etc/ld.so.nohwcap', mode=0x0
+  full_path='/etc/ld.so.nohwcap'
+  mode={}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'mmap2' (code 192, inst 16946, pid 1000)
+  addr=0x0, len=4096, prot=0x3, flags=0x22, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS}
+  ret=(-1208287232, 0xb7fb0000)
+system call 'access' (code 33, inst 18655, pid 1000)
+  file_name='/etc/ld.so.preload', mode=0x4
+  full_path='/etc/ld.so.preload'
+  mode={R_OK}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'open' (code 5, inst 24191, pid 1000)
+  filename='/etc/ld.so.cache' flags=0x80000, mode=0x0
+  fullpath='/etc/ld.so.cache'
+  flags={524288}
+    file descriptor opened: guest_fd=3, host_fd=10
+  ret=(3, 0x3)
+system call 'fstat64' (code 197, inst 24413, pid 1000)
+  fd=3, statbuf_ptr=0xbffef8a0
+  host_fd=10
+  stat64 structure:
+    dev=1792, ino=34261, mode=33188, nlink=1
+    uid=0, gid=0, rdev=0
+    size=91264, blksize=1024, blocks=182
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 24590, pid 1000)
+  addr=0x0, len=91264, prot=0x1, flags=0x2, guest_fd=3, offset=0x0
+  prot={PROT_READ}, flags={MAP_PRIVATE}
+  ret=(-1208381440, 0xb7f99000)
+system call 'close' (code 6, inst 24751, pid 1000)
+  guest_fd=3
+  host_fd=10
+  ret=(0, 0x0)
+system call 'access' (code 33, inst 25883, pid 1000)
+  file_name='/etc/ld.so.nohwcap', mode=0x0
+  full_path='/etc/ld.so.nohwcap'
+  mode={}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'open' (code 5, inst 31292, pid 1000)
+  filename='/lib32/libpthread.so.0' flags=0x80000, mode=0x13428
+  fullpath='/lib32/libpthread.so.0'
+  flags={524288}
+    file descriptor opened: guest_fd=3, host_fd=10
+  ret=(3, 0x3)
+system call 'read' (code 3, inst 31401, pid 1000)
+  guest_fd=3, buf_ptr=0xbffef9e4, count=0x200
+  host_fd=10
+  buf="ELF\01\01\01\0\0\0\0\0\0\0\0\0\03\0\03\0\01\0\0\0p[\0\04\0\0\0@ƒ\t\0\0\0\0\0"...
+  ret=(512, 0x200)
+system call 'fstat64' (code 197, inst 34132, pid 1000)
+  fd=3, statbuf_ptr=0xbffef900
+  host_fd=10
+  stat64 structure:
+    dev=1792, ino=1265674, mode=33261, nlink=1
+    uid=0, gid=0, rdev=0
+    size=659266, blksize=1024, blocks=1296
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 37371, pid 1000)
+  addr=0x0, len=107008, prot=0x5, flags=0x802, guest_fd=3, offset=0x0
+  prot={PROT_READ|PROT_EXEC}, flags={MAP_PRIVATE|MAP_DENYWRITE}
+  ret=(-1208492032, 0xb7f7e000)
+system call 'mmap2' (code 192, inst 37626, pid 1000)
+  addr=0xb7f95000, len=8192, prot=0x3, flags=0x812, guest_fd=3, offset=0x16
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE}
+  ret=(-1208397824, 0xb7f95000)
+system call 'mmap2' (code 192, inst 39162, pid 1000)
+  addr=0xb7f97000, len=4608, prot=0x3, flags=0x32, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS}
+  ret=(-1208389632, 0xb7f97000)
+system call 'close' (code 6, inst 40951, pid 1000)
+  guest_fd=3
+  host_fd=10
+  ret=(0, 0x0)
+system call 'access' (code 33, inst 44151, pid 1000)
+  file_name='/etc/ld.so.nohwcap', mode=0x0
+  full_path='/etc/ld.so.nohwcap'
+  mode={}
+  ret=(-2, 0xfffffffe), errno=ENOENT)
+system call 'open' (code 5, inst 48253, pid 1000)
+  filename='/lib32/libc.so.6' flags=0x80000, mode=0x13428
+  fullpath='/lib32/libc.so.6'
+  flags={524288}
+    file descriptor opened: guest_fd=3, host_fd=10
+  ret=(3, 0x3)
+system call 'read' (code 3, inst 48308, pid 1000)
+  guest_fd=3, buf_ptr=0xbffef9c4, count=0x200
+  host_fd=10
+  buf="ELF\01\01\01\0\0\0\0\0\0\0\0\0\03\0\03\0\01\0\0\0\10–\01\04\0\0\0p0\1a\0\0\0\0\0"...
+  ret=(512, 0x200)
+system call 'fstat64' (code 197, inst 49830, pid 1000)
+  fd=3, statbuf_ptr=0xbffef8e0
+  host_fd=10
+  stat64 structure:
+    dev=1792, ino=1265671, mode=33261, nlink=1
+    uid=0, gid=0, rdev=0
+    size=1717736, blksize=1024, blocks=3372
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 52577, pid 1000)
+  addr=0x0, len=1731292, prot=0x5, flags=0x802, guest_fd=3, offset=0x0
+  prot={PROT_READ|PROT_EXEC}, flags={MAP_PRIVATE|MAP_DENYWRITE}
+  ret=(-1210224640, 0xb7dd7000)
+system call 'mprotect' (code 125, inst 52708, pid 1000)
+  start=0xb7f77000, len=0x1000, prot=0x0
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 53012, pid 1000)
+  addr=0xb7f78000, len=12288, prot=0x3, flags=0x812, guest_fd=3, offset=0x1a0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE}
+  ret=(-1208516608, 0xb7f78000)
+system call 'mmap2' (code 192, inst 53356, pid 1000)
+  addr=0xb7f7b000, len=10972, prot=0x3, flags=0x32, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS}
+  ret=(-1208504320, 0xb7f7b000)
+system call 'close' (code 6, inst 54485, pid 1000)
+  guest_fd=3
+  host_fd=10
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 84170, pid 1000)
+  addr=0x0, len=4096, prot=0x3, flags=0x22, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS}
+  ret=(-1210228736, 0xb7dd6000)
+system call 'set_thread_area' (code 243, inst 86153, pid 1000)
+  uinfo_ptr=0xbffefdd0
+  entry_number=0xffffffff, base_addr=0xb7dd6900, limit=0xfffff
+  seg_32bit=0x1, contents=0x0, read_exec_only=0x0
+  limit_in_pages=0x1, seg_not_present=0x0, useable=0x1
+  ret=(0, 0x0)
+system call 'mprotect' (code 125, inst 206509, pid 1000)
+  start=0xb7f78000, len=0x2000, prot=0x1
+  ret=(0, 0x0)
+system call 'mprotect' (code 125, inst 228524, pid 1000)
+  start=0xb7f95000, len=0x1000, prot=0x1
+  ret=(0, 0x0)
+system call 'mprotect' (code 125, inst 231101, pid 1000)
+  start=0x8049000, len=0x1000, prot=0x1
+  ret=(0, 0x0)
+system call 'munmap' (code 91, inst 245896, pid 1000)
+  addr=0xb7f99000, size=0x16480
+  ret=(0, 0x0)
+system call 'set_tid_address' (code 258, inst 246874, pid 1000)
+  tidptr=0xb7dd6968
+  ret=(1000, 0x3e8)
+system call 'set_robust_list' (code 311, inst 246981, pid 1000)
+  head=0xb7dd6970, len=12
+  ret=(0, 0x0)
+system call 'futex' (code 240, inst 247068, pid 1000)
+  addr1=0xbffeff24, op=393, val1=1, ptimeout=0x0, addr2=0x0, val3=-1210226432
+  futex=0, cmd=9 (FUTEX_WAIT_BITSET)
+  ret=(-11, 0xfffffff5), errno=EAGAIN)
+system call 'rt_sigaction' (code 174, inst 247491, pid 1000)
+  sig=32, act_ptr=0xbffefb44, old_act_ptr=0x0, sigsetsize=0x8
+  signal=<unknown>
+  act: handler=0xb7f83570, flags=0x4000004, restorer=0xb7f8cf50, mask=0x0
+    flags: {SA_SIGINFO|SA_RESTORER}
+    mask: {}
+  ret=(0, 0x0)
+system call 'rt_sigaction' (code 174, inst 247758, pid 1000)
+  sig=33, act_ptr=0xbffefb44, old_act_ptr=0x0, sigsetsize=0x8
+  signal=<unknown>
+  act: handler=0xb7f835f0, flags=0x14000004, restorer=0xb7f8cf50, mask=0x0
+    flags: {SA_SIGINFO|SA_RESTORER|SA_RESTART}
+    mask: {}
+  ret=(0, 0x0)
+system call 'rt_sigprocmask' (code 175, inst 247877, pid 1000)
+  how=0x1, set_ptr=0xbffefe94, old_set_ptr=0x0, sigsetsize=0x8
+  how=SIG_UNBLOCK
+  set=0x180000000 {32,33}
+  ret=(0, 0x0)
+system call 'getrlimit' (code 191, inst 253399, pid 1000)
+  res=0x3, rlim_ptr=0xbffeff1c
+  res=RLIMIT_STACK
+  ret: cur=0x800000, max=0xffffffff
+  ret=(0, 0x0)
+system call 'newuname' (code 122, inst 261453, pid 1000)
+  putsname=0xbffefc90
+  sysname='Linux', nodename='Multi2Sim'
+  relaese='3.1.9-1.fc16.i686#1 Fri Jan 13 16:37:42 UTC 2012', version='i686'
+  machine='', domainname=''
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 280712, pid 1000)
+  addr=0x0, len=8392704, prot=0x3, flags=0x20022, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS|131072}
+  ret=(-1218621440, 0xb75d5000)
+system call 'brk' (code 45, inst 509161, pid 1000)
+  newbrk=0x0 (previous brk was 0x804b000)
+  ret=(134524928, 0x804b000)
+system call 'brk' (code 45, inst 509371, pid 1000)
+  newbrk=0x806c000 (previous brk was 0x804b000)
+  heap grows 135168 bytes
+  ret=(134660096, 0x806c000)
+system call 'mprotect' (code 125, inst 513389, pid 1000)
+  start=0xb75d5000, len=0x1000, prot=0x0
+  ret=(0, 0x0)
+system call 'clone' (code 120, inst 515660, pid 1000)
+  flags=0x3d0f00, newsp=0xb7dd5464, parent_tidptr=0xb7dd5ba8, child_tidptr=0xb7dd5ba8
+  flags={CLONE_VM|CLONE_FS|CLONE_FILES|CLONE_SIGHAND|CLONE_THREAD|CLONE_SYSVSEM|CLONE_SETTLS|CLONE_PARENT_SETTID|CLONE_CHILD_CLEARTID}
+  exit_signal=0 (<unknown>)
+  puinfo=0xbffefeb0
+  entry_number=0xf6fba006, base_addr=0xb7dd5b40, limit=0xfffff
+  seg_32bit=0x1, contents=0x0, read_exec_only=0x0
+  limit_in_pages=0x1, seg_not_present=0x0, useable=0x1
+  context created with pid 1001
+  ret=(1001, 0x3e9)
+system call 'fstat64' (code 197, inst 524629, pid 1000)
+  fd=1, statbuf_ptr=0xbffefdf0
+  host_fd=1
+  stat64 structure:
+    dev=11, ino=3, mode=8592, nlink=1
+    uid=1000, gid=5, rdev=34816
+    size=0, blksize=1024, blocks=0
+  ret=(0, 0x0)
+system call 'set_robust_list' (code 311, inst 524640, pid 1001)
+  head=0xb7dd5bb0, len=12
+  ret=(0, 0x0)
+system call 'mmap2' (code 192, inst 525001, pid 1000)
+  addr=0x0, len=4096, prot=0x3, flags=0x22, guest_fd=-1, offset=0x0
+  prot={PROT_READ|PROT_WRITE}, flags={MAP_PRIVATE|MAP_ANONYMOUS}
+  ret=(-1208291328, 0xb7faf000)
+system call 'futex' (code 240, inst 530897, pid 1001)
+  addr1=0xb7f7b8b8, op=128, val1=2, ptimeout=0x0, addr2=0xb7f7aa20, val3=16
+  futex=2, cmd=0 (FUTEX_WAIT)
+  ret=(0, 0x0)
+system call 'write' (code 4, inst 531658, pid 1000)
+  guest_fd=1, buf_ptr=0xb7faf000, count=0x12
+  host_fd=1
+  buf="parent says hello\n"
+  ret=(18, 0x12)
+system call 'futex' (code 240, inst 532784, pid 1000)
+  addr1=0xb7f7b8b8, op=129, val1=1, ptimeout=0xb7f7b8b8, addr2=0xb7f7aa20, val3=18
+  futex=0, cmd=1 (FUTEX_WAKE)
+  futex 0xb7f7b8b8: thread 1001 woken up
+  futex at 0xb7f7b8b8: 1 processes woken up
+  ret=(1, 0x1)
+system call 'write' (code 4, inst 536361, pid 1001)
+  guest_fd=1, buf_ptr=0xb7faf000, count=0x11
+  host_fd=1
+  buf="child says hello\n"
+  ret=(17, 0x11)
+system call 'futex' (code 240, inst 538124, pid 1001)
+  addr1=0xb7f7b8b8, op=129, val1=1, ptimeout=0xb7f7b8b8, addr2=0xb7f7aa20, val3=17
+  futex=0, cmd=1 (FUTEX_WAKE)
+  futex at 0xb7f7b8b8: 0 processes woken up
+  ret=(0, 0x0)
+system call 'futex' (code 240, inst 540130, pid 1000)
+  addr1=0xb7dd5ba8, op=0, val1=1001, ptimeout=0x0, addr2=0xb7f95ff4, val3=-1210229952
+  futex=1001, cmd=0 (FUTEX_WAIT)
+  ret=(0, 0x0)
+system call 'madvise' (code 219, inst 548968, pid 1001)
+  start=0xb75d5000, len=8372224, advice=4
+  ret=(0, 0x0)
+system call 'exit' (code 1, inst 549099, pid 1001)
+  status=0x0
+  futex 0xb7dd5ba8: thread 1000 woken up
+ctx 1001: processing robust futex list
+  lock_entry=0xb7dd5bb0: offset=-20, lock_word=0x0
+  ret=(0, 0x0)
+system call 'exit_group' (code 252, inst 559160, pid 1000)
+  status=0
+  ret=(0, 0x0)
+
+
+**
+** System calls summary:
+**
+
+System call          Count
+------------------------------
+exit                 1
+read                 2
+write                2
+open                 3
+close                3
+access               4
+brk                  3
+munmap               1
+clone                1
+newuname             2
+mprotect             5
+rt_sigaction         2
+rt_sigprocmask       1
+getrlimit            1
+mmap2                11
+fstat64              4
+madvise              1
+futex                5
+set_thread_area      1
+exit_group           1
+set_tid_address      1
+set_robust_list      2
+

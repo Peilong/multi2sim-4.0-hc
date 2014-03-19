@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/1-mem-config
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/report.pipeline
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/run.bash
+END
+segmentation_acc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/segmentation_acc.c
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/1-cpu-config
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/report.mem
+END
+segmentation_acc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/segmentation_acc.h
+END
+seg-test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/seg-test
+END
+seg-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/seg-test.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/segmentation-only/Makefile
+END

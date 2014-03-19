@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/1-mem-config
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/report.pipeline
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/run.bash
+END
+debug.mem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/debug.mem
+END
+hello
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/hello
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/hello.c
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/1-cpu-config
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/report.mem
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/HelloWorld/Makefile
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/report.pipeline
+END
+2-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/2-mem-config
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/run.bash
+END
+smithwaterman.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/smithwaterman.c
+END
+jacobi-smithwaterman
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/jacobi-smithwaterman
+END
+jacobi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/jacobi.c
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/report.mem
+END
+2-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/2-cpu-config
+END
+jacobi-smithwaterman.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/jacobi-smithwaterman.c
+END
+smithwaterman.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/smithwaterman.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/Makefile
+END
+jacobi.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/jacobi-smithwaterman/jacobi.h
+END

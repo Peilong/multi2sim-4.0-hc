@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/1-mem-config
+END
+output
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/output
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/run.bash
+END
+smithwaterman-test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/smithwaterman-test
+END
+cache_access_pattern
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/cache_access_pattern
+END
+smithwaterman-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/smithwaterman-test.c
+END
+report.pipeline.acc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/report.pipeline.acc
+END
+smithwaterman.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/smithwaterman.c
+END
+Smithwaterman_cache_access
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/Smithwaterman_cache_access
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/1-cpu-config
+END
+smithwaterman.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/smithwaterman.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/Makefile
+END
+report.mem.acc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/smithwaterman/report.mem.acc
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/run.bash
+END
+debug.loader.threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/debug.loader.threadtest
+END
+mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/mem-config
+END
+trace.threadtest.gz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/trace.threadtest.gz
+END
+debug.syscall.threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/debug.syscall.threadtest
+END
+report.pipeline.threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/report.pipeline.threadtest
+END
+debug.call.threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/debug.call.threadtest
+END
+debug.isa.threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/debug.isa.threadtest
+END
+threadtest
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/threadtest
+END
+threadtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/threadtest.c
+END
+cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/threadtest/cpu-config
+END

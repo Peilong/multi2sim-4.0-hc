@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/1-mem-config
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/report.pipeline
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/run.bash
+END
+cache_access_pattern
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/cache_access_pattern
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/des.h
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/1-cpu-config
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/report.mem
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/des.c
+END
+3des-only
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/3des-only
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/Makefile
+END
+3des-only.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/3des-only/3des-only.c
+END

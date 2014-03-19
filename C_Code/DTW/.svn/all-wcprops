@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW
+END
+0.uwv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/0.uwv
+END
+results_delay_100000
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_delay_100000
+END
+results_delay_10000000
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_delay_10000000
+END
+2-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/2-mem-config
+END
+1.uwv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/1.uwv
+END
+2.uwv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/2.uwv
+END
+results_2
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_2
+END
+3.uwv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/3.uwv
+END
+4.uwv
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/4.uwv
+END
+results_3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_3
+END
+rawSignalInput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/rawSignalInput.txt
+END
+2-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/2-cpu-config
+END
+compSignalInput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/compSignalInput.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/README
+END
+results_delay_0
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_delay_0
+END
+log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/log.txt
+END
+results_delay_1000000
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_delay_1000000
+END
+results_delay_100000000
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results_delay_100000000
+END
+LoadFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/LoadFile.cpp
+END
+results
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/results
+END
+run-without-acc.bash
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/run-without-acc.bash
+END
+LoadFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/LoadFile.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/Main.cpp
+END
+SensorProcessing
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/SensorProcessing
+END
+uWave.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/uWave.c
+END
+gestureSignalInput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/gestureSignalInput.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/Makefile
+END
+run-with-acc.bash
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/run-with-acc.bash
+END
+uWave.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/DTW/uWave.h
+END

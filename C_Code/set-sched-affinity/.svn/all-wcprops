@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity
+END
+debug.syscall.cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/debug.syscall.cpuaffinity
+END
+report.pipeline.cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/report.pipeline.cpuaffinity
+END
+debug.call.cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/debug.call.cpuaffinity
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/run.bash
+END
+cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/cpuaffinity
+END
+debug.isa.cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/debug.isa.cpuaffinity
+END
+mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/mem-config
+END
+cpuaffinity.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/cpuaffinity.c
+END
+cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/cpu-config
+END
+debug.loader.cpuaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/debug.loader.cpuaffinity
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/set-sched-affinity/Makefile
+END

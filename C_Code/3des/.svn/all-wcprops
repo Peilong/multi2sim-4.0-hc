@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des
+END
+1-mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/1-mem-config
+END
+report.pipeline
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.pipeline
+END
+report.mem.access.all.cycles
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.mem.access.all.cycles
+END
+report.mem.all.cycles
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.mem.all.cycles
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/run.bash
+END
+1-cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/1-cpu-config
+END
+3des-cache-set-access-distribution.ods
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/3des-cache-set-access-distribution.ods
+END
+report.mem
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.mem
+END
+des_fpga.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/des_fpga.tcl
+END
+3des-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/3des-test.c
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/des.c
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/des.h
+END
+3des_cache_access
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/3des_cache_access
+END
+report.pipeline.acc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.pipeline.acc
+END
+gmon.out
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/gmon.out
+END
+3des-cache-set-access-distribution.xls
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/3des-cache-set-access-distribution.xls
+END
+3des-test
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/3des-test
+END
+report.mem.acc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/report.mem.acc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/13/C_Code/3des/Makefile
+END

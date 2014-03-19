@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/evergreen/emu
+END
+opencl-kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-kernel.c
+END
+opencl-event.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-event.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/Makefile.in
+END
+opencl-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-context.c
+END
+opencl-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-platform.c
+END
+machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/machine.c
+END
+opencl.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl.dat
+END
+opengl-bin-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opengl-bin-file.c
+END
+evergreen-emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/evergreen-emu.h
+END
+wavefront.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/wavefront.c
+END
+work-group.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/work-group.c
+END
+isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/isa.c
+END
+opencl-device.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-device.c
+END
+opencl-command-queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-command-queue.c
+END
+ndrange.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/ndrange.c
+END
+work-item.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/work-item.c
+END
+opencl-sampler.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-sampler.c
+END
+opencl-repo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-repo.c
+END
+bin-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/bin-file.c
+END
+opencl-program.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-program.c
+END
+emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/emu.c
+END
+opencl-api.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-api.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/evergreen/emu/Makefile
+END
+opencl-mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/emu/opencl-mem.c
+END

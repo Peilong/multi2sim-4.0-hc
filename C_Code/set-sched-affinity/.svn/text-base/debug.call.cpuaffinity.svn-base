@@ -1,0 +1,3673 @@
+0x11d2 - call to 0x4cb0
+| 0x4cb9 - call to 0x1904b
+| | 0x1904e - ret to 0x4cbe
+| 0x4ecd - call to 0xad00
+| | 0xad0d - call to 0x1904b
+| | | 0x1904e - ret to 0xad12
+| | 0xad82 - ret to 0x4ed2
+| 0x4f26 - call to 0x14b50
+| | 0x14b5e - call to 0x1904b
+| | | 0x1904e - ret to 0x14b63
+| | 0x14d71 - call to 0x16420
+| | | 0x1642e - call to 0x1904b
+| | | | 0x1904e - ret to 0x16433
+system call 'brk' (code 45, inst 5770, pid 1000)
+| | | 0x1645e - ret to 0x14d76
+| | 0x14d9a - call to 0x16480
+| | | 0x16487 - call to 0x1904b
+| | | | 0x1904e - ret to 0x1648c
+| | | 0x164e5 - ret to 0x14d9f
+| | 0x14dd8 - call to 0x2020
+| | | 0x2026 - call to 0x1904b
+| | | | 0x1904e - ret to 0x202b
+| | | 0x2076 - call to 0x1720
+| | | | 0x1726 - call to 0x1904b
+| | | | | 0x1904e - ret to 0x172b
+| | | | 0x1773 - call to 0x15b50
+| | | | | 0x15b73 - ret to 0x1778
+| | | | 0x1826 - ret to 0x207b
+| | | 0x2274 - call to 0xae90
+| | | | 0xae94 - call to 0x1904b
+| | | | | 0x1904e - ret to 0xae99
+| | | | 0xaeb5 - call to 0x18780
+| | | | | 0x1883a - ret to 0xaeba
+| | | | 0xaeeb - call to 0x7e0
+| | | | | 0x15d6d - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x15d72
+| | | | | 0x15d97 - call to 0x7d0
+| | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | 0x15dab - ret to 0xaef0
+| | | | 0xaf31 - call to 0x18ed0
+| | | | | 0x18f25 - ret to 0xaf36
+| | | | 0xb0b9 - ret to 0x2279
+| | | 0x22b0 - call to 0xade0
+| | | | 0xade7 - call to 0x1904b
+| | | | | 0x1904e - ret to 0xadec
+| | | | 0xae0b - call to 0x1240
+| | | | | 0x1248 - ret to 0xae11
+| | | | 0xae6f - call to 0x1250
+| | | | | 0x1258 - ret to 0xae75
+| | | | 0xae88 - ret to 0x22b5
+| | | 0x2458 - call to 0x186c0
+| | | | 0x186e4 - ret to 0x245d
+| | | 0x26e0 - call to 0xad00
+| | | | 0xad0d - call to 0x1904b
+| | | | | 0x1904e - ret to 0xad12
+| | | | 0xad82 - ret to 0x26e5
+| | | 0x2b9a - call to 0x15950
+| | | | 0x15954 - call to 0x1904b
+| | | | | 0x1904e - ret to 0x15959
+| | | | 0x15a4f - call to 0x182c0
+system call 'newuname' (code 122, inst 14569, pid 1000)
+| | | | | 0x182d6 - ret to 0x15a54
+| | | | 0x15ac3 - ret to 0x2b9f
+| | | 0x2bcc - call to 0x7e10
+| | | | 0x7e16 - call to 0x1904b
+| | | | | 0x1904e - ret to 0x7e1b
+| | | | 0x7e42 - call to 0x15210
+| | | | | 0x15216 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x1521b
+| | | | | 0x153bc - call to 0x18150
+system call 'access' (code 33, inst 15405, pid 1000)
+| | | | | | 0x1816b - call to 0x19047
+| | | | | | | 0x1904a - ret to 0x18170
+| | | | | | 0x1816a - ret to 0x153c1
+| | | | | 0x155e1 - call to 0x7d0
+| | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | 0x15d47 - ret to 0x155e6
+| | | | | 0x158da - call to 0x18e10
+| | | | | | 0x18e31 - ret to 0x158df
+| | | | | 0x153fb - ret to 0x7e47
+| | | | 0x7e57 - call to 0x7d0
+| | | | | 0x15d21 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x15d26
+| | | | | 0x15d3e - call to 0x7c0
+| | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | 0x15d47 - ret to 0x7e5c
+| | | | 0x7e91 - call to 0x7d0
+| | | | | 0x15d21 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x15d26
+| | | | | 0x15d3e - call to 0x7c0
+| | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | 0x15ca4 - call to 0x181e0
+system call 'mmap2' (code 192, inst 16881, pid 1000)
+| | | | | | | 0x1821e - ret to 0x15ca9
+| | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | 0x15d47 - ret to 0x7e96
+| | | | 0x80e9 - ret to 0x2bd1
+| | | 0x2bd9 - call to 0xfa50
+| | | | 0xfa58 - call to 0x1904b
+| | | | | 0x1904e - ret to 0xfa5d
+| | | | 0xfabd - ret to 0x2bde
+| | | 0x2ced - call to 0xfa40
+| | | | 0x2d3c - call to 0x18150
+system call 'access' (code 33, inst 18590, pid 1000)
+| | | | | 0x1816b - call to 0x19047
+| | | | | | 0x1904a - ret to 0x18170
+| | | | | 0x1816a - ret to 0x2d41
+| | | | 0x2d85 - call to 0xd560
+| | | | | 0xd5aa - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xd5af
+| | | | | 0xd708 - call to 0x18500
+| | | | | | 0x18691 - ret to 0xd70d
+| | | | | 0xd731 - call to 0xf030
+| | | | | | 0xf032 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf037
+| | | | | | 0xf057 - call to 0x1220
+| | | | | | | 0x1220 - call to 0x19047
+| | | | | | | | 0x1904a - ret to 0x1225
+| | | | | | | 0x1231 - ret to 0xf05d
+| | | | | | 0xf079 - call to 0x18320
+| | | | | | | 0x1833e - ret to 0xf07e
+| | | | | | 0xf098 - call to 0xd500
+| | | | | | | 0xd543 - call to 0x82c0
+| | | | | | | | 0x82d5 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x82da
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x894a - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x894f
+| | | | | | | | 0x839f - call to 0x18500
+| | | | | | | | | 0x18691 - ret to 0x83a4
+| | | | | | | | 0x8501 - call to 0x18780
+| | | | | | | | | 0x1883a - ret to 0x8506
+| | | | | | | | 0x87ab - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x87b0
+| | | | | | | | 0x886f - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x8874
+| | | | | | | | 0x8617 - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x861c
+| | | | | | | | 0x863d - call to 0x8f20
+| | | | | | | | | 0x8f24 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x8f29
+| | | | | | | | | 0x9164 - call to 0x10000
+| | | | | | | | | | 0x1000d - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x10012
+| | | | | | | | | | 0x1003c - call to 0x18010
+system call 'open' (code 5, inst 24121, pid 1000)
+| | | | | | | | | | | 0x1802c - ret to 0x10041
+| | | | | | | | | | 0x10062 - call to 0x17f90
+| | | | | | | | | | | 0x17f95 - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x17f9a
+system call 'fstat64' (code 197, inst 24343, pid 1000)
+| | | | | | | | | | | 0x17fb7 - ret to 0x10067
+| | | | | | | | | | 0x100cb - call to 0x181e0
+system call 'mmap2' (code 192, inst 24520, pid 1000)
+| | | | | | | | | | | 0x1821e - ret to 0x100d0
+| | | | | | | | | | 0x10078 - call to 0x18050
+system call 'close' (code 6, inst 24690, pid 1000)
+| | | | | | | | | | | 0x18066 - ret to 0x1007d
+| | | | | | | | | | 0x100a3 - ret to 0x9169
+| | | | | | | | | 0x91a2 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18cb5 - ret to 0x91a7
+| | | | | | | | | 0x91f0 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18b36 - ret to 0x91f5
+| | | | | | | | | 0x8fe1 - call to 0x18150
+system call 'access' (code 33, inst 25813, pid 1000)
+| | | | | | | | | | 0x1816b - call to 0x19047
+| | | | | | | | | | | 0x1904a - ret to 0x18170
+| | | | | | | | | | 0x1816a - ret to 0x8fe6
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8ee3 - ret to 0x9085
+| | | | | | | | | 0x92ef - call to 0x8dc0
+| | | | | | | | | | 0x8ee3 - ret to 0x92f4
+| | | | | | | | | 0x92ef - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x92f4
+| | | | | | | | | 0x90a3 - ret to 0x8642
+| | | | | | | | 0x869b - call to 0x59b0
+| | | | | | | | | 0x59c0 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x59c5
+| | | | | | | | | 0x5a46 - call to 0x18010
+system call 'open' (code 5, inst 31409, pid 1000)
+| | | | | | | | | | 0x1802c - ret to 0x5a4b
+| | | | | | | | | 0x5a76 - call to 0x18090
+system call 'read' (code 3, inst 31518, pid 1000)
+| | | | | | | | | | 0x180ac - ret to 0x5a7b
+| | | | | | | | | 0x5aa0 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18b36 - ret to 0x5aa5
+| | | | | | | | | 0x5ad7 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18cb5 - ret to 0x5adc
+| | | | | | | | | 0x5bd6 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18d52 - ret to 0x5bdb
+| | | | | | | | | 0x5bd6 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18b36 - ret to 0x5bdb
+| | | | | | | | | 0x5c4e - ret to 0x86a0
+| | | | | | | | 0x86af - call to 0x54d0
+| | | | | | | | | 0x54d7 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x54dc
+| | | | | | | | | 0x54ef - call to 0x18780
+| | | | | | | | | | 0x1883a - ret to 0x54f4
+| | | | | | | | | 0x54fa - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x54ff
+| | | | | | | | | 0x5512 - call to 0x18ed0
+| | | | | | | | | | 0x18f25 - ret to 0x5517
+| | | | | | | | | 0x5526 - ret to 0x86b4
+| | | | | | | | 0x847b - call to 0x63a0
+| | | | | | | | | 0x63a6 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x63ab
+| | | | | | | | | 0x63c8 - call to 0xfa50
+| | | | | | | | | | 0xfa58 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xfa5d
+| | | | | | | | | | 0xfae5 - ret to 0x63cd
+| | | | | | | | | 0x63ee - call to 0x17f90
+| | | | | | | | | | 0x17f95 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x17f9a
+system call 'fstat64' (code 197, inst 34261, pid 1000)
+| | | | | | | | | | 0x17fb7 - ret to 0x63f3
+| | | | | | | | | 0x6513 - call to 0xae90
+| | | | | | | | | | 0xae94 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xae99
+| | | | | | | | | | 0xaeb5 - call to 0x18780
+| | | | | | | | | | | 0x1883a - ret to 0xaeba
+| | | | | | | | | | 0xaeeb - call to 0x7e0
+| | | | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | | | 0x15dab - ret to 0xaef0
+| | | | | | | | | | 0xaf31 - call to 0x18ed0
+| | | | | | | | | | | 0x18f25 - ret to 0xaf36
+| | | | | | | | | | 0xb01d - call to 0x18780
+| | | | | | | | | | | 0x1883a - ret to 0xb022
+| | | | | | | | | | 0xb136 - call to 0x7d0
+| | | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | | 0x15d47 - ret to 0xb13b
+| | | | | | | | | | 0xb15b - call to 0x18e10
+| | | | | | | | | | | 0x18e31 - ret to 0xb160
+| | | | | | | | | | 0xb0b9 - ret to 0x6518
+| | | | | | | | | 0x68a7 - call to 0x181e0
+system call 'mmap2' (code 192, inst 37416, pid 1000)
+| | | | | | | | | | 0x1821e - ret to 0x68ac
+| | | | | | | | | 0x6a09 - call to 0x181e0
+system call 'mmap2' (code 192, inst 37671, pid 1000)
+| | | | | | | | | | 0x1821e - ret to 0x6a0e
+| | | | | | | | | 0x6992 - call to 0x18dc0
+| | | | | | | | | | 0x18e02 - ret to 0x6997
+| | | | | | | | | 0x6c6f - call to 0x18050
+system call 'close' (code 6, inst 39788, pid 1000)
+| | | | | | | | | | 0x18066 - ret to 0x6c74
+| | | | | | | | | 0x6ca8 - call to 0xad00
+| | | | | | | | | | 0xad0d - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xad12
+| | | | | | | | | | 0xad82 - ret to 0x6cad
+| | | | | | | | | 0x6d0a - call to 0xade0
+| | | | | | | | | | 0xade7 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xadec
+| | | | | | | | | | 0xae0b - call to 0x1240
+| | | | | | | | | | | 0x1248 - ret to 0xae11
+| | | | | | | | | | 0xae6f - call to 0x1250
+| | | | | | | | | | | 0x1258 - ret to 0xae75
+| | | | | | | | | | 0xae88 - ret to 0x6d0f
+| | | | | | | | | 0x6d26 - ret to 0x8480
+| | | | | | | | 0x848e - ret to 0xd548
+| | | | | | | 0xd55d - ret to 0xf09f
+| | | | | | 0xf0d1 - ret to 0xd736
+| | | | | 0xd708 - call to 0x18500
+| | | | | | 0x18691 - ret to 0xd70d
+| | | | | 0xd731 - call to 0xf030
+| | | | | | 0xf032 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf037
+| | | | | | 0xf057 - call to 0x1220
+| | | | | | | 0x1220 - call to 0x19047
+| | | | | | | | 0x1904a - ret to 0x1225
+| | | | | | | 0x1231 - ret to 0xf05d
+| | | | | | 0xf079 - call to 0x18320
+| | | | | | | 0x1833e - ret to 0xf07e
+| | | | | | 0xf098 - call to 0xd500
+| | | | | | | 0xd543 - call to 0x82c0
+| | | | | | | | 0x82d5 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x82da
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x894a - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x894f
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x894a - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x894f
+| | | | | | | | 0x839f - call to 0x18500
+| | | | | | | | | 0x18691 - ret to 0x83a4
+| | | | | | | | 0x8501 - call to 0x18780
+| | | | | | | | | 0x1883a - ret to 0x8506
+| | | | | | | | 0x87ab - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x87b0
+| | | | | | | | 0x886f - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x8874
+| | | | | | | | 0x8617 - call to 0x7da0
+| | | | | | | | | 0x7dcc - ret to 0x861c
+| | | | | | | | 0x863d - call to 0x8f20
+| | | | | | | | | 0x8f24 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x8f29
+| | | | | | | | | 0x8fe1 - call to 0x18150
+system call 'access' (code 33, inst 43112, pid 1000)
+| | | | | | | | | | 0x1816b - call to 0x19047
+| | | | | | | | | | | 0x1904a - ret to 0x18170
+| | | | | | | | | | 0x1816a - ret to 0x8fe6
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x9085
+| | | | | | | | | 0x9080 - call to 0x8dc0
+| | | | | | | | | | 0x8ee3 - ret to 0x9085
+| | | | | | | | | 0x92ef - call to 0x8dc0
+| | | | | | | | | | 0x8f04 - ret to 0x92f4
+| | | | | | | | | 0x9334 - call to 0x8dc0
+| | | | | | | | | | 0x8ee3 - ret to 0x9339
+| | | | | | | | | 0x90a3 - ret to 0x8642
+| | | | | | | | 0x869b - call to 0x59b0
+| | | | | | | | | 0x59c0 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x59c5
+| | | | | | | | | 0x5a46 - call to 0x18010
+system call 'open' (code 5, inst 47191, pid 1000)
+| | | | | | | | | | 0x1802c - ret to 0x5a4b
+| | | | | | | | | 0x5a76 - call to 0x18090
+system call 'read' (code 3, inst 47246, pid 1000)
+| | | | | | | | | | 0x180ac - ret to 0x5a7b
+| | | | | | | | | 0x5aa0 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18b36 - ret to 0x5aa5
+| | | | | | | | | 0x5ad7 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18cb5 - ret to 0x5adc
+| | | | | | | | | 0x5bd6 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18d52 - ret to 0x5bdb
+| | | | | | | | | 0x5bd6 - call to 0x18a80
+| | | | | | | | | | 0x18ab2 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x18ab7
+| | | | | | | | | | 0x18b36 - ret to 0x5bdb
+| | | | | | | | | 0x5c4e - ret to 0x86a0
+| | | | | | | | 0x86af - call to 0x54d0
+| | | | | | | | | 0x54d7 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x54dc
+| | | | | | | | | 0x54ef - call to 0x18780
+| | | | | | | | | | 0x1883a - ret to 0x54f4
+| | | | | | | | | 0x54fa - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x54ff
+| | | | | | | | | 0x5512 - call to 0x18ed0
+| | | | | | | | | | 0x18f25 - ret to 0x5517
+| | | | | | | | | 0x5526 - ret to 0x86b4
+| | | | | | | | 0x847b - call to 0x63a0
+| | | | | | | | | 0x63a6 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x63ab
+| | | | | | | | | 0x63c8 - call to 0xfa50
+| | | | | | | | | | 0xfa58 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xfa5d
+| | | | | | | | | | 0xfae5 - ret to 0x63cd
+| | | | | | | | | 0x63ee - call to 0x17f90
+| | | | | | | | | | 0x17f95 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x17f9a
+system call 'fstat64' (code 197, inst 48811, pid 1000)
+| | | | | | | | | | 0x17fb7 - ret to 0x63f3
+| | | | | | | | | 0x6513 - call to 0xae90
+| | | | | | | | | | 0xae94 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xae99
+| | | | | | | | | | 0xaeb5 - call to 0x18780
+| | | | | | | | | | | 0x1883a - ret to 0xaeba
+| | | | | | | | | | 0xaeeb - call to 0x7e0
+| | | | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | | | 0x15dab - ret to 0xaef0
+| | | | | | | | | | 0xaf31 - call to 0x18ed0
+| | | | | | | | | | | 0x18f25 - ret to 0xaf36
+| | | | | | | | | | 0xb01d - call to 0x18780
+| | | | | | | | | | | 0x1883a - ret to 0xb022
+| | | | | | | | | | 0xb136 - call to 0x7d0
+| | | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | | 0x15d47 - ret to 0xb13b
+| | | | | | | | | | 0xb15b - call to 0x18e10
+| | | | | | | | | | | 0x18e31 - ret to 0xb160
+| | | | | | | | | | 0xb0b9 - ret to 0x6518
+| | | | | | | | | 0x6696 - call to 0x11710
+| | | | | | | | | | 0x11717 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x1171c
+| | | | | | | | | | 0x11759 - ret to 0x669b
+| | | | | | | | | 0x68a7 - call to 0x181e0
+system call 'mmap2' (code 192, inst 51502, pid 1000)
+| | | | | | | | | | 0x1821e - ret to 0x68ac
+| | | | | | | | | 0x6a5c - call to 0x18280
+system call 'mprotect' (code 125, inst 51633, pid 1000)
+| | | | | | | | | | 0x1829c - ret to 0x6a61
+| | | | | | | | | 0x6a09 - call to 0x181e0
+system call 'mmap2' (code 192, inst 51946, pid 1000)
+| | | | | | | | | | 0x1821e - ret to 0x6a0e
+| | | | | | | | | 0x6992 - call to 0x18dc0
+| | | | | | | | | | 0x18e02 - ret to 0x6997
+| | | | | | | | | 0x6f1b - call to 0x181e0
+system call 'mmap2' (code 192, inst 52373, pid 1000)
+| | | | | | | | | | 0x1821e - ret to 0x6f20
+| | | | | | | | | 0x6c6f - call to 0x18050
+system call 'close' (code 6, inst 53552, pid 1000)
+| | | | | | | | | | 0x18066 - ret to 0x6c74
+| | | | | | | | | 0x6ca8 - call to 0xad00
+| | | | | | | | | | 0xad0d - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xad12
+| | | | | | | | | | 0xad82 - ret to 0x6cad
+| | | | | | | | | 0x6d0a - call to 0xade0
+| | | | | | | | | | 0xade7 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0xadec
+| | | | | | | | | | 0xae0b - call to 0x1240
+| | | | | | | | | | | 0x1248 - ret to 0xae11
+| | | | | | | | | | 0xae6f - call to 0x1250
+| | | | | | | | | | | 0x1258 - ret to 0xae75
+| | | | | | | | | | 0xae88 - ret to 0x6d0f
+| | | | | | | | | 0x6d26 - ret to 0x8480
+| | | | | | | | 0x848e - ret to 0xd548
+| | | | | | | 0xd55d - ret to 0xf09f
+| | | | | | 0xf0d1 - ret to 0xd736
+| | | | | 0xd708 - call to 0x18500
+| | | | | | 0x18691 - ret to 0xd70d
+| | | | | 0xd731 - call to 0xf030
+| | | | | | 0xf032 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf037
+| | | | | | 0xf057 - call to 0x1220
+| | | | | | | 0x1220 - call to 0x19047
+| | | | | | | | 0x1904a - ret to 0x1225
+| | | | | | | 0x1231 - ret to 0xf05d
+| | | | | | 0xf079 - call to 0x18320
+| | | | | | | 0x1833e - ret to 0xf07e
+| | | | | | 0xf098 - call to 0xd500
+| | | | | | | 0xd543 - call to 0x82c0
+| | | | | | | | 0x82d5 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x82da
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x834c
+| | | | | | | | 0x835c - ret to 0xd548
+| | | | | | | 0xd55d - ret to 0xf09f
+| | | | | | 0xf0d1 - ret to 0xd736
+| | | | | 0xd708 - call to 0x18500
+| | | | | | 0x18691 - ret to 0xd70d
+| | | | | 0xd731 - call to 0xf030
+| | | | | | 0xf032 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf037
+| | | | | | 0xf057 - call to 0x1220
+| | | | | | | 0x1220 - call to 0x19047
+| | | | | | | | 0x1904a - ret to 0x1225
+| | | | | | | 0x1231 - ret to 0xf05d
+| | | | | | 0xf079 - call to 0x18320
+| | | | | | | 0x1833e - ret to 0xf07e
+| | | | | | 0xf098 - call to 0xd500
+| | | | | | | 0xd543 - call to 0x82c0
+| | | | | | | | 0x82d5 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x82da
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x894a - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x894f
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x894a - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x894f
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x834c
+| | | | | | | | 0x835c - ret to 0xd548
+| | | | | | | 0xd55d - ret to 0xf09f
+| | | | | | 0xf0d1 - ret to 0xd736
+| | | | | 0xd7e1 - call to 0x7d0
+| | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | 0x15d47 - ret to 0xd7e6
+| | | | | 0xd812 - call to 0x18ed0
+| | | | | | 0x18f25 - ret to 0xd817
+| | | | | 0xd82f - call to 0x18ed0
+| | | | | | 0x18f25 - ret to 0xd834
+| | | | | 0xd708 - call to 0x18500
+| | | | | | 0x18691 - ret to 0xd70d
+| | | | | 0xd731 - call to 0xf030
+| | | | | | 0xf032 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf037
+| | | | | | 0xf057 - call to 0x1220
+| | | | | | | 0x1220 - call to 0x19047
+| | | | | | | | 0x1904a - ret to 0x1225
+| | | | | | | 0x1231 - ret to 0xf05d
+| | | | | | 0xf079 - call to 0x18320
+| | | | | | | 0x1833e - ret to 0xf07e
+| | | | | | 0xf098 - call to 0xd500
+| | | | | | | 0xd543 - call to 0x82c0
+| | | | | | | | 0x82d5 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x82da
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x834c
+| | | | | | | | 0x8347 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x834c
+| | | | | | | | 0x835c - ret to 0xd548
+| | | | | | | 0xd55d - ret to 0xf09f
+| | | | | | 0xf0d1 - ret to 0xd736
+| | | | | 0xd7e1 - call to 0x7d0
+| | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | 0x15d47 - ret to 0xd7e6
+| | | | | 0xd812 - call to 0x18ed0
+| | | | | | 0x18f25 - ret to 0xd817
+| | | | | 0xd82f - call to 0x18ed0
+| | | | | | 0x18f25 - ret to 0xd834
+| | | | | 0xd942 - call to 0x7d0
+| | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | 0x15d47 - ret to 0xd947
+| | | | | 0xe342 - call to 0x18ed0
+| | | | | | 0x18f25 - ret to 0xe347
+| | | | | 0xdb56 - call to 0x18dc0
+| | | | | | 0x18e02 - ret to 0xdb5b
+| | | | | 0xdbfa - call to 0x18dc0
+| | | | | | 0x18e02 - ret to 0xdbff
+| | | | | 0xdbfa - call to 0x18dc0
+| | | | | | 0x18e02 - ret to 0xdbff
+| | | | | 0xdcab - ret to 0x2d8a
+| | | | 0x2e4f - call to 0xf110
+| | | | | 0xf117 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xf11c
+| | | | | 0xf134 - call to 0x1220
+| | | | | | 0x1220 - call to 0x19047
+| | | | | | | 0x1904a - ret to 0x1225
+| | | | | | 0x1231 - ret to 0xf13a
+| | | | | 0xf15d - call to 0x4c50
+| | | | | | 0x4c5c - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x4c61
+| | | | | | 0x4c78 - call to 0x10a60
+| | | | | | | 0x10a6b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x10a70
+| | | | | | | 0x10aa4 - call to 0x105f0
+| | | | | | | | 0x10607 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1060c
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x106ac
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x106ac
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10838 - call to 0x7e0
+| | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | 0x15dab - ret to 0x1083d
+| | | | | | | | 0x10823 - ret to 0x10aa9
+| | | | | | | 0x10aa4 - call to 0x105f0
+| | | | | | | | 0x10607 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1060c
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x106ac
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x106ac
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10838 - call to 0x7e0
+| | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | 0x15dab - ret to 0x1083d
+| | | | | | | | 0x10938 - ret to 0x10aa9
+| | | | | | | 0x10aa4 - call to 0x105f0
+| | | | | | | | 0x10607 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1060c
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x106ac
+| | | | | | | | 0x106a7 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x101dd
+| | | | | | | | | 0x101ee - ret to 0x106ac
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10724 - call to 0x10270
+| | | | | | | | | 0x10278 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1027d
+| | | | | | | | | 0x103c5 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x103ca
+| | | | | | | | | 0x103e0 - ret to 0x10729
+| | | | | | | | 0x10838 - call to 0x7e0
+| | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | 0x15dab - ret to 0x1083d
+| | | | | | | | 0x10938 - ret to 0x10aa9
+| | | | | | | 0x10aa4 - call to 0x105f0
+| | | | | | | | 0x10607 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1060c
+| | | | | | | | 0x10838 - call to 0x7e0
+| | | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | | 0x15dab - ret to 0x1083d
+| | | | | | | | 0x10938 - ret to 0x10aa9
+| | | | | | | 0x10ac3 - ret to 0x4c7d
+| | | | | | 0x4c92 - ret to 0xf15f
+| | | | | 0xf186 - ret to 0x2e54
+| | | | 0x3621 - call to 0xc9f
+| | | | | 0xca1 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xca6
+| | | | | 0xcc7 - call to 0x7e0
+| | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | 0x15ca4 - call to 0x181e0
+system call 'mmap2' (code 192, inst 80254, pid 1000)
+| | | | | | | | | 0x1821e - ret to 0x15ca9
+| | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | 0x15dab - ret to 0xccc
+| | | | | 0xd5e - call to 0x11820
+| | | | | | 0x11824 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x11829
+| | | | | | 0x119ac - ret to 0xd63
+| | | | | 0xd63 - call to 0x11b40
+| | | | | | 0x11b47 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x11b4c
+| | | | | | 0x11b71 - call to 0x7c0
+| | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | 0x15ce5 - ret to 0x11b76
+| | | | | | 0x11bb3 - call to 0x116a0
+| | | | | | | 0x116a7 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x116ac
+| | | | | | | 0x116d0 - call to 0x7e0
+| | | | | | | | 0x15d6d - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x15d72
+| | | | | | | | 0x15d97 - call to 0x7d0
+| | | | | | | | | 0x15d21 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x15d26
+| | | | | | | | | 0x15d3e - call to 0x7c0
+| | | | | | | | | | 0x15c1b - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x15c20
+| | | | | | | | | | 0x15ce5 - ret to 0x15d43
+| | | | | | | | | 0x15d47 - ret to 0x15d9c
+| | | | | | | | 0x15dab - ret to 0x116d5
+| | | | | | | 0x116f5 - ret to 0x11bb8
+| | | | | | 0x11bcf - ret to 0xd68
+system call 'set_thread_area' (code 243, inst 82230, pid 1000)
+| | | | | 0xdf9 - ret to 0x3626
+| | | | 0x2e79 - call to 0x1f40
+| | | | | 0x1f47 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x1f4c
+| | | | | 0x1fa7 - ret to 0x2e7e
+| | | | 0x32b0 - call to 0xb4d0
+| | | | | 0xb4df - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xb4e4
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9929 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xcc5f - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xcc61
+| | | | | 0xcc5f - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xcc61
+| | | | | 0xcc5f - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xcc61
+| | | | | 0xcc5f - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xcc61
+| | | | | 0xb99f - call to 0xb3e0
+| | | | | | 0xb3ed - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xb3f2
+| | | | | | 0xb429 - call to 0x18280
+system call 'mprotect' (code 125, inst 201987, pid 1000)
+| | | | | | | 0x1829c - ret to 0xb42e
+| | | | | | 0xb43d - ret to 0xb9a4
+| | | | | 0xb9af - ret to 0x32b5
+| | | | 0x32cb - call to 0x12340
+| | | | | 0x12347 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x1234c
+| | | | | 0x123e9 - ret to 0x32d0
+| | | | 0x32b0 - call to 0xb4d0
+| | | | | 0xb4df - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xb4e4
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9929 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9929 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xb99f - call to 0xb3e0
+| | | | | | 0xb3ed - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xb3f2
+| | | | | | 0xb429 - call to 0x18280
+system call 'mprotect' (code 125, inst 216637, pid 1000)
+| | | | | | | 0x1829c - ret to 0xb42e
+| | | | | | 0xb43d - ret to 0xb9a4
+| | | | | 0xb9af - ret to 0x32b5
+| | | | 0x32b0 - call to 0xb4d0
+| | | | | 0xb4df - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xb4e4
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9929 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xb99f - call to 0xb3e0
+| | | | | | 0xb3ed - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xb3f2
+| | | | | | 0xb429 - call to 0x18280
+system call 'mprotect' (code 125, inst 219109, pid 1000)
+| | | | | | | 0x1829c - ret to 0xb42e
+| | | | | | 0xb43d - ret to 0xb9a4
+| | | | | 0xb9af - ret to 0x32b5
+| | | | 0x3328 - call to 0x11c30
+| | | | | 0x11c37 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0x11c3c
+| | | | | 0x11d04 - call to 0x18e10
+| | | | | | 0x18e31 - ret to 0x11d09
+| | | | | 0x11d20 - call to 0x18dc0
+| | | | | | 0x18e02 - ret to 0x11d25
+| | | | | 0x11de9 - ret to 0x332d
+| | | | 0x33f2 - call to 0xb4d0
+| | | | | 0xb4df - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xb4e4
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xbbe6 - call to 0x9ea0
+| | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | 0xa020 - ret to 0xbbeb
+| | | | | 0xb9af - ret to 0x33f7
+| | | | 0x3411 - call to 0x14fa0
+| | | | | 0x3428 - call to 0xfa50
+| | | | | | 0xfa58 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xfa5d
+| | | | | | 0xfae5 - ret to 0x342d
+| | | | | 0x3434 - call to 0xfa40
+| | | | | | 0x3439 - call to 0x9540
+| | | | | | | 0x9541 - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x9546
+| | | | | | | 0x956a - call to 0x18240
+system call 'munmap' (code 91, inst 233333, pid 1000)
+| | | | | | | | 0x1825a - ret to 0x956f
+| | | | | | | 0x957d - ret to 0x343e
+| | | | | | 0x3445 - ret to 0x14ddf
+| | | | | 0x14dea - ret to 0x4f2b
+| | | | 0x4f57 - ret to 0x11d7
+| | | 0x11d9 - call to 0x11c0
+| | | | 0x11c3 - ret to 0x11de
+| | | 0x120a - call to 0xf2f0
+| | | | 0xf2f6 - call to 0x1904b
+| | | | | 0x1904e - ret to 0xf2fb
+| | | | 0xf35f - call to 0xf190
+| | | | | 0xf1b0 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xf1b5
+| | | | | 0xf295 - ret to 0xf364
+| | | | 0xf35f - call to 0xf190
+| | | | | 0xf1b0 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xf1b5
+| | | | | 0xf217 - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xf219
+| | | | | 0xf277 - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xf27b
+| | | | | 0xf277 - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xf27b
+| | | | | 0xf277 - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to 0xf27b
+| | | | | 0xf295 - ret to 0xf364
+| | | | 0xf35f - call to 0xf190
+| | | | | 0xf1b0 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xf1b5
+| | | | | 0xf217 - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to 0xf219
+| | | | | | 0xf295 - ret to 0xf364
+| | | | | 0xf35f - call to 0xf190
+| | | | | | 0xf1b0 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf1b5
+| | | | | | 0xf295 - ret to 0xf364
+| | | | | 0xf370 - ret to 0x120f
+| | | | _start - call to _init
+| | | | | 0x14a7b - call to 0xe5a0
+| | | | | | 0xe5af - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xe5b4
+| | | | | | 0xe666 - call to 0x9ea0
+| | | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | | 0xa020 - ret to 0xe66b
+| | | | | | 0xe6b9 - ret to 0x14a80
+| | | | | 0x14a8b - ret to _end
+| | | | _end - call to _end
+| | | | | _end - ret to _end
+| | | | _end - call to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - ret to _end
+| | | | _end - call to __libc_csu_init
+| | | | | __libc_csu_init - call to __i686.get_pc_thunk.bx
+| | | | | | __i686.get_pc_thunk.bx - ret to __libc_csu_init
+| | | | | __libc_csu_init - call to _init
+| | | | | | _init - call to _init
+| | | | | | | _init - call to frame_dummy
+| | | | | | | | frame_dummy - ret to _init
+| | | | | | | _init - call to __do_global_ctors_aux
+| | | | | | | | __do_global_ctors_aux - ret to _init
+| | | | | | | _init - ret to __libc_csu_init
+| | | | | | __libc_csu_init - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to main
+| | | | | | main - call to _init
+| | | | | | | 0x14a7b - call to 0xe5a0
+| | | | | | | | 0xe5af - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0xe5b4
+| | | | | | | | 0xe666 - call to 0x9ea0
+| | | | | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | | | | 0xa020 - ret to 0xe66b
+| | | | | | | | 0xe6b9 - ret to 0x14a80
+| | | | | | | 0x14a8b - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to 0x11b0
+system call 'getpid' (code 20, inst 246943, pid 1000)
+| | | | | | | | 0x11b2 - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to 0x11b0
+system call 'sched_getaffinity' (code 242, inst 247131, pid 1000)
+| | | | | | | 0x11b2 - ret to _end
+| | | | | | _end - call to 0x11b0
+system call 'sched_setaffinity' (code 241, inst 247343, pid 1000)
+| | | | | | | 0x11b2 - ret to _end
+| | | | | | _end - ret to main
+| | | | | main - call to waste_time
+| | | | | | waste_time - ret to main
+| | | | | main - call to _init
+| | | | | | 0x14a7b - call to 0xe5a0
+| | | | | | | 0xe5af - call to 0x1904b
+| | | | | | | | 0x1904e - ret to 0xe5b4
+| | | | | | | 0xe666 - call to 0x9ea0
+| | | | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | | | 0xa020 - ret to 0xe66b
+| | | | | | | 0xe6b9 - ret to 0x14a80
+| | | | | | 0x14a8b - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - call to _end
+| | | | | | | | | | | | _end - call to _end
+| | | | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | | | _end - call to 0x11b0
+system call 'fstat64' (code 197, inst 257904, pid 1000)
+| | | | | | | | | | | | | 0x11b2 - ret to _end
+| | | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - call to 0x11b0
+system call 'mmap2' (code 192, inst 258324, pid 1000)
+| | | | | | | | | | | | 0x11b2 - ret to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - call to _end
+| | | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - call to _end
+| | | | | | | | | | | | _end - call to 0x11b0
+system call 'write' (code 4, inst 272940, pid 1000)
+| | | | | | | | | | | | | 0x11b2 - ret to _end
+| | | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | 0x14a7b - call to 0xe5a0
+| | | | | | | | 0xe5af - call to 0x1904b
+| | | | | | | | | 0x1904e - ret to 0xe5b4
+| | | | | | | | 0xe666 - call to 0x9ea0
+| | | | | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | | | | 0xa020 - ret to 0xe66b
+| | | | | | | | 0xe6b9 - ret to 0x14a80
+| | | | | | | 0x14a8b - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - ret to _end
+| | | | _end - ret to main
+| | | main - call to _init
+| | | | _end - call to _end
+| | | | | _end - ret to _end
+| | | | _end - call to 0x11b0
+system call 'sched_setaffinity' (code 241, inst 276425, pid 1000)
+| | | | | 0x11b2 - ret to _end
+| | | | _end - ret to main
+| | | main - call to waste_time
+| | | | waste_time - ret to main
+| | | main - call to _init
+| | | | _end - call to _end
+| | | | | _end - ret to _end
+| | | | _end - call to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - call to _end
+| | | | | | | | | | | _end - call to 0x11b0
+system call 'write' (code 4, inst 290678, pid 1000)
+| | | | | | | | | | | | 0x11b2 - ret to _end
+| | | | | | | | | | | _end - ret to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - ret to _end
+| | | | _end - ret to main
+| | | main - ret to _end
+| | _end - call to _end
+| | | _end - call to _end
+| | | | _end - ret to _end
+| | | _end - call to _end
+| | | | _end - call to _end
+| | | | | _end - ret to _end
+| | | | _end - call to 0xf650
+| | | | | 0xf656 - call to 0x1904b
+| | | | | | 0x1904e - ret to 0xf65b
+| | | | | 0xf6f1 - call to 0x1240
+| | | | | | 0x1248 - ret to 0xf6f4
+| | | | | 0xf798 - call to 0xf420
+| | | | | | 0xf429 - call to 0x1904b
+| | | | | | | 0x1904e - ret to 0xf42e
+| | | | | | 0xf47d - call to 0x18dc0
+| | | | | | | 0x18e02 - ret to 0xf482
+| | | | | | 0xf4c4 - call to 0x18dc0
+| | | | | | | 0x18e02 - ret to 0xf4c9
+| | | | | | 0xf4c4 - call to 0x18dc0
+| | | | | | | 0x18e02 - ret to 0xf4c9
+| | | | | | 0xf56d - ret to 0xf79d
+| | | | | 0xf7a6 - call to 0x1250
+| | | | | | 0x1258 - ret to 0xf7ac
+| | | | | 0xf833 - call to _fini
+| | | | | | _fini - call to _fini
+| | | | | | | _fini - call to __do_global_dtors_aux
+| | | | | | | | __do_global_dtors_aux - ret to _fini
+| | | | | | | _fini - ret to 0xf835
+| | | | | | 0xf833 - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | 0x14a7b - call to 0xe5a0
+| | | | | | | | | | | 0xe5af - call to 0x1904b
+| | | | | | | | | | | | 0x1904e - ret to 0xe5b4
+| | | | | | | | | | | 0xe666 - call to 0x9ea0
+| | | | | | | | | | | | 0x9ebc - call to 0x1904b
+| | | | | | | | | | | | | 0x1904e - ret to 0x9ec1
+| | | | | | | | | | | | 0x9fa4 - call to 0x97a0
+| | | | | | | | | | | | | 0x97c0 - call to 0x1904b
+| | | | | | | | | | | | | | 0x1904e - ret to 0x97c5
+| | | | | | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | | | | | 0x9900 - call to 0x10190
+| | | | | | | | | | | | | | 0x10197 - call to 0x1904b
+| | | | | | | | | | | | | | | 0x1904e - ret to 0x1019c
+| | | | | | | | | | | | | | 0x101af - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186e4 - ret to 0x101b4
+| | | | | | | | | | | | | | 0x101d8 - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186e4 - ret to 0x101dd
+| | | | | | | | | | | | | | 0x101fa - ret to 0x9905
+| | | | | | | | | | | | | 0x9d77 - call to 0x9600
+| | | | | | | | | | | | | | 0x961b - call to 0x1904b
+| | | | | | | | | | | | | | | 0x1904e - ret to 0x9620
+| | | | | | | | | | | | | | 0x9667 - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186d6 - ret to 0x966c
+| | | | | | | | | | | | | | 0x9728 - call to 0x186c0
+| | | | | | | | | | | | | | | 0x186d6 - ret to 0x972d
+| | | | | | | | | | | | | | 0x96d1 - ret to 0x9d7c
+| | | | | | | | | | | | | 0x9976 - ret to 0x9fa9
+| | | | | | | | | | | | 0xa020 - ret to 0xe66b
+| | | | | | | | | | | 0xe6b9 - ret to 0x14a80
+| | | | | | | | | | 0x14a8b - ret to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to 0xf835
+| | | | | | 0xf924 - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - call to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - call to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - call to _end
+| | | | | | | | | _end - call to _end
+| | | | | | | | | | _end - ret to _end
+| | | | | | | | | _end - ret to _end
+| | | | | | | | _end - ret to _end
+| | | | | | | _end - ret to _end
+| | | | | | _end - ret to _end
+| | | | | _end - call to _end
+| | | | | | _end - call to 0x11b0
+system call 'exit_group' (code 252, inst 300363, pid 1000)

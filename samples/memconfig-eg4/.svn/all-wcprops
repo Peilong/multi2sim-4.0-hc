@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/multi2sim-4.0-hc/!svn/ver/1/samples/memconfig-eg4
+END
+mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/1/samples/memconfig-eg4/mem-config
+END
+cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/1/samples/memconfig-eg4/cpu-config
+END
+gpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/multi2sim-4.0-hc/!svn/ver/1/samples/memconfig-eg4/gpu-config
+END

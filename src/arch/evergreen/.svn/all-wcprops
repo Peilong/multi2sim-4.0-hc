@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/evergreen
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/evergreen/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/evergreen/Makefile
+END

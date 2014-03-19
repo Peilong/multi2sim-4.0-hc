@@ -1,0 +1,6 @@
+jas_version.o: jas_version.c /usr/include/jasper/jas_version.h \
+ /usr/include/jasper/jas_config.h
+
+/usr/include/jasper/jas_version.h:
+
+/usr/include/jasper/jas_config.h:

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/Makefile.in
+END
+bmp_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/bmp_cod.c
+END
+bmp_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/bmp_enc.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/Makefile.am
+END
+bmp_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/bmp_cod.h
+END
+bmp_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/bmp_enc.h
+END
+bmp_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/bmp_dec.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/multi2sim-4.0-hc/!svn/ver/10/C_Code/jasper-1.701.0/src/libjasper/bmp/Makefile
+END

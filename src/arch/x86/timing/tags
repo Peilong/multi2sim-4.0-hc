@@ -1,0 +1,1109 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+ARFLAGS	Makefile	/^ARFLAGS = cru$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = mawk$/;"	m
+BTB_ENTRY	bpred.c	24;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -msse2 -O3 -std=gnu99 -DNDEBUG$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DATADIR	Makefile	/^DATADIR = ${prefix}\/share$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I.$/;"	m
+DEFS	Makefile	/^DEFS = -DPACKAGE_NAME=\\"\\" -DPACKAGE_TARNAME=\\"\\" -DPACKAGE_VERSION=\\"\\" -DPACKAGE_STRING=\\"\\" -DPACKAGE_BUGREPORT=\\"\\" -DPACKAGE_URL=\\"\\" -DPACKAGE=\\"multi2sim\\" -DVERSION=\\"4.0\\" -DSTDC_HEADERS=1 -DHAVE_SYS_WAIT_H=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_FCNTL_H=1 -DHAVE_FLOAT_H=1 -DHAVE_STDDEF_H=1 -DHAVE_STDINT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_SYS_IOCTL_H=1 -DHAVE_SYS_SOCKET_H=1 -DHAVE_SYS_TIME_H=1 -DHAVE_UNISTD_H=1 -DHAVE_UTIME_H=1 -DHAVE_ELF_H=1 -DHAVE_ZLIB_H=1 -DHAVE_LIBZ=1 -DHAVE_LIBGLUT=1 -DHAVE_LIBGL=1 -DHAVE_LIBGLU=1 -DHAVE_GLUT=1 -DHAVE_STRUCT_STAT_ST_BLKSIZE=1 -DHAVE_STRUCT_STAT_ST_BLOCKS=1 -DHAVE_ST_BLOCKS=1 -DHAVE_STRUCT_STAT_ST_RDEV=1 -DHAVE_UNISTD_H=1 -DHAVE_CHOWN=1 -DLSTAT_FOLLOWS_SLASHED_SYMLINK=1 -DHAVE_STDLIB_H=1 -DHAVE_MALLOC=1 -DHAVE_STDLIB_H=1 -DHAVE_UNISTD_H=1 -DHAVE_SYS_PARAM_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_STDLIB_H=1 -DHAVE_REALLOC=1 -DHAVE_ALARM=1 -DHAVE_BZERO=1 -DHAVE_FTRUNCATE=1 -DHAVE_GETCWD=1 -DHAVE_GETTIMEOFDAY=1 -DHAVE_MEMSET=1 -DHAVE_MKDIR=1 -DHAVE_MUNMAP=1 -DHAVE_SELECT=1 -DHAVE_SOCKET=1 -DHAVE_STRCASECMP=1 -DHAVE_STRCHR=1 -DHAVE_STRDUP=1 -DHAVE_STRNCASECMP=1 -DHAVE_STRTOL=1 -DHAVE_UTIME=1 -DHAVE_LIBM=1 -DHAVE_LIBPTHREAD=1 -DHAVE_GTK=1$/;"	m
+DELAY_TIME	stg-dispatch.c	26;"	d	file:
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DESAccFlag	stg-dispatch.c	/^int DESAccFlag    = 0;$/;"	v
+DESDelay	stg-dispatch.c	29;"	d	file:
+DES_delay	stg-dispatch.c	/^unsigned long DES_delay    = 0;$/;"	v
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(libtiming_a_SOURCES)$/;"	m
+DUMP_CORE_STRUCT_STATS	cpu.c	619;"	d	file:
+DUMP_DISPATCH_STAT	cpu.c	615;"	d	file:
+DUMP_FU_STAT	cpu.c	608;"	d	file:
+DUMP_THREAD_STRUCT_STATS	cpu.c	628;"	d	file:
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GTK_CFLAGS	Makefile	/^GTK_CFLAGS = -pthread -I\/usr\/include\/gtk-3.0 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/freetype2 -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/pixman-1 -I\/usr\/include\/libpng12  $/;"	m
+GTK_LIBS	Makefile	/^GTK_LIBS = -lgtk-3 -lgdk-3 -latk-1.0 -lgio-2.0 -lpangocairo-1.0 -lgdk_pixbuf-2.0 -lcairo-gobject -lpango-1.0 -lcairo -lgobject-2.0 -lglib-2.0  $/;"	m
+IDSIAccFlag	stg-dispatch.c	/^int IDSIAccFlag   = 0;$/;"	v
+IDSIDelay	stg-dispatch.c	31;"	d	file:
+IDSI_delay	stg-dispatch.c	/^unsigned long IDSI_delay   = 0;$/;"	v
+INCLUDES	Makefile	/^INCLUDES =  -I$(top_srcdir)\/src\/lib\/esim -I$(top_srcdir)\/src\/lib\/mhandle -I$(top_srcdir)\/src\/lib\/misc -I$(top_srcdir)\/src\/lib\/struct -I$(top_srcdir)\/src\/arch\/arm\/asm -I$(top_srcdir)\/src\/arch\/arm\/emu -I$(top_srcdir)\/src\/arch\/arm\/timing -I$(top_srcdir)\/src\/arch\/evergreen\/asm -I$(top_srcdir)\/src\/arch\/evergreen\/emu -I$(top_srcdir)\/src\/arch\/evergreen\/timing -I$(top_srcdir)\/src\/arch\/fermi\/asm -I$(top_srcdir)\/src\/arch\/fermi\/emu -I$(top_srcdir)\/src\/arch\/fermi\/timing -I$(top_srcdir)\/src\/arch\/southern-islands\/asm -I$(top_srcdir)\/src\/arch\/southern-islands\/emu -I$(top_srcdir)\/src\/arch\/southern-islands\/timing -I$(top_srcdir)\/src\/arch\/x86\/asm -I$(top_srcdir)\/src\/arch\/x86\/emu -I$(top_srcdir)\/src\/arch\/x86\/timing -I$(top_srcdir)\/src\/visual\/common -I$(top_srcdir)\/src\/visual\/evergreen -I$(top_srcdir)\/src\/visual\/memory -I$(top_srcdir)\/src\/visual\/southern-islands -I$(top_srcdir)\/src\/visual\/x86 -I$(top_srcdir)\/src\/mem-system -I$(top_srcdir)\/src\/network $/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+JacobiAccFlag	stg-dispatch.c	/^int JacobiAccFlag = 0;$/;"	v
+JacobiDelay	stg-dispatch.c	30;"	d	file:
+Jacobi_delay	stg-dispatch.c	/^unsigned long Jacobi_delay = 0;$/;"	v
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	Makefile	/^LIBRARIES = $(lib_LIBRARIES)$/;"	m
+LIBS	Makefile	/^LIBS = -lpthread -lm -lGLU -lGL -lglut -lz $/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+M2S_INCLUDES	Makefile	/^M2S_INCLUDES =  -I$(top_srcdir)\/src\/lib\/esim -I$(top_srcdir)\/src\/lib\/mhandle -I$(top_srcdir)\/src\/lib\/misc -I$(top_srcdir)\/src\/lib\/struct -I$(top_srcdir)\/src\/arch\/arm\/asm -I$(top_srcdir)\/src\/arch\/arm\/emu -I$(top_srcdir)\/src\/arch\/arm\/timing -I$(top_srcdir)\/src\/arch\/evergreen\/asm -I$(top_srcdir)\/src\/arch\/evergreen\/emu -I$(top_srcdir)\/src\/arch\/evergreen\/timing -I$(top_srcdir)\/src\/arch\/fermi\/asm -I$(top_srcdir)\/src\/arch\/fermi\/emu -I$(top_srcdir)\/src\/arch\/fermi\/timing -I$(top_srcdir)\/src\/arch\/southern-islands\/asm -I$(top_srcdir)\/src\/arch\/southern-islands\/emu -I$(top_srcdir)\/src\/arch\/southern-islands\/timing -I$(top_srcdir)\/src\/arch\/x86\/asm -I$(top_srcdir)\/src\/arch\/x86\/emu -I$(top_srcdir)\/src\/arch\/x86\/timing -I$(top_srcdir)\/src\/visual\/common -I$(top_srcdir)\/src\/visual\/evergreen -I$(top_srcdir)\/src\/visual\/memory -I$(top_srcdir)\/src\/visual\/southern-islands -I$(top_srcdir)\/src\/visual\/x86 -I$(top_srcdir)\/src\/mem-system -I$(top_srcdir)\/src\/network $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/missing --run makeinfo$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = multi2sim$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PKGDATADIR	Makefile	/^PKGDATADIR = ${datarootdir}\/multi2sim$/;"	m
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SLAMCAccFlag	stg-dispatch.c	/^int SLAMCAccFlag  = 0;$/;"	v
+SLAMCDelay	stg-dispatch.c	33;"	d	file:
+SLAMC_delay	stg-dispatch.c	/^unsigned long SLAMC_delay  = 0;$/;"	v
+SLAMJAccFlag	stg-dispatch.c	/^int SLAMJAccFlag  = 0;$/;"	v
+SLAMJDelay	stg-dispatch.c	34;"	d	file:
+SLAMJ_delay	stg-dispatch.c	/^unsigned long SLAMJ_delay  = 0;$/;"	v
+SOURCES	Makefile	/^SOURCES = $(libtiming_a_SOURCES)$/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+SURFAccFlag	stg-dispatch.c	/^int SURFAccFlag   = 0;$/;"	v
+SURFDelay	stg-dispatch.c	35;"	d	file:
+SURF_delay	stg-dispatch.c	/^unsigned long SURF_delay   = 0;$/;"	v
+SWAccFlag	stg-dispatch.c	/^int SWAccFlag     = 0;$/;"	v
+SWDelay	stg-dispatch.c	36;"	d	file:
+SW_delay	stg-dispatch.c	/^unsigned long SW_delay     = 0;$/;"	v
+SegAccFlag	stg-dispatch.c	/^int SegAccFlag    = 0;$/;"	v
+SegDelay	stg-dispatch.c	32;"	d	file:
+Seg_delay	stg-dispatch.c	/^unsigned long Seg_delay    = 0;$/;"	v
+UOP_MAGIC	uop.c	23;"	d	file:
+UPDATE_CORE_OCCUPANCY_STATS	cpu.c	1028;"	d	file:
+UPDATE_THREAD_OCCUPANCY_STATS	cpu.c	1021;"	d	file:
+VERSION	Makefile	/^VERSION = 4.0$/;"	m
+X86_CORE	x86-timing.h	569;"	d
+X86_CORE_FOR_EACH	x86-timing.h	573;"	d
+X86_CORE_IDX	x86-timing.h	571;"	d
+X86_FU_RES_MAX	x86-timing.h	210;"	d
+X86_REG_FILE_MIN_FP_SIZE	x86-timing.h	388;"	d
+X86_REG_FILE_MIN_INT_SIZE	x86-timing.h	387;"	d
+X86_REG_FILE_MIN_XMM_SIZE	x86-timing.h	389;"	d
+X86_THREAD	x86-timing.h	570;"	d
+X86_THREAD_FOR_EACH	x86-timing.h	574;"	d
+X86_THREAD_IDX	x86-timing.h	572;"	d
+X86_TIMING_H	x86-timing.h	21;"	d
+X86_TRACE_CACHE_ENTRY	x86-timing.h	500;"	d
+X86_TRACE_CACHE_ENTRY_SIZE	x86-timing.h	497;"	d
+X86_TRACE_VERSION_MAJOR	cpu.c	866;"	d	file:
+X86_TRACE_VERSION_MINOR	cpu.c	867;"	d	file:
+abs_builddir	Makefile	/^abs_builddir = \/home\/pli\/tmpr\/multi2sim-4.0-hc\/src\/arch\/x86\/timing$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/pli\/tmpr\/multi2sim-4.0-hc\/src\/arch\/x86\/timing$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/pli\/tmpr\/multi2sim-4.0-hc$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/pli\/tmpr\/multi2sim-4.0-hc$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+accesses	bpred.c	/^	long long accesses;$/;"	m	struct:x86_bpred_t	file:	access:public
+accesses	x86-timing.h	/^	long long accesses;$/;"	m	struct:x86_trace_cache_t	access:public
+accesses	x86-timing.h	/^	long long accesses[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(libdir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_libtiming_a_OBJECTS	Makefile	/^am_libtiming_a_OBJECTS = stg-fetch.$(OBJEXT) stg-decode.$(OBJEXT) \\$/;"	m
+bimod	bpred.c	/^	char *bimod;$/;"	m	struct:x86_bpred_t	file:	access:public
+bimod_index	x86-timing.h	/^	int bimod_index, bimod_pred;$/;"	m	struct:x86_uop_t	access:public
+bimod_pred	x86-timing.h	/^	int bimod_index, bimod_pred;$/;"	m	struct:x86_uop_t	access:public
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bpred	x86-timing.h	/^	struct x86_bpred_t *bpred;  \/* branch predictor *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_bpred_t	access:public
+branch_count	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+branch_flags	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+branch_mask	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_core_t	access:public
+branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_cpu_t	access:public
+branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_thread_t	access:public
+btb	bpred.c	/^	struct btb_entry_t *btb;$/;"	m	struct:x86_bpred_t	typeref:struct:x86_bpred_t::btb_entry_t	file:	access:public
+btb_entry_t	bpred.c	/^struct btb_entry_t$/;"	s	file:
+btb_entry_t::counter	bpred.c	/^	int counter;  \/* LRU counter *\/$/;"	m	struct:btb_entry_t	file:	access:public
+btb_entry_t::source	bpred.c	/^	uint32_t source;  \/* eip *\/$/;"	m	struct:btb_entry_t	file:	access:public
+btb_entry_t::target	bpred.c	/^	uint32_t target;  \/* neip *\/$/;"	m	struct:btb_entry_t	file:	access:public
+btb_reads	x86-timing.h	/^	long long btb_reads;$/;"	m	struct:x86_thread_t	access:public
+btb_writes	x86-timing.h	/^	long long btb_writes;$/;"	m	struct:x86_thread_t	access:public
+build_alias	Makefile	/^build_alias = $/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+busy	x86-timing.h	/^	int busy;  \/* number of mapped logical registers *\/$/;"	m	struct:x86_phreg_t	access:public
+choice	bpred.c	/^	char *choice;$/;"	m	struct:x86_bpred_t	file:	access:public
+choice_index	x86-timing.h	/^	int choice_index, choice_pred;$/;"	m	struct:x86_uop_t	access:public
+choice_pred	x86-timing.h	/^	int choice_index, choice_pred;$/;"	m	struct:x86_uop_t	access:public
+commit_current	x86-timing.h	/^	int commit_current;$/;"	m	struct:x86_core_t	access:public
+committed	x86-timing.h	/^	long long committed;$/;"	m	struct:x86_trace_cache_t	access:public
+committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+completed	x86-timing.h	/^	int completed;$/;"	m	struct:x86_uop_t	access:public
+core	x86-timing.h	/^	int core;$/;"	m	struct:x86_uop_t	access:public
+core	x86-timing.h	/^	struct x86_core_t *core;$/;"	m	struct:x86_cpu_t	typeref:struct:x86_cpu_t::x86_core_t	access:public
+count	x86-timing.h	/^	int count;$/;"	m	struct:x86_fu_res_t	access:public
+counter	bpred.c	/^	int counter;  \/* LRU counter *\/$/;"	m	struct:btb_entry_t	file:	access:public
+counter	x86-timing.h	/^	int counter;  \/* lru counter *\/$/;"	m	struct:x86_trace_cache_entry_t	access:public
+ctx	x86-timing.h	/^	struct x86_ctx_t *ctx;  \/* allocated kernel context *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_ctx_t	access:public
+ctx	x86-timing.h	/^	struct x86_ctx_t *ctx;$/;"	m	struct:x86_uop_t	typeref:struct:x86_uop_t::x86_ctx_t	access:public
+ctx_alloc_oldest	x86-timing.h	/^	long long ctx_alloc_oldest;  \/* Time when oldest context was allocated *\/$/;"	m	struct:x86_cpu_t	access:public
+ctx_dealloc_signals	x86-timing.h	/^	int ctx_dealloc_signals;  \/* Sent deallocation signals *\/$/;"	m	struct:x86_cpu_t	access:public
+cycle	x86-timing.h	/^	long long cycle;$/;"	m	struct:x86_cpu_t	access:public
+cycle_when_free	x86-timing.h	/^	long long cycle_when_free[x86_fu_count][X86_FU_RES_MAX];$/;"	m	struct:x86_fu_t	access:public
+data_mod	x86-timing.h	/^	struct mod_t *data_mod;  \/* Entry for data *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::mod_t	access:public
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+decode_current	x86-timing.h	/^	int decode_current;$/;"	m	struct:x86_core_t	access:public
+delay_time_acc	stg-dispatch.c	/^long long int delay_time_acc = 0;    \/\/Peilong$/;"	v
+delay_time_gettimeofday	stg-dispatch.c	/^long long int delay_time_gettimeofday = 0;		  \/\/peilong$/;"	v
+denied	x86-timing.h	/^	long long denied[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+dispatch_current	x86-timing.h	/^	int dispatch_current;$/;"	m	struct:x86_core_t	access:public
+dispatch_seq	x86-timing.h	/^	long long dispatch_seq;  \/* Counter for uop ID assignment *\/$/;"	m	struct:x86_core_t	access:public
+dispatch_stall	x86-timing.h	/^	long long dispatch_stall[x86_dispatch_stall_max];$/;"	m	struct:x86_core_t	access:public
+dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+eip	x86-timing.h	/^	unsigned int eip;  \/* Address of x86 macro-instruction *\/$/;"	m	struct:x86_uop_t	access:public
+entry	x86-timing.h	/^	struct x86_trace_cache_entry_t *entry;$/;"	m	struct:x86_trace_cache_t	typeref:struct:x86_trace_cache_t::x86_trace_cache_entry_t	access:public
+err_x86_cpu_commit_stall	stg-commit.c	/^static char *err_x86_cpu_commit_stall =$/;"	v	file:
+event_queue	x86-timing.h	/^	struct linked_list_t *event_queue;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::linked_list_t	access:public
+eventq_compare	queues.c	/^static int eventq_compare(const void *item1, const void *item2)$/;"	f	file:	signature:(const void *item1, const void *item2)
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+fall_through	x86-timing.h	/^	unsigned int fall_through;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+fast_forward_inst_count	x86-timing.h	/^	long long fast_forward_inst_count;$/;"	m	struct:x86_cpu_t	access:public
+fetch_access	x86-timing.h	/^	long long fetch_access;  \/* Access identifier to fetch this instruction *\/$/;"	m	struct:x86_uop_t	access:public
+fetch_access	x86-timing.h	/^	long long fetch_access;  \/* Module access ID of last instruction fetch *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_address	x86-timing.h	/^	unsigned int fetch_address;  \/* Physical address of last instruction fetch *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_address	x86-timing.h	/^	unsigned int fetch_address;  \/* Physical address of memory access to fetch this instruction *\/$/;"	m	struct:x86_uop_t	access:public
+fetch_block	x86-timing.h	/^	unsigned int fetch_block;  \/* Virtual address of last fetched block *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_current	x86-timing.h	/^	int fetch_current;  \/* Currently fetching thread *\/$/;"	m	struct:x86_core_t	access:public
+fetch_eip	x86-timing.h	/^	unsigned int fetch_eip, fetch_neip;  \/* eip and next eip *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_neip	x86-timing.h	/^	unsigned int fetch_eip, fetch_neip;  \/* eip and next eip *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_queue	x86-timing.h	/^	struct list_t *fetch_queue;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::list_t	access:public
+fetch_stall_until	x86-timing.h	/^	long long fetch_stall_until;  \/* Cycle until which fetching is stalled (inclussive) *\/$/;"	m	struct:x86_thread_t	access:public
+fetch_switch_when	x86-timing.h	/^	long long fetch_switch_when;  \/* Cycle for last thread switch (for SwitchOnEvent) *\/$/;"	m	struct:x86_core_t	access:public
+fetch_trace_cache	x86-timing.h	/^	int fetch_trace_cache;  \/* True if uop comes from trace cache *\/$/;"	m	struct:x86_uop_t	access:public
+fetched	x86-timing.h	/^	long long fetched;$/;"	m	struct:x86_cpu_t	access:public
+fetched	x86-timing.h	/^	long long fetched;$/;"	m	struct:x86_thread_t	access:public
+fetchq_occ	x86-timing.h	/^	int fetchq_occ;  \/* Number of bytes occupied in the fetch queue *\/$/;"	m	struct:x86_thread_t	access:public
+flags	x86-timing.h	/^	enum x86_uinst_flag_t flags;$/;"	m	struct:x86_uop_t	typeref:enum:x86_uop_t::x86_uinst_flag_t	access:public
+fp_free_phreg	x86-timing.h	/^	int *fp_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+fp_free_phreg_count	x86-timing.h	/^	int fp_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+fp_phreg	x86-timing.h	/^	struct x86_phreg_t *fp_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+fp_phreg_count	x86-timing.h	/^	int fp_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+fp_rat	x86-timing.h	/^	int fp_rat[x86_dep_fp_count];$/;"	m	struct:x86_reg_file_t	access:public
+fp_top_of_stack	x86-timing.h	/^	int fp_top_of_stack;  \/* Value between 0 and 7 *\/$/;"	m	struct:x86_reg_file_t	access:public
+fu	x86-timing.h	/^	struct x86_fu_t *fu;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::x86_fu_t	access:public
+fu_class_table	fu.c	/^static enum x86_fu_class_t fu_class_table[x86_uinst_opcode_count] =$/;"	v	typeref:enum:x86_fu_class_t	file:
+hits	bpred.c	/^	long long hits;$/;"	m	struct:x86_bpred_t	file:	access:public
+hits	x86-timing.h	/^	long long hits;$/;"	m	struct:x86_trace_cache_t	access:public
+host_alias	Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+id	x86-timing.h	/^	long long id;  \/* Unique ID *\/$/;"	m	struct:x86_uop_t	access:public
+id_in_core	x86-timing.h	/^	long long id_in_core;  \/* Unique ID in core *\/$/;"	m	struct:x86_uop_t	access:public
+idep_count	x86-timing.h	/^	int idep_count;$/;"	m	struct:x86_uop_t	access:public
+in_event_queue	x86-timing.h	/^	int in_event_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+in_fetch_queue	x86-timing.h	/^	int in_fetch_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+in_iq	x86-timing.h	/^	int in_iq : 1;$/;"	m	struct:x86_uop_t	access:public
+in_lq	x86-timing.h	/^	int in_lq : 1;$/;"	m	struct:x86_uop_t	access:public
+in_rob	x86-timing.h	/^	int in_rob : 1;$/;"	m	struct:x86_uop_t	access:public
+in_sq	x86-timing.h	/^	int in_sq : 1;$/;"	m	struct:x86_uop_t	access:public
+in_uop_queue	x86-timing.h	/^	int in_uop_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+in_uop_trace_list	x86-timing.h	/^	int in_uop_trace_list : 1;$/;"	m	struct:x86_uop_t	access:public
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+inst	x86-timing.h	/^	long long inst;$/;"	m	struct:x86_cpu_t	access:public
+inst_mod	x86-timing.h	/^	struct mod_t *inst_mod;  \/* Entry for instructions *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::mod_t	access:public
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/pli\/tmpr\/multi2sim-4.0-hc\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+int_free_phreg	x86-timing.h	/^	int *int_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+int_free_phreg_count	x86-timing.h	/^	int int_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+int_phreg	x86-timing.h	/^	struct x86_phreg_t *int_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+int_phreg_count	x86-timing.h	/^	int int_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+int_rat	x86-timing.h	/^	int int_rat[x86_dep_int_count];$/;"	m	struct:x86_reg_file_t	access:public
+iq	x86-timing.h	/^	struct linked_list_t *iq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+iq_count	x86-timing.h	/^	int iq_count;$/;"	m	struct:x86_core_t	access:public
+iq_count	x86-timing.h	/^	int iq_count;$/;"	m	struct:x86_thread_t	access:public
+iq_full	x86-timing.h	/^	long long iq_full;$/;"	m	struct:x86_core_t	access:public
+iq_full	x86-timing.h	/^	long long iq_full;$/;"	m	struct:x86_thread_t	access:public
+iq_occupancy	x86-timing.h	/^	long long iq_occupancy;$/;"	m	struct:x86_core_t	access:public
+iq_occupancy	x86-timing.h	/^	long long iq_occupancy;$/;"	m	struct:x86_thread_t	access:public
+iq_reads	x86-timing.h	/^	long long iq_reads;$/;"	m	struct:x86_core_t	access:public
+iq_reads	x86-timing.h	/^	long long iq_reads;$/;"	m	struct:x86_thread_t	access:public
+iq_wakeup_accesses	x86-timing.h	/^	long long iq_wakeup_accesses;$/;"	m	struct:x86_core_t	access:public
+iq_wakeup_accesses	x86-timing.h	/^	long long iq_wakeup_accesses;$/;"	m	struct:x86_thread_t	access:public
+iq_writes	x86-timing.h	/^	long long iq_writes;$/;"	m	struct:x86_core_t	access:public
+iq_writes	x86-timing.h	/^	long long iq_writes;$/;"	m	struct:x86_thread_t	access:public
+issue_current	x86-timing.h	/^	int issue_current;$/;"	m	struct:x86_core_t	access:public
+issue_try_when	x86-timing.h	/^	long long issue_try_when;  \/* first cycle when f.u. is tried to be reserved *\/$/;"	m	struct:x86_uop_t	access:public
+issue_when	x86-timing.h	/^	long long issue_when;  \/* cycle when issued *\/$/;"	m	struct:x86_uop_t	access:public
+issued	x86-timing.h	/^	int issued;$/;"	m	struct:x86_uop_t	access:public
+issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+issuelat	x86-timing.h	/^	int issuelat;$/;"	m	struct:x86_fu_res_t	access:public
+last_alloc_pid	x86-timing.h	/^	int last_alloc_pid;  \/* pid of last allocated context *\/$/;"	m	struct:x86_thread_t	access:public
+last_commit_cycle	x86-timing.h	/^	long long last_commit_cycle;$/;"	m	struct:x86_thread_t	access:public
+last_committed	x86-timing.h	/^	long long last_committed;$/;"	m	struct:x86_cpu_t	access:public
+last_dump	x86-timing.h	/^	long long last_dump;$/;"	m	struct:x86_cpu_t	access:public
+lib_LIBRARIES	Makefile	/^lib_LIBRARIES = libtiming.a$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libtiming_a_AR	Makefile	/^libtiming_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libtiming_a_LIBADD	Makefile	/^libtiming_a_LIBADD =$/;"	m
+libtiming_a_OBJECTS	Makefile	/^libtiming_a_OBJECTS = $(am_libtiming_a_OBJECTS)$/;"	m
+libtiming_a_SOURCES	Makefile	/^libtiming_a_SOURCES = \\$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+lq	x86-timing.h	/^	struct linked_list_t *lq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+lsq_count	x86-timing.h	/^	int lsq_count;$/;"	m	struct:x86_core_t	access:public
+lsq_count	x86-timing.h	/^	int lsq_count;$/;"	m	struct:x86_thread_t	access:public
+lsq_full	x86-timing.h	/^	long long lsq_full;$/;"	m	struct:x86_core_t	access:public
+lsq_full	x86-timing.h	/^	long long lsq_full;$/;"	m	struct:x86_thread_t	access:public
+lsq_occupancy	x86-timing.h	/^	long long lsq_occupancy;$/;"	m	struct:x86_core_t	access:public
+lsq_occupancy	x86-timing.h	/^	long long lsq_occupancy;$/;"	m	struct:x86_thread_t	access:public
+lsq_reads	x86-timing.h	/^	long long lsq_reads;$/;"	m	struct:x86_core_t	access:public
+lsq_reads	x86-timing.h	/^	long long lsq_reads;$/;"	m	struct:x86_thread_t	access:public
+lsq_wakeup_accesses	x86-timing.h	/^	long long lsq_wakeup_accesses;$/;"	m	struct:x86_core_t	access:public
+lsq_wakeup_accesses	x86-timing.h	/^	long long lsq_wakeup_accesses;$/;"	m	struct:x86_thread_t	access:public
+lsq_writes	x86-timing.h	/^	long long lsq_writes;$/;"	m	struct:x86_core_t	access:public
+lsq_writes	x86-timing.h	/^	long long lsq_writes;$/;"	m	struct:x86_thread_t	access:public
+magic	x86-timing.h	/^	long long magic;  \/* Magic number for debugging *\/$/;"	m	struct:x86_uop_t	access:public
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_core_t	access:public
+mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_cpu_t	access:public
+mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_thread_t	access:public
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mop_array	x86-timing.h	/^	unsigned int mop_array[0];$/;"	m	struct:x86_trace_cache_entry_t	access:public
+mop_count	x86-timing.h	/^	int mop_count;  \/* Number of uops within macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+mop_count	x86-timing.h	/^	int uop_count, mop_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+mop_id	x86-timing.h	/^	long long mop_id;  \/* Sequence number of macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+mop_index	x86-timing.h	/^	int mop_index;  \/* Index of uop within macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+mop_name	x86-timing.h	/^	char mop_name[40];$/;"	m	struct:x86_uop_t	access:public
+mop_size	x86-timing.h	/^	int mop_size;  \/* Corresponding macroinstruction size *\/$/;"	m	struct:x86_uop_t	access:public
+name	bpred.c	/^	char *name;$/;"	m	struct:x86_bpred_t	file:	access:public
+name	x86-timing.h	/^	char *name;$/;"	m	struct:x86_fu_res_t	access:public
+name	x86-timing.h	/^	char name[20];$/;"	m	struct:x86_trace_cache_t	access:public
+name	x86-timing.h	/^	char name[40];$/;"	m	struct:x86_uop_t	access:public
+neip	x86-timing.h	/^	unsigned int neip;  \/* Address of next non-speculative x86 macro-instruction *\/$/;"	m	struct:x86_uop_t	access:public
+odep_count	x86-timing.h	/^	int odep_count;$/;"	m	struct:x86_uop_t	access:public
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oplat	x86-timing.h	/^	int oplat;$/;"	m	struct:x86_fu_res_t	access:public
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pending	x86-timing.h	/^	int pending;  \/* not completed (bit) *\/$/;"	m	struct:x86_phreg_t	access:public
+ph_fp_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+ph_fp_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+ph_idep	x86-timing.h	/^	int ph_idep[X86_UINST_MAX_IDEPS];$/;"	m	struct:x86_uop_t	access:public
+ph_int_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+ph_int_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+ph_odep	x86-timing.h	/^	int ph_odep[X86_UINST_MAX_ODEPS];$/;"	m	struct:x86_uop_t	access:public
+ph_oodep	x86-timing.h	/^	int ph_oodep[X86_UINST_MAX_ODEPS];$/;"	m	struct:x86_uop_t	access:public
+ph_xmm_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+ph_xmm_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+phy_addr	x86-timing.h	/^	unsigned int phy_addr;  \/* ... corresponding to 'uop->uinst->address' *\/$/;"	m	struct:x86_uop_t	access:public
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/multi2sim$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/multi2sim$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/multi2sim$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/multi2sim$/;"	m
+pred	x86-timing.h	/^	int pred;  \/* Global prediction (0=not taken, 1=taken) *\/$/;"	m	struct:x86_uop_t	access:public
+pred_neip	x86-timing.h	/^	unsigned int pred_neip; \/* Address of next predicted x86 macro-instruction (for branches) *\/$/;"	m	struct:x86_uop_t	access:public
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+ras	bpred.c	/^	unsigned int *ras;$/;"	m	struct:x86_bpred_t	file:	access:public
+ras_index	bpred.c	/^	int ras_index;$/;"	m	struct:x86_bpred_t	file:	access:public
+rat_fp_reads	x86-timing.h	/^	long long rat_fp_reads;$/;"	m	struct:x86_thread_t	access:public
+rat_fp_writes	x86-timing.h	/^	long long rat_fp_writes;$/;"	m	struct:x86_thread_t	access:public
+rat_int_reads	x86-timing.h	/^	long long rat_int_reads;$/;"	m	struct:x86_thread_t	access:public
+rat_int_writes	x86-timing.h	/^	long long rat_int_writes;$/;"	m	struct:x86_thread_t	access:public
+rat_xmm_reads	x86-timing.h	/^	long long rat_xmm_reads;$/;"	m	struct:x86_thread_t	access:public
+rat_xmm_writes	x86-timing.h	/^	long long rat_xmm_writes;$/;"	m	struct:x86_thread_t	access:public
+ready	x86-timing.h	/^	int ready;$/;"	m	struct:x86_uop_t	access:public
+reg_file	x86-timing.h	/^	struct x86_reg_file_t *reg_file;  \/* physical register file *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_reg_file_t	access:public
+reg_file_fp_count	x86-timing.h	/^	int reg_file_fp_count;$/;"	m	struct:x86_core_t	access:public
+reg_file_fp_count	x86-timing.h	/^	int reg_file_fp_count;$/;"	m	struct:x86_thread_t	access:public
+reg_file_fp_full	x86-timing.h	/^	long long reg_file_fp_full;$/;"	m	struct:x86_core_t	access:public
+reg_file_fp_full	x86-timing.h	/^	long long reg_file_fp_full;$/;"	m	struct:x86_thread_t	access:public
+reg_file_fp_occupancy	x86-timing.h	/^	long long reg_file_fp_occupancy;$/;"	m	struct:x86_core_t	access:public
+reg_file_fp_occupancy	x86-timing.h	/^	long long reg_file_fp_occupancy;$/;"	m	struct:x86_thread_t	access:public
+reg_file_fp_reads	x86-timing.h	/^	long long reg_file_fp_reads;$/;"	m	struct:x86_core_t	access:public
+reg_file_fp_reads	x86-timing.h	/^	long long reg_file_fp_reads;$/;"	m	struct:x86_thread_t	access:public
+reg_file_fp_writes	x86-timing.h	/^	long long reg_file_fp_writes;$/;"	m	struct:x86_core_t	access:public
+reg_file_fp_writes	x86-timing.h	/^	long long reg_file_fp_writes;$/;"	m	struct:x86_thread_t	access:public
+reg_file_int_count	x86-timing.h	/^	int reg_file_int_count;$/;"	m	struct:x86_core_t	access:public
+reg_file_int_count	x86-timing.h	/^	int reg_file_int_count;$/;"	m	struct:x86_thread_t	access:public
+reg_file_int_full	x86-timing.h	/^	long long reg_file_int_full;$/;"	m	struct:x86_core_t	access:public
+reg_file_int_full	x86-timing.h	/^	long long reg_file_int_full;$/;"	m	struct:x86_thread_t	access:public
+reg_file_int_occupancy	x86-timing.h	/^	long long reg_file_int_occupancy;$/;"	m	struct:x86_core_t	access:public
+reg_file_int_occupancy	x86-timing.h	/^	long long reg_file_int_occupancy;$/;"	m	struct:x86_thread_t	access:public
+reg_file_int_reads	x86-timing.h	/^	long long reg_file_int_reads;$/;"	m	struct:x86_core_t	access:public
+reg_file_int_reads	x86-timing.h	/^	long long reg_file_int_reads;$/;"	m	struct:x86_thread_t	access:public
+reg_file_int_writes	x86-timing.h	/^	long long reg_file_int_writes;$/;"	m	struct:x86_core_t	access:public
+reg_file_int_writes	x86-timing.h	/^	long long reg_file_int_writes;$/;"	m	struct:x86_thread_t	access:public
+reg_file_xmm_count	x86-timing.h	/^	int reg_file_xmm_count;$/;"	m	struct:x86_core_t	access:public
+reg_file_xmm_count	x86-timing.h	/^	int reg_file_xmm_count;$/;"	m	struct:x86_thread_t	access:public
+reg_file_xmm_full	x86-timing.h	/^	long long reg_file_xmm_full;$/;"	m	struct:x86_core_t	access:public
+reg_file_xmm_full	x86-timing.h	/^	long long reg_file_xmm_full;$/;"	m	struct:x86_thread_t	access:public
+reg_file_xmm_occupancy	x86-timing.h	/^	long long reg_file_xmm_occupancy;$/;"	m	struct:x86_core_t	access:public
+reg_file_xmm_occupancy	x86-timing.h	/^	long long reg_file_xmm_occupancy;$/;"	m	struct:x86_thread_t	access:public
+reg_file_xmm_reads	x86-timing.h	/^	long long reg_file_xmm_reads;$/;"	m	struct:x86_core_t	access:public
+reg_file_xmm_reads	x86-timing.h	/^	long long reg_file_xmm_reads;$/;"	m	struct:x86_thread_t	access:public
+reg_file_xmm_writes	x86-timing.h	/^	long long reg_file_xmm_writes;$/;"	m	struct:x86_core_t	access:public
+reg_file_xmm_writes	x86-timing.h	/^	long long reg_file_xmm_writes;$/;"	m	struct:x86_thread_t	access:public
+rob	x86-timing.h	/^	struct list_t *rob;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::list_t	access:public
+rob_count	x86-timing.h	/^	int rob_count;$/;"	m	struct:x86_core_t	access:public
+rob_count	x86-timing.h	/^	int rob_count;$/;"	m	struct:x86_thread_t	access:public
+rob_full	x86-timing.h	/^	long long rob_full;$/;"	m	struct:x86_core_t	access:public
+rob_full	x86-timing.h	/^	long long rob_full;$/;"	m	struct:x86_thread_t	access:public
+rob_head	x86-timing.h	/^	int rob_head;$/;"	m	struct:x86_core_t	access:public
+rob_head	x86-timing.h	/^	int rob_head;$/;"	m	struct:x86_thread_t	access:public
+rob_left_bound	x86-timing.h	/^	int rob_left_bound;$/;"	m	struct:x86_thread_t	access:public
+rob_occupancy	x86-timing.h	/^	long long rob_occupancy;$/;"	m	struct:x86_core_t	access:public
+rob_occupancy	x86-timing.h	/^	long long rob_occupancy;$/;"	m	struct:x86_thread_t	access:public
+rob_reads	x86-timing.h	/^	long long rob_reads;$/;"	m	struct:x86_core_t	access:public
+rob_reads	x86-timing.h	/^	long long rob_reads;$/;"	m	struct:x86_thread_t	access:public
+rob_right_bound	x86-timing.h	/^	int rob_right_bound;$/;"	m	struct:x86_thread_t	access:public
+rob_tail	x86-timing.h	/^	int rob_tail;$/;"	m	struct:x86_core_t	access:public
+rob_tail	x86-timing.h	/^	int rob_tail;$/;"	m	struct:x86_thread_t	access:public
+rob_writes	x86-timing.h	/^	long long rob_writes;$/;"	m	struct:x86_core_t	access:public
+rob_writes	x86-timing.h	/^	long long rob_writes;$/;"	m	struct:x86_thread_t	access:public
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+source	bpred.c	/^	uint32_t source;  \/* eip *\/$/;"	m	struct:btb_entry_t	file:	access:public
+specmode	x86-timing.h	/^	int specmode;$/;"	m	struct:x86_uop_t	access:public
+sq	x86-timing.h	/^	struct linked_list_t *sq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_core_t	access:public
+squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_cpu_t	access:public
+squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_thread_t	access:public
+squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_trace_cache_t	access:public
+srcdir	Makefile	/^srcdir = .$/;"	m
+stage	x86-timing.h	/^	char *stage;  \/* Name of currently simulated stage *\/$/;"	m	struct:x86_cpu_t	access:public
+subdir	Makefile	/^subdir = src\/arch\/x86\/timing$/;"	m
+syscallflag_acc	stg-dispatch.c	/^int syscallflag_acc = 0;$/;"	v
+syscallflag_gettimeofday	stg-dispatch.c	/^int syscallflag_gettimeofday = 0;         \/\/Peilong$/;"	v
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tag	x86-timing.h	/^	unsigned int tag;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+target	bpred.c	/^	uint32_t target;  \/* neip *\/$/;"	m	struct:btb_entry_t	file:	access:public
+target	x86-timing.h	/^	unsigned int target;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+target_alias	Makefile	/^target_alias = $/;"	m
+target_neip	x86-timing.h	/^	unsigned int target_neip;  \/* Address of target x86 macro-instruction assuming branch taken (for branches) *\/$/;"	m	struct:x86_uop_t	access:public
+temp	x86-timing.h	/^	struct x86_trace_cache_entry_t *temp;  \/* Temporary trace *\/$/;"	m	struct:x86_trace_cache_t	typeref:struct:x86_trace_cache_t::x86_trace_cache_entry_t	access:public
+thread	x86-timing.h	/^	int thread;$/;"	m	struct:x86_uop_t	access:public
+thread	x86-timing.h	/^	struct x86_thread_t *thread;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::x86_thread_t	access:public
+time	x86-timing.h	/^	double time;$/;"	m	struct:x86_cpu_t	access:public
+top_build_prefix	Makefile	/^top_build_prefix = ..\/..\/..\/..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..\/..\/..\/..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..\/..\/..\/..$/;"	m
+trace_cache	x86-timing.h	/^	struct x86_trace_cache_t *trace_cache;  \/* trace cache *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_trace_cache_t	access:public
+trace_cache_queue_occ	x86-timing.h	/^	int trace_cache_queue_occ;  \/* Number of uops occupied in the trace cache queue *\/$/;"	m	struct:x86_thread_t	access:public
+trace_length_acc	x86-timing.h	/^	long long trace_length_acc;$/;"	m	struct:x86_trace_cache_t	access:public
+trace_length_count	x86-timing.h	/^	long long trace_length_count;$/;"	m	struct:x86_trace_cache_t	access:public
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+twolevel_bht	bpred.c	/^	unsigned int *twolevel_bht;  \/* array of level1_size branch history registers *\/$/;"	m	struct:x86_bpred_t	file:	access:public
+twolevel_bht_index	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+twolevel_pht	bpred.c	/^	char *twolevel_pht;  \/* array of level2_size*2^hist_size 2-bit counters *\/$/;"	m	struct:x86_bpred_t	file:	access:public
+twolevel_pht_col	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+twolevel_pht_row	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+twolevel_pred	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+uinst	x86-timing.h	/^	struct x86_uinst_t *uinst;$/;"	m	struct:x86_uop_t	typeref:struct:x86_uop_t::x86_uinst_t	access:public
+uop_count	x86-timing.h	/^	int uop_count, mop_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+uop_id_counter	x86-timing.h	/^	long long uop_id_counter;  \/* Counter for uop ID assignment *\/$/;"	m	struct:x86_core_t	access:public
+uop_id_counter	x86-timing.h	/^	long long uop_id_counter;  \/* Counter of uop ID assignment *\/$/;"	m	struct:x86_cpu_t	access:public
+uop_queue	x86-timing.h	/^	struct list_t *uop_queue;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::list_t	access:public
+uop_trace_list	x86-timing.h	/^	struct linked_list_t *uop_trace_list;$/;"	m	struct:x86_cpu_t	typeref:struct:x86_cpu_t::linked_list_t	access:public
+waiting_time	x86-timing.h	/^	long long waiting_time[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+when	x86-timing.h	/^	long long when;  \/* cycle when ready *\/$/;"	m	struct:x86_uop_t	access:public
+x86_bpred_bimod_size	bpred.c	/^int x86_bpred_bimod_size;  \/* Number of entries for bimodal predictor *\/$/;"	v
+x86_bpred_btb_assoc	bpred.c	/^int x86_bpred_btb_assoc;  \/* Number of BTB ways *\/$/;"	v
+x86_bpred_btb_lookup	bpred.c	/^unsigned int x86_bpred_btb_lookup(struct x86_bpred_t *bpred, struct x86_uop_t *uop)$/;"	f	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_btb_lookup	x86-timing.h	/^unsigned int x86_bpred_btb_lookup(struct x86_bpred_t *bpred, struct x86_uop_t *uop);$/;"	p	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_btb_next_branch	bpred.c	/^unsigned int x86_bpred_btb_next_branch(struct x86_bpred_t *bpred, uint32_t eip, uint32_t bsize)$/;"	f	signature:(struct x86_bpred_t *bpred, uint32_t eip, uint32_t bsize)
+x86_bpred_btb_next_branch	x86-timing.h	/^unsigned int x86_bpred_btb_next_branch(struct x86_bpred_t *bpred, uint32_t eip, uint32_t bsize);$/;"	p	signature:(struct x86_bpred_t *bpred, uint32_t eip, uint32_t bsize)
+x86_bpred_btb_sets	bpred.c	/^int x86_bpred_btb_sets;  \/* Number of BTB sets *\/$/;"	v
+x86_bpred_btb_update	bpred.c	/^void x86_bpred_btb_update(struct x86_bpred_t *bpred, struct x86_uop_t *uop)$/;"	f	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_btb_update	x86-timing.h	/^void x86_bpred_btb_update(struct x86_bpred_t *bpred, struct x86_uop_t *uop);$/;"	p	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_choice_size	bpred.c	/^int x86_bpred_choice_size;  \/* Number of entries for choice predictor *\/$/;"	v
+x86_bpred_create	bpred.c	/^struct x86_bpred_t *x86_bpred_create(char *name)$/;"	f	signature:(char *name)
+x86_bpred_create	x86-timing.h	/^struct x86_bpred_t *x86_bpred_create(char *name);$/;"	p	signature:(char *name)
+x86_bpred_done	bpred.c	/^void x86_bpred_done()$/;"	f
+x86_bpred_done	x86-timing.h	/^void x86_bpred_done(void);$/;"	p	signature:(void)
+x86_bpred_free	bpred.c	/^void x86_bpred_free(struct x86_bpred_t *bpred)$/;"	f	signature:(struct x86_bpred_t *bpred)
+x86_bpred_free	x86-timing.h	/^void x86_bpred_free(struct x86_bpred_t *bpred);$/;"	p	signature:(struct x86_bpred_t *bpred)
+x86_bpred_init	bpred.c	/^void x86_bpred_init()$/;"	f
+x86_bpred_init	x86-timing.h	/^void x86_bpred_init(void);$/;"	p	signature:(void)
+x86_bpred_kind	bpred.c	/^enum x86_bpred_kind_t x86_bpred_kind;$/;"	v	typeref:enum:x86_bpred_kind_t
+x86_bpred_kind_bimod	x86-timing.h	/^	x86_bpred_kind_bimod,$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_kind_comb	x86-timing.h	/^	x86_bpred_kind_comb$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_kind_map	bpred.c	/^char *x86_bpred_kind_map[] = { "Perfect", "Taken", "NotTaken", "Bimodal", "TwoLevel", "Combined" };$/;"	v
+x86_bpred_kind_nottaken	x86-timing.h	/^	x86_bpred_kind_nottaken,$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_kind_perfect	x86-timing.h	/^	x86_bpred_kind_perfect = 0,$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_kind_t	x86-timing.h	/^extern enum x86_bpred_kind_t$/;"	g
+x86_bpred_kind_taken	x86-timing.h	/^	x86_bpred_kind_taken,$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_kind_twolevel	x86-timing.h	/^	x86_bpred_kind_twolevel,$/;"	e	enum:x86_bpred_kind_t
+x86_bpred_lookup	bpred.c	/^int x86_bpred_lookup(struct x86_bpred_t *bpred, struct x86_uop_t *uop)$/;"	f	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_lookup	x86-timing.h	/^int x86_bpred_lookup(struct x86_bpred_t *bpred, struct x86_uop_t *uop);$/;"	p	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_lookup_multiple	bpred.c	/^int x86_bpred_lookup_multiple(struct x86_bpred_t *bpred, uint32_t eip, int count)$/;"	f	signature:(struct x86_bpred_t *bpred, uint32_t eip, int count)
+x86_bpred_lookup_multiple	x86-timing.h	/^int x86_bpred_lookup_multiple(struct x86_bpred_t *bpred, uint32_t eip, int count);$/;"	p	signature:(struct x86_bpred_t *bpred, uint32_t eip, int count)
+x86_bpred_ras_size	bpred.c	/^int x86_bpred_ras_size;  \/* Return address stack size *\/$/;"	v
+x86_bpred_t	bpred.c	/^struct x86_bpred_t$/;"	s	file:
+x86_bpred_t::accesses	bpred.c	/^	long long accesses;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::bimod	bpred.c	/^	char *bimod;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::btb	bpred.c	/^	struct btb_entry_t *btb;$/;"	m	struct:x86_bpred_t	typeref:struct:x86_bpred_t::btb_entry_t	file:	access:public
+x86_bpred_t::choice	bpred.c	/^	char *choice;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::hits	bpred.c	/^	long long hits;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::name	bpred.c	/^	char *name;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::ras	bpred.c	/^	unsigned int *ras;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::ras_index	bpred.c	/^	int ras_index;$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::twolevel_bht	bpred.c	/^	unsigned int *twolevel_bht;  \/* array of level1_size branch history registers *\/$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_t::twolevel_pht	bpred.c	/^	char *twolevel_pht;  \/* array of level2_size*2^hist_size 2-bit counters *\/$/;"	m	struct:x86_bpred_t	file:	access:public
+x86_bpred_twolevel_hist_size	bpred.c	/^int x86_bpred_twolevel_hist_size;  \/* Two-level adaptive predictor: level-2 history size *\/$/;"	v
+x86_bpred_twolevel_l1size	bpred.c	/^int x86_bpred_twolevel_l1size;  \/* Two-level adaptive predictor: level-1 size *\/$/;"	v
+x86_bpred_twolevel_l2height	bpred.c	/^static int x86_bpred_twolevel_l2height;$/;"	v	file:
+x86_bpred_twolevel_l2size	bpred.c	/^int x86_bpred_twolevel_l2size;  \/* Two-level adaptive predictor: level-2 size *\/$/;"	v
+x86_bpred_update	bpred.c	/^void x86_bpred_update(struct x86_bpred_t *bpred, struct x86_uop_t *uop)$/;"	f	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_bpred_update	x86-timing.h	/^void x86_bpred_update(struct x86_bpred_t *bpred, struct x86_uop_t *uop);$/;"	p	signature:(struct x86_bpred_t *bpred, struct x86_uop_t *uop)
+x86_config_file_name	cpu.c	/^char *x86_config_file_name = "";$/;"	v
+x86_config_help	cpu.c	/^char *x86_config_help =$/;"	v
+x86_core_t	x86-timing.h	/^struct x86_core_t$/;"	s
+x86_core_t::branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::commit_current	x86-timing.h	/^	int commit_current;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+x86_core_t::decode_current	x86-timing.h	/^	int decode_current;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::dispatch_current	x86-timing.h	/^	int dispatch_current;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::dispatch_seq	x86-timing.h	/^	long long dispatch_seq;  \/* Counter for uop ID assignment *\/$/;"	m	struct:x86_core_t	access:public
+x86_core_t::dispatch_stall	x86-timing.h	/^	long long dispatch_stall[x86_dispatch_stall_max];$/;"	m	struct:x86_core_t	access:public
+x86_core_t::dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+x86_core_t::event_queue	x86-timing.h	/^	struct linked_list_t *event_queue;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::linked_list_t	access:public
+x86_core_t::fetch_current	x86-timing.h	/^	int fetch_current;  \/* Currently fetching thread *\/$/;"	m	struct:x86_core_t	access:public
+x86_core_t::fetch_switch_when	x86-timing.h	/^	long long fetch_switch_when;  \/* Cycle for last thread switch (for SwitchOnEvent) *\/$/;"	m	struct:x86_core_t	access:public
+x86_core_t::fu	x86-timing.h	/^	struct x86_fu_t *fu;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::x86_fu_t	access:public
+x86_core_t::iq_count	x86-timing.h	/^	int iq_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::iq_full	x86-timing.h	/^	long long iq_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::iq_occupancy	x86-timing.h	/^	long long iq_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::iq_reads	x86-timing.h	/^	long long iq_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::iq_wakeup_accesses	x86-timing.h	/^	long long iq_wakeup_accesses;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::iq_writes	x86-timing.h	/^	long long iq_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::issue_current	x86-timing.h	/^	int issue_current;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_count	x86-timing.h	/^	int lsq_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_full	x86-timing.h	/^	long long lsq_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_occupancy	x86-timing.h	/^	long long lsq_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_reads	x86-timing.h	/^	long long lsq_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_wakeup_accesses	x86-timing.h	/^	long long lsq_wakeup_accesses;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::lsq_writes	x86-timing.h	/^	long long lsq_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_fp_count	x86-timing.h	/^	int reg_file_fp_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_fp_full	x86-timing.h	/^	long long reg_file_fp_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_fp_occupancy	x86-timing.h	/^	long long reg_file_fp_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_fp_reads	x86-timing.h	/^	long long reg_file_fp_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_fp_writes	x86-timing.h	/^	long long reg_file_fp_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_int_count	x86-timing.h	/^	int reg_file_int_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_int_full	x86-timing.h	/^	long long reg_file_int_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_int_occupancy	x86-timing.h	/^	long long reg_file_int_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_int_reads	x86-timing.h	/^	long long reg_file_int_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_int_writes	x86-timing.h	/^	long long reg_file_int_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_xmm_count	x86-timing.h	/^	int reg_file_xmm_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_xmm_full	x86-timing.h	/^	long long reg_file_xmm_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_xmm_occupancy	x86-timing.h	/^	long long reg_file_xmm_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_xmm_reads	x86-timing.h	/^	long long reg_file_xmm_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::reg_file_xmm_writes	x86-timing.h	/^	long long reg_file_xmm_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob	x86-timing.h	/^	struct list_t *rob;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::list_t	access:public
+x86_core_t::rob_count	x86-timing.h	/^	int rob_count;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_full	x86-timing.h	/^	long long rob_full;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_head	x86-timing.h	/^	int rob_head;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_occupancy	x86-timing.h	/^	long long rob_occupancy;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_reads	x86-timing.h	/^	long long rob_reads;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_tail	x86-timing.h	/^	int rob_tail;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::rob_writes	x86-timing.h	/^	long long rob_writes;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_core_t	access:public
+x86_core_t::thread	x86-timing.h	/^	struct x86_thread_t *thread;$/;"	m	struct:x86_core_t	typeref:struct:x86_core_t::x86_thread_t	access:public
+x86_core_t::uop_id_counter	x86-timing.h	/^	long long uop_id_counter;  \/* Counter for uop ID assignment *\/$/;"	m	struct:x86_core_t	access:public
+x86_cpu	cpu.c	/^struct x86_cpu_t *x86_cpu;$/;"	v	typeref:struct:x86_cpu_t
+x86_cpu_can_commit_thread	stg-commit.c	/^static int x86_cpu_can_commit_thread(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_can_dispatch_thread	stg-dispatch.c	/^static enum x86_dispatch_stall_t x86_cpu_can_dispatch_thread(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_can_fetch	stg-fetch.c	/^static int x86_cpu_can_fetch(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_commit	stg-commit.c	/^void x86_cpu_commit()$/;"	f
+x86_cpu_commit	x86-timing.h	/^void x86_cpu_commit(void);$/;"	p	signature:(void)
+x86_cpu_commit_core	stg-commit.c	/^static void x86_cpu_commit_core(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_commit_kind	cpu.c	/^enum x86_cpu_commit_kind_t x86_cpu_commit_kind;$/;"	v	typeref:enum:x86_cpu_commit_kind_t
+x86_cpu_commit_kind_map	cpu.c	/^char *x86_cpu_commit_kind_map[] = { "Shared", "TimeSlice" };$/;"	v
+x86_cpu_commit_kind_shared	x86-timing.h	/^	x86_cpu_commit_kind_shared = 0,$/;"	e	enum:x86_cpu_commit_kind_t
+x86_cpu_commit_kind_t	x86-timing.h	/^extern enum x86_cpu_commit_kind_t$/;"	g
+x86_cpu_commit_kind_timeslice	x86-timing.h	/^	x86_cpu_commit_kind_timeslice$/;"	e	enum:x86_cpu_commit_kind_t
+x86_cpu_commit_thread	stg-commit.c	/^static void x86_cpu_commit_thread(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_commit_width	cpu.c	/^int x86_cpu_commit_width;$/;"	v
+x86_cpu_config_check	cpu.c	/^static void x86_cpu_config_check(void)$/;"	f	file:	signature:(void)
+x86_cpu_config_dump	cpu.c	/^static void x86_cpu_config_dump(FILE *f)$/;"	f	file:	signature:(FILE *f)
+x86_cpu_context_quantum	cpu.c	/^int x86_cpu_context_quantum;$/;"	v
+x86_cpu_context_switch	cpu.c	/^int x86_cpu_context_switch;$/;"	v
+x86_cpu_context_to_cpu	sched.c	/^static int x86_cpu_context_to_cpu(struct x86_ctx_t *ctx)$/;"	f	file:	signature:(struct x86_ctx_t *ctx)
+x86_cpu_core_init	cpu.c	/^static void x86_cpu_core_init(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_decode	stg-decode.c	/^void x86_cpu_decode()$/;"	f
+x86_cpu_decode	x86-timing.h	/^void x86_cpu_decode(void);$/;"	p	signature:(void)
+x86_cpu_decode_core	stg-decode.c	/^static void x86_cpu_decode_core(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_decode_thread	stg-decode.c	/^static void x86_cpu_decode_thread(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_decode_width	cpu.c	/^int x86_cpu_decode_width;$/;"	v
+x86_cpu_dispatch	stg-dispatch.c	/^void x86_cpu_dispatch()$/;"	f
+x86_cpu_dispatch	x86-timing.h	/^void x86_cpu_dispatch(void);$/;"	p	signature:(void)
+x86_cpu_dispatch_core	stg-dispatch.c	/^static void x86_cpu_dispatch_core(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_dispatch_kind	cpu.c	/^enum x86_cpu_dispatch_kind_t x86_cpu_dispatch_kind;$/;"	v	typeref:enum:x86_cpu_dispatch_kind_t
+x86_cpu_dispatch_kind_map	cpu.c	/^char *x86_cpu_dispatch_kind_map[] = { "Shared", "TimeSlice" };$/;"	v
+x86_cpu_dispatch_kind_shared	x86-timing.h	/^	x86_cpu_dispatch_kind_shared = 0,$/;"	e	enum:x86_cpu_dispatch_kind_t
+x86_cpu_dispatch_kind_t	x86-timing.h	/^extern enum x86_cpu_dispatch_kind_t$/;"	g
+x86_cpu_dispatch_kind_timeslice	x86-timing.h	/^	x86_cpu_dispatch_kind_timeslice,$/;"	e	enum:x86_cpu_dispatch_kind_t
+x86_cpu_dispatch_thread	stg-dispatch.c	/^static int x86_cpu_dispatch_thread(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_dispatch_width	cpu.c	/^int x86_cpu_dispatch_width;$/;"	v
+x86_cpu_done	cpu.c	/^void x86_cpu_done()$/;"	f
+x86_cpu_done	x86-timing.h	/^void x86_cpu_done(void);$/;"	p	signature:(void)
+x86_cpu_dump	cpu.c	/^void x86_cpu_dump(FILE *f)$/;"	f	signature:(FILE *f)
+x86_cpu_dump	x86-timing.h	/^void x86_cpu_dump(FILE *f);$/;"	p	signature:(FILE *f)
+x86_cpu_dump_report	cpu.c	/^static void x86_cpu_dump_report(void)$/;"	f	file:	signature:(void)
+x86_cpu_dump_summary	cpu.c	/^void x86_cpu_dump_summary(FILE *f)$/;"	f	signature:(FILE *f)
+x86_cpu_dump_summary	x86-timing.h	/^void x86_cpu_dump_summary(FILE *f);$/;"	p	signature:(FILE *f)
+x86_cpu_dump_uop_report	cpu.c	/^static void x86_cpu_dump_uop_report(FILE *f, long long *uop_stats, char *prefix, int peak_ipc)$/;"	f	file:	signature:(FILE *f, long long *uop_stats, char *prefix, int peak_ipc)
+x86_cpu_dynamic_schedule	sched.c	/^void x86_cpu_dynamic_schedule()$/;"	f
+x86_cpu_dynamic_schedule	x86-timing.h	/^void x86_cpu_dynamic_schedule(void);$/;"	p	signature:(void)
+x86_cpu_err_fast_forward	cpu.c	/^static char *x86_cpu_err_fast_forward =$/;"	v	file:
+x86_cpu_error_debug	x86-timing.h	39;"	d
+x86_cpu_fast_forward_count	cpu.c	/^long long x86_cpu_fast_forward_count;$/;"	v
+x86_cpu_fetch	stg-fetch.c	/^void x86_cpu_fetch()$/;"	f
+x86_cpu_fetch	x86-timing.h	/^void x86_cpu_fetch(void);$/;"	p	signature:(void)
+x86_cpu_fetch_core	stg-fetch.c	/^static void x86_cpu_fetch_core(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_fetch_inst	stg-fetch.c	/^static struct x86_uop_t *x86_cpu_fetch_inst(int core, int thread, int fetch_trace_cache)$/;"	f	file:	signature:(int core, int thread, int fetch_trace_cache)
+x86_cpu_fetch_kind	cpu.c	/^enum x86_cpu_fetch_kind_t x86_cpu_fetch_kind;$/;"	v	typeref:enum:x86_cpu_fetch_kind_t
+x86_cpu_fetch_kind_map	cpu.c	/^char *x86_cpu_fetch_kind_map[] = { "Shared", "TimeSlice", "SwitchOnEvent" };$/;"	v
+x86_cpu_fetch_kind_shared	x86-timing.h	/^	x86_cpu_fetch_kind_shared = 0,$/;"	e	enum:x86_cpu_fetch_kind_t
+x86_cpu_fetch_kind_switchonevent	x86-timing.h	/^	x86_cpu_fetch_kind_switchonevent$/;"	e	enum:x86_cpu_fetch_kind_t
+x86_cpu_fetch_kind_t	x86-timing.h	/^extern enum x86_cpu_fetch_kind_t$/;"	g
+x86_cpu_fetch_kind_timeslice	x86-timing.h	/^	x86_cpu_fetch_kind_timeslice,$/;"	e	enum:x86_cpu_fetch_kind_t
+x86_cpu_fetch_thread	stg-fetch.c	/^static void x86_cpu_fetch_thread(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_fetch_thread_trace_cache	stg-fetch.c	/^static int x86_cpu_fetch_thread_trace_cache(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_init	cpu.c	/^void x86_cpu_init()$/;"	f
+x86_cpu_init	x86-timing.h	/^void x86_cpu_init(void);$/;"	p	signature:(void)
+x86_cpu_issue	stg-issue.c	/^void x86_cpu_issue()$/;"	f
+x86_cpu_issue	x86-timing.h	/^void x86_cpu_issue(void);$/;"	p	signature:(void)
+x86_cpu_issue_core	stg-issue.c	/^static void x86_cpu_issue_core(int core)$/;"	f	file:	signature:(int core)
+x86_cpu_issue_iq	stg-issue.c	/^static int x86_cpu_issue_iq(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_issue_kind	cpu.c	/^enum x86_cpu_issue_kind_t x86_cpu_issue_kind;$/;"	v	typeref:enum:x86_cpu_issue_kind_t
+x86_cpu_issue_kind_map	cpu.c	/^char *x86_cpu_issue_kind_map[] = { "Shared", "TimeSlice" };$/;"	v
+x86_cpu_issue_kind_shared	x86-timing.h	/^	x86_cpu_issue_kind_shared = 0,$/;"	e	enum:x86_cpu_issue_kind_t
+x86_cpu_issue_kind_t	x86-timing.h	/^extern enum x86_cpu_issue_kind_t$/;"	g
+x86_cpu_issue_kind_timeslice	x86-timing.h	/^	x86_cpu_issue_kind_timeslice,$/;"	e	enum:x86_cpu_issue_kind_t
+x86_cpu_issue_lq	stg-issue.c	/^static int x86_cpu_issue_lq(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_issue_sq	stg-issue.c	/^static int x86_cpu_issue_sq(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_issue_thread_iq	stg-issue.c	/^static int x86_cpu_issue_thread_iq(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_issue_thread_lsq	stg-issue.c	/^static int x86_cpu_issue_thread_lsq(int core, int thread, int quant)$/;"	f	file:	signature:(int core, int thread, int quant)
+x86_cpu_issue_width	cpu.c	/^int x86_cpu_issue_width;$/;"	v
+x86_cpu_map_context	sched.c	/^void x86_cpu_map_context(int core, int thread, struct x86_ctx_t *ctx)$/;"	f	signature:(int core, int thread, struct x86_ctx_t *ctx)
+x86_cpu_map_context	x86-timing.h	/^void x86_cpu_map_context(int core, int thread, struct x86_ctx_t *ctx);$/;"	p	signature:(int core, int thread, struct x86_ctx_t *ctx)
+x86_cpu_num_cores	cpu.c	/^int x86_cpu_num_cores = 1;$/;"	v
+x86_cpu_num_threads	cpu.c	/^int x86_cpu_num_threads = 1;$/;"	v
+x86_cpu_occupancy_stats	cpu.c	/^int x86_cpu_occupancy_stats;$/;"	v
+x86_cpu_pipeline_empty	sched.c	/^int x86_cpu_pipeline_empty(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_cpu_pipeline_empty	x86-timing.h	/^int x86_cpu_pipeline_empty(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_cpu_recover	recover.c	/^void x86_cpu_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_cpu_recover	x86-timing.h	/^void x86_cpu_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_cpu_recover_kind	cpu.c	/^enum x86_cpu_recover_kind_t x86_cpu_recover_kind;$/;"	v	typeref:enum:x86_cpu_recover_kind_t
+x86_cpu_recover_kind_commit	x86-timing.h	/^	x86_cpu_recover_kind_commit$/;"	e	enum:x86_cpu_recover_kind_t
+x86_cpu_recover_kind_map	cpu.c	/^char *x86_cpu_recover_kind_map[] = { "Writeback", "Commit" };$/;"	v
+x86_cpu_recover_kind_t	x86-timing.h	/^extern enum x86_cpu_recover_kind_t$/;"	g
+x86_cpu_recover_kind_writeback	x86-timing.h	/^	x86_cpu_recover_kind_writeback = 0,$/;"	e	enum:x86_cpu_recover_kind_t
+x86_cpu_recover_penalty	cpu.c	/^int x86_cpu_recover_penalty;$/;"	v
+x86_cpu_report_file_name	cpu.c	/^char *x86_cpu_report_file_name = "";$/;"	v
+x86_cpu_run	cpu.c	/^int x86_cpu_run(void)$/;"	f	signature:(void)
+x86_cpu_run	x86-timing.h	/^int x86_cpu_run(void);$/;"	p	signature:(void)
+x86_cpu_run_fast_forward	cpu.c	/^void x86_cpu_run_fast_forward(void)$/;"	f	signature:(void)
+x86_cpu_run_stages	cpu.c	/^void x86_cpu_run_stages()$/;"	f
+x86_cpu_run_stages	x86-timing.h	/^void x86_cpu_run_stages(void);$/;"	p	signature:(void)
+x86_cpu_static_schedule	sched.c	/^void x86_cpu_static_schedule()$/;"	f
+x86_cpu_static_schedule	x86-timing.h	/^void x86_cpu_static_schedule(void);$/;"	p	signature:(void)
+x86_cpu_t	x86-timing.h	/^struct x86_cpu_t$/;"	s
+x86_cpu_t::branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::core	x86-timing.h	/^	struct x86_core_t *core;$/;"	m	struct:x86_cpu_t	typeref:struct:x86_cpu_t::x86_core_t	access:public
+x86_cpu_t::ctx_alloc_oldest	x86-timing.h	/^	long long ctx_alloc_oldest;  \/* Time when oldest context was allocated *\/$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::ctx_dealloc_signals	x86-timing.h	/^	int ctx_dealloc_signals;  \/* Sent deallocation signals *\/$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::cycle	x86-timing.h	/^	long long cycle;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::fast_forward_inst_count	x86-timing.h	/^	long long fast_forward_inst_count;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::fetched	x86-timing.h	/^	long long fetched;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::inst	x86-timing.h	/^	long long inst;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::last_committed	x86-timing.h	/^	long long last_committed;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::last_dump	x86-timing.h	/^	long long last_dump;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::stage	x86-timing.h	/^	char *stage;  \/* Name of currently simulated stage *\/$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::time	x86-timing.h	/^	double time;$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::uop_id_counter	x86-timing.h	/^	long long uop_id_counter;  \/* Counter of uop ID assignment *\/$/;"	m	struct:x86_cpu_t	access:public
+x86_cpu_t::uop_trace_list	x86-timing.h	/^	struct linked_list_t *uop_trace_list;$/;"	m	struct:x86_cpu_t	typeref:struct:x86_cpu_t::linked_list_t	access:public
+x86_cpu_thread_init	cpu.c	/^static void x86_cpu_thread_init(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_cpu_thread_quantum	cpu.c	/^int x86_cpu_thread_quantum;$/;"	v
+x86_cpu_thread_switch_penalty	cpu.c	/^int x86_cpu_thread_switch_penalty;$/;"	v
+x86_cpu_unmap_context	sched.c	/^void x86_cpu_unmap_context(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_cpu_unmap_context	x86-timing.h	/^void x86_cpu_unmap_context(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_cpu_unmap_context_signal	sched.c	/^void x86_cpu_unmap_context_signal(struct x86_ctx_t *ctx)$/;"	f	signature:(struct x86_ctx_t *ctx)
+x86_cpu_uop_trace_list_add	cpu.c	/^void x86_cpu_uop_trace_list_add(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_cpu_uop_trace_list_add	x86-timing.h	/^void x86_cpu_uop_trace_list_add(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_cpu_uop_trace_list_empty	cpu.c	/^void x86_cpu_uop_trace_list_empty(void)$/;"	f	signature:(void)
+x86_cpu_uop_trace_list_empty	x86-timing.h	/^void x86_cpu_uop_trace_list_empty(void);$/;"	p	signature:(void)
+x86_cpu_update_occupancy_stats	cpu.c	/^void x86_cpu_update_occupancy_stats()$/;"	f
+x86_cpu_update_occupancy_stats	x86-timing.h	/^void x86_cpu_update_occupancy_stats(void);$/;"	p	signature:(void)
+x86_cpu_writeback	stg-writeback.c	/^void x86_cpu_writeback()$/;"	f
+x86_cpu_writeback	x86-timing.h	/^void x86_cpu_writeback(void);$/;"	p	signature:(void)
+x86_cpu_writeback_core	stg-writeback.c	/^static void x86_cpu_writeback_core(int core)$/;"	f	file:	signature:(int core)
+x86_dispatch_stall_ctx	x86-timing.h	/^	x86_dispatch_stall_ctx,  \/* No running ctx *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_iq	x86-timing.h	/^	x86_dispatch_stall_iq,  \/* No space in the iq *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_lsq	x86-timing.h	/^	x86_dispatch_stall_lsq,  \/* No space in the lsq *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_max	x86-timing.h	/^	x86_dispatch_stall_max$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_rename	x86-timing.h	/^	x86_dispatch_stall_rename,  \/* No free physical register *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_rob	x86-timing.h	/^	x86_dispatch_stall_rob,  \/* No space in the rob *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_spec	x86-timing.h	/^	x86_dispatch_stall_spec,  \/* Used with a speculative inst. *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_t	x86-timing.h	/^enum x86_dispatch_stall_t$/;"	g
+x86_dispatch_stall_uop_queue	x86-timing.h	/^	x86_dispatch_stall_uop_queue,  \/* No instruction in the uop queue *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_dispatch_stall_used	x86-timing.h	/^	x86_dispatch_stall_used = 0,  \/* Dispatch slot was used with a finally committed inst. *\/$/;"	e	enum:x86_dispatch_stall_t
+x86_event_queue_cache_miss	queues.c	/^int x86_event_queue_cache_miss(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_event_queue_cache_miss	x86-timing.h	/^int x86_event_queue_cache_miss(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_event_queue_done	queues.c	/^void x86_event_queue_done()$/;"	f
+x86_event_queue_done	x86-timing.h	/^void x86_event_queue_done(void);$/;"	p	signature:(void)
+x86_event_queue_extract	queues.c	/^struct x86_uop_t *x86_event_queue_extract(struct linked_list_t *event_queue)$/;"	f	signature:(struct linked_list_t *event_queue)
+x86_event_queue_extract	x86-timing.h	/^struct x86_uop_t *x86_event_queue_extract(struct linked_list_t *event_queue);$/;"	p	signature:(struct linked_list_t *event_queue)
+x86_event_queue_init	queues.c	/^void x86_event_queue_init()$/;"	f
+x86_event_queue_init	x86-timing.h	/^void x86_event_queue_init(void);$/;"	p	signature:(void)
+x86_event_queue_insert	queues.c	/^void x86_event_queue_insert(struct linked_list_t *event_queue, struct x86_uop_t *uop)$/;"	f	signature:(struct linked_list_t *event_queue, struct x86_uop_t *uop)
+x86_event_queue_insert	x86-timing.h	/^void x86_event_queue_insert(struct linked_list_t *event_queue, struct x86_uop_t *uop);$/;"	p	signature:(struct linked_list_t *event_queue, struct x86_uop_t *uop)
+x86_event_queue_long_latency	queues.c	/^int x86_event_queue_long_latency(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_event_queue_long_latency	x86-timing.h	/^int x86_event_queue_long_latency(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_event_queue_recover	queues.c	/^void x86_event_queue_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_event_queue_recover	x86-timing.h	/^void x86_event_queue_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_fetch_queue_done	queues.c	/^void x86_fetch_queue_done()$/;"	f
+x86_fetch_queue_done	x86-timing.h	/^void x86_fetch_queue_done(void);$/;"	p	signature:(void)
+x86_fetch_queue_init	queues.c	/^void x86_fetch_queue_init()$/;"	f
+x86_fetch_queue_init	x86-timing.h	/^void x86_fetch_queue_init(void);$/;"	p	signature:(void)
+x86_fetch_queue_recover	queues.c	/^void x86_fetch_queue_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_fetch_queue_recover	x86-timing.h	/^void x86_fetch_queue_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_fetch_queue_remove	queues.c	/^struct x86_uop_t *x86_fetch_queue_remove(int core, int thread, int index)$/;"	f	signature:(int core, int thread, int index)
+x86_fetch_queue_remove	x86-timing.h	/^struct x86_uop_t *x86_fetch_queue_remove(int core, int thread, int index);$/;"	p	signature:(int core, int thread, int index)
+x86_fetch_queue_size	queues.c	/^int x86_fetch_queue_size;$/;"	v
+x86_fu_class_t	x86-timing.h	/^enum x86_fu_class_t$/;"	g
+x86_fu_count	x86-timing.h	/^	x86_fu_count$/;"	e	enum:x86_fu_class_t
+x86_fu_done	fu.c	/^void x86_fu_done()$/;"	f
+x86_fu_done	x86-timing.h	/^void x86_fu_done(void);$/;"	p	signature:(void)
+x86_fu_effaddr	x86-timing.h	/^	x86_fu_effaddr,$/;"	e	enum:x86_fu_class_t
+x86_fu_fpadd	x86-timing.h	/^	x86_fu_fpadd,$/;"	e	enum:x86_fu_class_t
+x86_fu_fpcomplex	x86-timing.h	/^	x86_fu_fpcomplex,$/;"	e	enum:x86_fu_class_t
+x86_fu_fpdiv	x86-timing.h	/^	x86_fu_fpdiv,$/;"	e	enum:x86_fu_class_t
+x86_fu_fpmult	x86-timing.h	/^	x86_fu_fpmult,$/;"	e	enum:x86_fu_class_t
+x86_fu_fpsimple	x86-timing.h	/^	x86_fu_fpsimple,$/;"	e	enum:x86_fu_class_t
+x86_fu_init	fu.c	/^void x86_fu_init()$/;"	f
+x86_fu_init	x86-timing.h	/^void x86_fu_init(void);$/;"	p	signature:(void)
+x86_fu_intadd	x86-timing.h	/^	x86_fu_intadd,$/;"	e	enum:x86_fu_class_t
+x86_fu_intdiv	x86-timing.h	/^	x86_fu_intdiv,$/;"	e	enum:x86_fu_class_t
+x86_fu_intmult	x86-timing.h	/^	x86_fu_intmult,$/;"	e	enum:x86_fu_class_t
+x86_fu_logic	x86-timing.h	/^	x86_fu_logic,$/;"	e	enum:x86_fu_class_t
+x86_fu_none	x86-timing.h	/^	x86_fu_none = 0,$/;"	e	enum:x86_fu_class_t
+x86_fu_release	fu.c	/^void x86_fu_release(int core)$/;"	f	signature:(int core)
+x86_fu_release	x86-timing.h	/^void x86_fu_release(int core);$/;"	p	signature:(int core)
+x86_fu_res_pool	fu.c	/^struct x86_fu_res_t x86_fu_res_pool[x86_fu_count];$/;"	v	typeref:struct:x86_fu_res_t
+x86_fu_res_t	x86-timing.h	/^struct x86_fu_res_t$/;"	s
+x86_fu_res_t::count	x86-timing.h	/^	int count;$/;"	m	struct:x86_fu_res_t	access:public
+x86_fu_res_t::issuelat	x86-timing.h	/^	int issuelat;$/;"	m	struct:x86_fu_res_t	access:public
+x86_fu_res_t::name	x86-timing.h	/^	char *name;$/;"	m	struct:x86_fu_res_t	access:public
+x86_fu_res_t::oplat	x86-timing.h	/^	int oplat;$/;"	m	struct:x86_fu_res_t	access:public
+x86_fu_reserve	fu.c	/^int x86_fu_reserve(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_fu_reserve	x86-timing.h	/^int x86_fu_reserve(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_fu_t	x86-timing.h	/^struct x86_fu_t$/;"	s
+x86_fu_t::accesses	x86-timing.h	/^	long long accesses[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+x86_fu_t::cycle_when_free	x86-timing.h	/^	long long cycle_when_free[x86_fu_count][X86_FU_RES_MAX];$/;"	m	struct:x86_fu_t	access:public
+x86_fu_t::denied	x86-timing.h	/^	long long denied[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+x86_fu_t::waiting_time	x86-timing.h	/^	long long waiting_time[x86_fu_count];$/;"	m	struct:x86_fu_t	access:public
+x86_fu_xmm_float	x86-timing.h	/^	x86_fu_xmm_float,$/;"	e	enum:x86_fu_class_t
+x86_fu_xmm_int	x86-timing.h	/^	x86_fu_xmm_int,$/;"	e	enum:x86_fu_class_t
+x86_fu_xmm_logic	x86-timing.h	/^	x86_fu_xmm_logic,$/;"	e	enum:x86_fu_class_t
+x86_iq_can_insert	queues.c	/^int x86_iq_can_insert(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_iq_can_insert	x86-timing.h	/^int x86_iq_can_insert(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_iq_done	queues.c	/^void x86_iq_done()$/;"	f
+x86_iq_done	x86-timing.h	/^void x86_iq_done(void);$/;"	p	signature:(void)
+x86_iq_init	queues.c	/^void x86_iq_init()$/;"	f
+x86_iq_init	x86-timing.h	/^void x86_iq_init(void);$/;"	p	signature:(void)
+x86_iq_insert	queues.c	/^void x86_iq_insert(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_iq_insert	x86-timing.h	/^void x86_iq_insert(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_iq_kind	queues.c	/^enum x86_iq_kind_t x86_iq_kind;$/;"	v	typeref:enum:x86_iq_kind_t
+x86_iq_kind_map	queues.c	/^char *x86_iq_kind_map[] = { "Shared", "Private" };$/;"	v
+x86_iq_kind_private	x86-timing.h	/^	x86_iq_kind_private$/;"	e	enum:x86_iq_kind_t
+x86_iq_kind_shared	x86-timing.h	/^	x86_iq_kind_shared = 0,$/;"	e	enum:x86_iq_kind_t
+x86_iq_kind_t	x86-timing.h	/^extern enum x86_iq_kind_t$/;"	g
+x86_iq_recover	queues.c	/^void x86_iq_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_iq_recover	x86-timing.h	/^void x86_iq_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_iq_remove	queues.c	/^void x86_iq_remove(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_iq_remove	x86-timing.h	/^void x86_iq_remove(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_iq_size	queues.c	/^int x86_iq_size;$/;"	v
+x86_lq_remove	queues.c	/^void x86_lq_remove(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_lq_remove	x86-timing.h	/^void x86_lq_remove(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_lsq_can_insert	queues.c	/^int x86_lsq_can_insert(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_lsq_can_insert	x86-timing.h	/^int x86_lsq_can_insert(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_lsq_done	queues.c	/^void x86_lsq_done()$/;"	f
+x86_lsq_done	x86-timing.h	/^void x86_lsq_done(void);$/;"	p	signature:(void)
+x86_lsq_init	queues.c	/^void x86_lsq_init()$/;"	f
+x86_lsq_init	x86-timing.h	/^void x86_lsq_init(void);$/;"	p	signature:(void)
+x86_lsq_insert	queues.c	/^void x86_lsq_insert(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_lsq_insert	x86-timing.h	/^void x86_lsq_insert(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_lsq_kind	queues.c	/^enum x86_lsq_kind_t x86_lsq_kind;$/;"	v	typeref:enum:x86_lsq_kind_t
+x86_lsq_kind_map	queues.c	/^char *x86_lsq_kind_map[] = { "Shared", "Private" };$/;"	v
+x86_lsq_kind_private	x86-timing.h	/^	x86_lsq_kind_private$/;"	e	enum:x86_lsq_kind_t
+x86_lsq_kind_shared	x86-timing.h	/^	x86_lsq_kind_shared = 0,$/;"	e	enum:x86_lsq_kind_t
+x86_lsq_kind_t	x86-timing.h	/^extern enum x86_lsq_kind_t$/;"	g
+x86_lsq_recover	queues.c	/^void x86_lsq_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_lsq_recover	x86-timing.h	/^void x86_lsq_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_lsq_size	queues.c	/^int x86_lsq_size;$/;"	v
+x86_phreg_t	x86-timing.h	/^struct x86_phreg_t$/;"	s
+x86_phreg_t::busy	x86-timing.h	/^	int busy;  \/* number of mapped logical registers *\/$/;"	m	struct:x86_phreg_t	access:public
+x86_phreg_t::pending	x86-timing.h	/^	int pending;  \/* not completed (bit) *\/$/;"	m	struct:x86_phreg_t	access:public
+x86_reg_file_can_rename	reg-file.c	/^int x86_reg_file_can_rename(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_can_rename	x86-timing.h	/^int x86_reg_file_can_rename(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_check_integrity	reg-file.c	/^void x86_reg_file_check_integrity(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_reg_file_check_integrity	x86-timing.h	/^void x86_reg_file_check_integrity(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_reg_file_commit	reg-file.c	/^void x86_reg_file_commit(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_commit	x86-timing.h	/^void x86_reg_file_commit(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_count_deps	reg-file.c	/^void x86_reg_file_count_deps(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_count_deps	x86-timing.h	/^void x86_reg_file_count_deps(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_create	reg-file.c	/^struct x86_reg_file_t *x86_reg_file_create(int int_size, int fp_size, int xmm_size)$/;"	f	signature:(int int_size, int fp_size, int xmm_size)
+x86_reg_file_create	x86-timing.h	/^struct x86_reg_file_t *x86_reg_file_create(int int_size, int fp_size, int xmm_size);$/;"	p	signature:(int int_size, int fp_size, int xmm_size)
+x86_reg_file_done	reg-file.c	/^void x86_reg_file_done(void)$/;"	f	signature:(void)
+x86_reg_file_done	x86-timing.h	/^void x86_reg_file_done(void);$/;"	p	signature:(void)
+x86_reg_file_dump	reg-file.c	/^void x86_reg_file_dump(int core, int thread, FILE *f)$/;"	f	signature:(int core, int thread, FILE *f)
+x86_reg_file_dump	x86-timing.h	/^void x86_reg_file_dump(int core, int thread, FILE *f);$/;"	p	signature:(int core, int thread, FILE *f)
+x86_reg_file_fp_local_size	reg-file.c	/^static int x86_reg_file_fp_local_size;$/;"	v	file:
+x86_reg_file_fp_reclaim	reg-file.c	/^static int x86_reg_file_fp_reclaim(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_reg_file_fp_size	reg-file.c	/^int x86_reg_file_fp_size = 40;  \/* Per-thread floating-point register file size *\/$/;"	v
+x86_reg_file_free	reg-file.c	/^void x86_reg_file_free(struct x86_reg_file_t *reg_file)$/;"	f	signature:(struct x86_reg_file_t *reg_file)
+x86_reg_file_free	x86-timing.h	/^void x86_reg_file_free(struct x86_reg_file_t *reg_file);$/;"	p	signature:(struct x86_reg_file_t *reg_file)
+x86_reg_file_init	reg-file.c	/^void x86_reg_file_init(void)$/;"	f	signature:(void)
+x86_reg_file_init	x86-timing.h	/^void x86_reg_file_init(void);$/;"	p	signature:(void)
+x86_reg_file_init_thread	reg-file.c	/^static void x86_reg_file_init_thread(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_reg_file_int_local_size	reg-file.c	/^static int x86_reg_file_int_local_size;$/;"	v	file:
+x86_reg_file_int_reclaim	reg-file.c	/^static int x86_reg_file_int_reclaim(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_reg_file_int_size	reg-file.c	/^int x86_reg_file_int_size = 80;  \/* Per-thread integer register file size *\/$/;"	v
+x86_reg_file_kind	reg-file.c	/^enum x86_reg_file_kind_t x86_reg_file_kind = x86_reg_file_kind_private;  \/* Sharing policy for register file *\/$/;"	v	typeref:enum:x86_reg_file_kind_t
+x86_reg_file_kind_map	reg-file.c	/^char *x86_reg_file_kind_map[] = { "Shared", "Private" };$/;"	v
+x86_reg_file_kind_private	x86-timing.h	/^	x86_reg_file_kind_private$/;"	e	enum:x86_reg_file_kind_t
+x86_reg_file_kind_shared	x86-timing.h	/^	x86_reg_file_kind_shared = 0,$/;"	e	enum:x86_reg_file_kind_t
+x86_reg_file_kind_t	x86-timing.h	/^extern enum x86_reg_file_kind_t$/;"	g
+x86_reg_file_ready	reg-file.c	/^int x86_reg_file_ready(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_ready	x86-timing.h	/^int x86_reg_file_ready(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_rename	reg-file.c	/^void x86_reg_file_rename(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_rename	x86-timing.h	/^void x86_reg_file_rename(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_t	x86-timing.h	/^struct x86_reg_file_t$/;"	s
+x86_reg_file_t::fp_free_phreg	x86-timing.h	/^	int *fp_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::fp_free_phreg_count	x86-timing.h	/^	int fp_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::fp_phreg	x86-timing.h	/^	struct x86_phreg_t *fp_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+x86_reg_file_t::fp_phreg_count	x86-timing.h	/^	int fp_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::fp_rat	x86-timing.h	/^	int fp_rat[x86_dep_fp_count];$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::fp_top_of_stack	x86-timing.h	/^	int fp_top_of_stack;  \/* Value between 0 and 7 *\/$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::int_free_phreg	x86-timing.h	/^	int *int_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::int_free_phreg_count	x86-timing.h	/^	int int_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::int_phreg	x86-timing.h	/^	struct x86_phreg_t *int_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+x86_reg_file_t::int_phreg_count	x86-timing.h	/^	int int_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::int_rat	x86-timing.h	/^	int int_rat[x86_dep_int_count];$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::xmm_free_phreg	x86-timing.h	/^	int *xmm_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::xmm_free_phreg_count	x86-timing.h	/^	int xmm_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::xmm_phreg	x86-timing.h	/^	struct x86_phreg_t *xmm_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+x86_reg_file_t::xmm_phreg_count	x86-timing.h	/^	int xmm_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_t::xmm_rat	x86-timing.h	/^	int xmm_rat[x86_dep_xmm_count];$/;"	m	struct:x86_reg_file_t	access:public
+x86_reg_file_undo	reg-file.c	/^void x86_reg_file_undo(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_undo	x86-timing.h	/^void x86_reg_file_undo(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_write	reg-file.c	/^void x86_reg_file_write(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_reg_file_write	x86-timing.h	/^void x86_reg_file_write(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_reg_file_xmm_local_size	reg-file.c	/^static int x86_reg_file_xmm_local_size;$/;"	v	file:
+x86_reg_file_xmm_reclaim	reg-file.c	/^static int x86_reg_file_xmm_reclaim(int core, int thread)$/;"	f	file:	signature:(int core, int thread)
+x86_reg_file_xmm_size	reg-file.c	/^int x86_reg_file_xmm_size = 40;  \/* Per-thread xmm register file size *\/$/;"	v
+x86_rob_can_dequeue	rob.c	/^int x86_rob_can_dequeue(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_rob_can_dequeue	x86-timing.h	/^int x86_rob_can_dequeue(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_rob_can_enqueue	rob.c	/^int x86_rob_can_enqueue(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_rob_can_enqueue	x86-timing.h	/^int x86_rob_can_enqueue(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_rob_done	rob.c	/^void x86_rob_done()$/;"	f
+x86_rob_done	x86-timing.h	/^void x86_rob_done(void);$/;"	p	signature:(void)
+x86_rob_dump	rob.c	/^void x86_rob_dump(int core, FILE *f)$/;"	f	signature:(int core, FILE *f)
+x86_rob_dump	x86-timing.h	/^void x86_rob_dump(int core, FILE *f);$/;"	p	signature:(int core, FILE *f)
+x86_rob_enqueue	rob.c	/^void x86_rob_enqueue(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_rob_enqueue	x86-timing.h	/^void x86_rob_enqueue(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_rob_get	rob.c	/^struct x86_uop_t *x86_rob_get(int core, int thread, int index)$/;"	f	signature:(int core, int thread, int index)
+x86_rob_get	x86-timing.h	/^struct x86_uop_t *x86_rob_get(int core, int thread, int index);$/;"	p	signature:(int core, int thread, int index)
+x86_rob_head	rob.c	/^struct x86_uop_t *x86_rob_head(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_rob_head	x86-timing.h	/^struct x86_uop_t *x86_rob_head(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_rob_init	rob.c	/^void x86_rob_init()$/;"	f
+x86_rob_init	x86-timing.h	/^void x86_rob_init(void);$/;"	p	signature:(void)
+x86_rob_kind	rob.c	/^enum x86_rob_kind_t x86_rob_kind;$/;"	v	typeref:enum:x86_rob_kind_t
+x86_rob_kind_map	rob.c	/^char *x86_rob_kind_map[] = { "Private", "Shared" };$/;"	v
+x86_rob_kind_private	x86-timing.h	/^	x86_rob_kind_private = 0,$/;"	e	enum:x86_rob_kind_t
+x86_rob_kind_shared	x86-timing.h	/^	x86_rob_kind_shared$/;"	e	enum:x86_rob_kind_t
+x86_rob_kind_t	x86-timing.h	/^extern enum x86_rob_kind_t$/;"	g
+x86_rob_remove_head	rob.c	/^void x86_rob_remove_head(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_rob_remove_head	x86-timing.h	/^void x86_rob_remove_head(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_rob_remove_tail	rob.c	/^void x86_rob_remove_tail(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_rob_remove_tail	x86-timing.h	/^void x86_rob_remove_tail(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_rob_size	rob.c	/^int x86_rob_size;$/;"	v
+x86_rob_tail	rob.c	/^struct x86_uop_t *x86_rob_tail(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_rob_tail	x86-timing.h	/^struct x86_uop_t *x86_rob_tail(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_rob_total_size	rob.c	/^static int x86_rob_total_size = 0;$/;"	v	file:
+x86_rob_trim	rob.c	/^static void x86_rob_trim(int core)$/;"	f	file:	signature:(int core)
+x86_sq_remove	queues.c	/^void x86_sq_remove(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_sq_remove	x86-timing.h	/^void x86_sq_remove(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_thread_t	x86-timing.h	/^struct x86_thread_t$/;"	s
+x86_thread_t::bpred	x86-timing.h	/^	struct x86_bpred_t *bpred;  \/* branch predictor *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_bpred_t	access:public
+x86_thread_t::branches	x86-timing.h	/^	long long branches;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::btb_reads	x86-timing.h	/^	long long btb_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::btb_writes	x86-timing.h	/^	long long btb_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::committed	x86-timing.h	/^	long long committed[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::ctx	x86-timing.h	/^	struct x86_ctx_t *ctx;  \/* allocated kernel context *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_ctx_t	access:public
+x86_thread_t::data_mod	x86-timing.h	/^	struct mod_t *data_mod;  \/* Entry for data *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::mod_t	access:public
+x86_thread_t::dispatched	x86-timing.h	/^	long long dispatched[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_access	x86-timing.h	/^	long long fetch_access;  \/* Module access ID of last instruction fetch *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_address	x86-timing.h	/^	unsigned int fetch_address;  \/* Physical address of last instruction fetch *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_block	x86-timing.h	/^	unsigned int fetch_block;  \/* Virtual address of last fetched block *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_eip	x86-timing.h	/^	unsigned int fetch_eip, fetch_neip;  \/* eip and next eip *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_neip	x86-timing.h	/^	unsigned int fetch_eip, fetch_neip;  \/* eip and next eip *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetch_queue	x86-timing.h	/^	struct list_t *fetch_queue;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::list_t	access:public
+x86_thread_t::fetch_stall_until	x86-timing.h	/^	long long fetch_stall_until;  \/* Cycle until which fetching is stalled (inclussive) *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetched	x86-timing.h	/^	long long fetched;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::fetchq_occ	x86-timing.h	/^	int fetchq_occ;  \/* Number of bytes occupied in the fetch queue *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::inst_mod	x86-timing.h	/^	struct mod_t *inst_mod;  \/* Entry for instructions *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::mod_t	access:public
+x86_thread_t::iq	x86-timing.h	/^	struct linked_list_t *iq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+x86_thread_t::iq_count	x86-timing.h	/^	int iq_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::iq_full	x86-timing.h	/^	long long iq_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::iq_occupancy	x86-timing.h	/^	long long iq_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::iq_reads	x86-timing.h	/^	long long iq_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::iq_wakeup_accesses	x86-timing.h	/^	long long iq_wakeup_accesses;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::iq_writes	x86-timing.h	/^	long long iq_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::issued	x86-timing.h	/^	long long issued[x86_uinst_opcode_count];$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::last_alloc_pid	x86-timing.h	/^	int last_alloc_pid;  \/* pid of last allocated context *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::last_commit_cycle	x86-timing.h	/^	long long last_commit_cycle;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lq	x86-timing.h	/^	struct linked_list_t *lq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+x86_thread_t::lsq_count	x86-timing.h	/^	int lsq_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lsq_full	x86-timing.h	/^	long long lsq_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lsq_occupancy	x86-timing.h	/^	long long lsq_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lsq_reads	x86-timing.h	/^	long long lsq_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lsq_wakeup_accesses	x86-timing.h	/^	long long lsq_wakeup_accesses;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::lsq_writes	x86-timing.h	/^	long long lsq_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::mispred	x86-timing.h	/^	long long mispred;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_fp_reads	x86-timing.h	/^	long long rat_fp_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_fp_writes	x86-timing.h	/^	long long rat_fp_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_int_reads	x86-timing.h	/^	long long rat_int_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_int_writes	x86-timing.h	/^	long long rat_int_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_xmm_reads	x86-timing.h	/^	long long rat_xmm_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rat_xmm_writes	x86-timing.h	/^	long long rat_xmm_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file	x86-timing.h	/^	struct x86_reg_file_t *reg_file;  \/* physical register file *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_reg_file_t	access:public
+x86_thread_t::reg_file_fp_count	x86-timing.h	/^	int reg_file_fp_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_fp_full	x86-timing.h	/^	long long reg_file_fp_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_fp_occupancy	x86-timing.h	/^	long long reg_file_fp_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_fp_reads	x86-timing.h	/^	long long reg_file_fp_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_fp_writes	x86-timing.h	/^	long long reg_file_fp_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_int_count	x86-timing.h	/^	int reg_file_int_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_int_full	x86-timing.h	/^	long long reg_file_int_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_int_occupancy	x86-timing.h	/^	long long reg_file_int_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_int_reads	x86-timing.h	/^	long long reg_file_int_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_int_writes	x86-timing.h	/^	long long reg_file_int_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_xmm_count	x86-timing.h	/^	int reg_file_xmm_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_xmm_full	x86-timing.h	/^	long long reg_file_xmm_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_xmm_occupancy	x86-timing.h	/^	long long reg_file_xmm_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_xmm_reads	x86-timing.h	/^	long long reg_file_xmm_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::reg_file_xmm_writes	x86-timing.h	/^	long long reg_file_xmm_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_count	x86-timing.h	/^	int rob_count;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_full	x86-timing.h	/^	long long rob_full;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_head	x86-timing.h	/^	int rob_head;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_left_bound	x86-timing.h	/^	int rob_left_bound;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_occupancy	x86-timing.h	/^	long long rob_occupancy;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_reads	x86-timing.h	/^	long long rob_reads;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_right_bound	x86-timing.h	/^	int rob_right_bound;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_tail	x86-timing.h	/^	int rob_tail;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::rob_writes	x86-timing.h	/^	long long rob_writes;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::sq	x86-timing.h	/^	struct linked_list_t *sq;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::linked_list_t	access:public
+x86_thread_t::squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::trace_cache	x86-timing.h	/^	struct x86_trace_cache_t *trace_cache;  \/* trace cache *\/$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::x86_trace_cache_t	access:public
+x86_thread_t::trace_cache_queue_occ	x86-timing.h	/^	int trace_cache_queue_occ;  \/* Number of uops occupied in the trace cache queue *\/$/;"	m	struct:x86_thread_t	access:public
+x86_thread_t::uop_queue	x86-timing.h	/^	struct list_t *uop_queue;$/;"	m	struct:x86_thread_t	typeref:struct:x86_thread_t::list_t	access:public
+x86_trace	x86-timing.h	563;"	d
+x86_trace_cache_assoc	trace-cache.c	/^int x86_trace_cache_assoc;  \/* Number of ways *\/$/;"	v
+x86_trace_cache_branch_max	trace-cache.c	/^int x86_trace_cache_branch_max;  \/* Maximum number of branches in a trace *\/$/;"	v
+x86_trace_cache_create	trace-cache.c	/^struct x86_trace_cache_t *x86_trace_cache_create()$/;"	f
+x86_trace_cache_create	x86-timing.h	/^struct x86_trace_cache_t *x86_trace_cache_create(void);$/;"	p	signature:(void)
+x86_trace_cache_done	trace-cache.c	/^void x86_trace_cache_done()$/;"	f
+x86_trace_cache_done	x86-timing.h	/^void x86_trace_cache_done(void);$/;"	p	signature:(void)
+x86_trace_cache_dump_report	trace-cache.c	/^void x86_trace_cache_dump_report(struct x86_trace_cache_t *trace_cache, FILE *f)$/;"	f	signature:(struct x86_trace_cache_t *trace_cache, FILE *f)
+x86_trace_cache_dump_report	x86-timing.h	/^void x86_trace_cache_dump_report(struct x86_trace_cache_t *trace_cache, FILE *f);$/;"	p	signature:(struct x86_trace_cache_t *trace_cache, FILE *f)
+x86_trace_cache_entry_t	x86-timing.h	/^struct x86_trace_cache_entry_t$/;"	s
+x86_trace_cache_entry_t::branch_count	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::branch_flags	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::branch_mask	x86-timing.h	/^	int branch_mask, branch_flags, branch_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::counter	x86-timing.h	/^	int counter;  \/* lru counter *\/$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::fall_through	x86-timing.h	/^	unsigned int fall_through;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::mop_array	x86-timing.h	/^	unsigned int mop_array[0];$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::mop_count	x86-timing.h	/^	int uop_count, mop_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::tag	x86-timing.h	/^	unsigned int tag;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::target	x86-timing.h	/^	unsigned int target;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_entry_t::uop_count	x86-timing.h	/^	int uop_count, mop_count;$/;"	m	struct:x86_trace_cache_entry_t	access:public
+x86_trace_cache_flush_trace	trace-cache.c	/^static void x86_trace_cache_flush_trace(struct x86_trace_cache_t *trace_cache)$/;"	f	file:	signature:(struct x86_trace_cache_t *trace_cache)
+x86_trace_cache_free	trace-cache.c	/^void x86_trace_cache_free(struct x86_trace_cache_t *trace_cache)$/;"	f	signature:(struct x86_trace_cache_t *trace_cache)
+x86_trace_cache_free	x86-timing.h	/^void x86_trace_cache_free(struct x86_trace_cache_t *trace_cache);$/;"	p	signature:(struct x86_trace_cache_t *trace_cache)
+x86_trace_cache_init	trace-cache.c	/^void x86_trace_cache_init()$/;"	f
+x86_trace_cache_init	x86-timing.h	/^void x86_trace_cache_init(void);$/;"	p	signature:(void)
+x86_trace_cache_lookup	trace-cache.c	/^int x86_trace_cache_lookup(struct x86_trace_cache_t *trace_cache, uint32_t eip, int pred,$/;"	f	signature:(struct x86_trace_cache_t *trace_cache, uint32_t eip, int pred, int *ptr_mop_count, uint32_t **ptr_mop_array, uint32_t *ptr_neip)
+x86_trace_cache_lookup	x86-timing.h	/^int x86_trace_cache_lookup(struct x86_trace_cache_t *trace_cache, uint32_t eip, int pred,$/;"	p	signature:(struct x86_trace_cache_t *trace_cache, uint32_t eip, int pred, int *ptr_mop_count, uint32_t **ptr_mop_array, uint32_t *ptr_neip)
+x86_trace_cache_new_uop	trace-cache.c	/^void x86_trace_cache_new_uop(struct x86_trace_cache_t *trace_cache, struct x86_uop_t *uop)$/;"	f	signature:(struct x86_trace_cache_t *trace_cache, struct x86_uop_t *uop)
+x86_trace_cache_new_uop	x86-timing.h	/^void x86_trace_cache_new_uop(struct x86_trace_cache_t *trace_cache, struct x86_uop_t *uop);$/;"	p	signature:(struct x86_trace_cache_t *trace_cache, struct x86_uop_t *uop)
+x86_trace_cache_num_sets	trace-cache.c	/^int x86_trace_cache_num_sets;  \/* Number of sets *\/$/;"	v
+x86_trace_cache_present	trace-cache.c	/^int x86_trace_cache_present;  \/* Use trace cache *\/$/;"	v
+x86_trace_cache_queue_size	trace-cache.c	/^int x86_trace_cache_queue_size;  \/* Fetch queue for pre-decoded uops *\/$/;"	v
+x86_trace_cache_t	x86-timing.h	/^struct x86_trace_cache_t$/;"	s
+x86_trace_cache_t::accesses	x86-timing.h	/^	long long accesses;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::committed	x86-timing.h	/^	long long committed;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::entry	x86-timing.h	/^	struct x86_trace_cache_entry_t *entry;$/;"	m	struct:x86_trace_cache_t	typeref:struct:x86_trace_cache_t::x86_trace_cache_entry_t	access:public
+x86_trace_cache_t::hits	x86-timing.h	/^	long long hits;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::name	x86-timing.h	/^	char name[20];$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::squashed	x86-timing.h	/^	long long squashed;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::temp	x86-timing.h	/^	struct x86_trace_cache_entry_t *temp;  \/* Temporary trace *\/$/;"	m	struct:x86_trace_cache_t	typeref:struct:x86_trace_cache_t::x86_trace_cache_entry_t	access:public
+x86_trace_cache_t::trace_length_acc	x86-timing.h	/^	long long trace_length_acc;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_t::trace_length_count	x86-timing.h	/^	long long trace_length_count;$/;"	m	struct:x86_trace_cache_t	access:public
+x86_trace_cache_trace_size	trace-cache.c	/^int x86_trace_cache_trace_size;  \/* Maximum number of uops in a trace *\/$/;"	v
+x86_trace_category	cpu.c	/^int x86_trace_category;$/;"	v
+x86_trace_header	x86-timing.h	564;"	d
+x86_tracing	x86-timing.h	562;"	d
+x86_uop_create	uop.c	/^struct x86_uop_t *x86_uop_create(void)$/;"	f	signature:(void)
+x86_uop_create	x86-timing.h	/^struct x86_uop_t *x86_uop_create(void);$/;"	p	signature:(void)
+x86_uop_exists	uop.c	/^int x86_uop_exists(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_uop_exists	x86-timing.h	/^int x86_uop_exists(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_uop_free_if_not_queued	uop.c	/^void x86_uop_free_if_not_queued(struct x86_uop_t *uop)$/;"	f	signature:(struct x86_uop_t *uop)
+x86_uop_free_if_not_queued	x86-timing.h	/^void x86_uop_free_if_not_queued(struct x86_uop_t *uop);$/;"	p	signature:(struct x86_uop_t *uop)
+x86_uop_linked_list_check_if_ready	uop.c	/^void x86_uop_linked_list_check_if_ready(struct linked_list_t *uop_list)$/;"	f	signature:(struct linked_list_t *uop_list)
+x86_uop_linked_list_check_if_ready	x86-timing.h	/^void x86_uop_linked_list_check_if_ready(struct linked_list_t *uop_list);$/;"	p	signature:(struct linked_list_t *uop_list)
+x86_uop_linked_list_dump	uop.c	/^void x86_uop_linked_list_dump(struct linked_list_t *uop_list, FILE *f)$/;"	f	signature:(struct linked_list_t *uop_list, FILE *f)
+x86_uop_linked_list_dump	x86-timing.h	/^void x86_uop_linked_list_dump(struct linked_list_t *uop_list, FILE *f);$/;"	p	signature:(struct linked_list_t *uop_list, FILE *f)
+x86_uop_list_dump	uop.c	/^void x86_uop_list_dump(struct list_t *uop_list, FILE *f)$/;"	f	signature:(struct list_t *uop_list, FILE *f)
+x86_uop_list_dump	x86-timing.h	/^void x86_uop_list_dump(struct list_t *uop_list, FILE *f);$/;"	p	signature:(struct list_t *uop_list, FILE *f)
+x86_uop_queue_done	queues.c	/^void x86_uop_queue_done()$/;"	f
+x86_uop_queue_done	x86-timing.h	/^void x86_uop_queue_done(void);$/;"	p	signature:(void)
+x86_uop_queue_init	queues.c	/^void x86_uop_queue_init()$/;"	f
+x86_uop_queue_init	x86-timing.h	/^void x86_uop_queue_init(void);$/;"	p	signature:(void)
+x86_uop_queue_recover	queues.c	/^void x86_uop_queue_recover(int core, int thread)$/;"	f	signature:(int core, int thread)
+x86_uop_queue_recover	x86-timing.h	/^void x86_uop_queue_recover(int core, int thread);$/;"	p	signature:(int core, int thread)
+x86_uop_queue_size	queues.c	/^int x86_uop_queue_size;$/;"	v
+x86_uop_t	x86-timing.h	/^struct x86_uop_t$/;"	s
+x86_uop_t::bimod_index	x86-timing.h	/^	int bimod_index, bimod_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::bimod_pred	x86-timing.h	/^	int bimod_index, bimod_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::choice_index	x86-timing.h	/^	int choice_index, choice_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::choice_pred	x86-timing.h	/^	int choice_index, choice_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::completed	x86-timing.h	/^	int completed;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::core	x86-timing.h	/^	int core;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ctx	x86-timing.h	/^	struct x86_ctx_t *ctx;$/;"	m	struct:x86_uop_t	typeref:struct:x86_uop_t::x86_ctx_t	access:public
+x86_uop_t::eip	x86-timing.h	/^	unsigned int eip;  \/* Address of x86 macro-instruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::fetch_access	x86-timing.h	/^	long long fetch_access;  \/* Access identifier to fetch this instruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::fetch_address	x86-timing.h	/^	unsigned int fetch_address;  \/* Physical address of memory access to fetch this instruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::fetch_trace_cache	x86-timing.h	/^	int fetch_trace_cache;  \/* True if uop comes from trace cache *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::flags	x86-timing.h	/^	enum x86_uinst_flag_t flags;$/;"	m	struct:x86_uop_t	typeref:enum:x86_uop_t::x86_uinst_flag_t	access:public
+x86_uop_t::id	x86-timing.h	/^	long long id;  \/* Unique ID *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::id_in_core	x86-timing.h	/^	long long id_in_core;  \/* Unique ID in core *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::idep_count	x86-timing.h	/^	int idep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_event_queue	x86-timing.h	/^	int in_event_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_fetch_queue	x86-timing.h	/^	int in_fetch_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_iq	x86-timing.h	/^	int in_iq : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_lq	x86-timing.h	/^	int in_lq : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_rob	x86-timing.h	/^	int in_rob : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_sq	x86-timing.h	/^	int in_sq : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_uop_queue	x86-timing.h	/^	int in_uop_queue : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::in_uop_trace_list	x86-timing.h	/^	int in_uop_trace_list : 1;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::issue_try_when	x86-timing.h	/^	long long issue_try_when;  \/* first cycle when f.u. is tried to be reserved *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::issue_when	x86-timing.h	/^	long long issue_when;  \/* cycle when issued *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::issued	x86-timing.h	/^	int issued;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::magic	x86-timing.h	/^	long long magic;  \/* Magic number for debugging *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::mop_count	x86-timing.h	/^	int mop_count;  \/* Number of uops within macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::mop_id	x86-timing.h	/^	long long mop_id;  \/* Sequence number of macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::mop_index	x86-timing.h	/^	int mop_index;  \/* Index of uop within macroinstruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::mop_name	x86-timing.h	/^	char mop_name[40];$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::mop_size	x86-timing.h	/^	int mop_size;  \/* Corresponding macroinstruction size *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::name	x86-timing.h	/^	char name[40];$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::neip	x86-timing.h	/^	unsigned int neip;  \/* Address of next non-speculative x86 macro-instruction *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::odep_count	x86-timing.h	/^	int odep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_fp_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_fp_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_idep	x86-timing.h	/^	int ph_idep[X86_UINST_MAX_IDEPS];$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_int_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_int_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_odep	x86-timing.h	/^	int ph_odep[X86_UINST_MAX_ODEPS];$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_oodep	x86-timing.h	/^	int ph_oodep[X86_UINST_MAX_ODEPS];$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_xmm_idep_count	x86-timing.h	/^	int ph_int_idep_count, ph_fp_idep_count, ph_xmm_idep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ph_xmm_odep_count	x86-timing.h	/^	int ph_int_odep_count, ph_fp_odep_count, ph_xmm_odep_count;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::phy_addr	x86-timing.h	/^	unsigned int phy_addr;  \/* ... corresponding to 'uop->uinst->address' *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::pred	x86-timing.h	/^	int pred;  \/* Global prediction (0=not taken, 1=taken) *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::pred_neip	x86-timing.h	/^	unsigned int pred_neip; \/* Address of next predicted x86 macro-instruction (for branches) *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::ready	x86-timing.h	/^	int ready;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::specmode	x86-timing.h	/^	int specmode;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::target_neip	x86-timing.h	/^	unsigned int target_neip;  \/* Address of target x86 macro-instruction assuming branch taken (for branches) *\/$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::thread	x86-timing.h	/^	int thread;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::twolevel_bht_index	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::twolevel_pht_col	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::twolevel_pht_row	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::twolevel_pred	x86-timing.h	/^	int twolevel_bht_index, twolevel_pht_row, twolevel_pht_col, twolevel_pred;$/;"	m	struct:x86_uop_t	access:public
+x86_uop_t::uinst	x86-timing.h	/^	struct x86_uinst_t *uinst;$/;"	m	struct:x86_uop_t	typeref:struct:x86_uop_t::x86_uinst_t	access:public
+x86_uop_t::when	x86-timing.h	/^	long long when;  \/* cycle when ready *\/$/;"	m	struct:x86_uop_t	access:public
+xmm_free_phreg	x86-timing.h	/^	int *xmm_free_phreg;$/;"	m	struct:x86_reg_file_t	access:public
+xmm_free_phreg_count	x86-timing.h	/^	int xmm_free_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+xmm_phreg	x86-timing.h	/^	struct x86_phreg_t *xmm_phreg;$/;"	m	struct:x86_reg_file_t	typeref:struct:x86_reg_file_t::x86_phreg_t	access:public
+xmm_phreg_count	x86-timing.h	/^	int xmm_phreg_count;$/;"	m	struct:x86_reg_file_t	access:public
+xmm_rat	x86-timing.h	/^	int xmm_rat[x86_dep_xmm_count];$/;"	m	struct:x86_reg_file_t	access:public

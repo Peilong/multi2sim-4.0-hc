@@ -1,0 +1,84 @@
+[CacheGeometry geo-d-l1]
+Sets = 512
+Assoc = 1
+BlockSize = 64
+Latency = 1
+Policy = LRU
+Ports = 2
+
+[CacheGeometry geo-i-l1]
+Sets = 512
+Assoc = 1
+BlockSize = 64
+Latency = 1
+Policy = LRU
+Ports = 2
+
+[CacheGeometry geo-l2]
+Sets = 1024
+Assoc = 4
+BlockSize = 64
+Latency = 20
+Policy = LRU
+Ports = 4
+
+; One l1 data caches
+
+[Module mod-dl1-0]
+Type = Cache
+Geometry = geo-d-l1
+LowNetwork = net-l1-l2 
+LowModules = mod-l2-0
+
+; One l1 instruction caches
+
+[Module mod-il1-0]
+Type = Cache
+Geometry = geo-i-l1
+LowNetwork = net-l1-l2 
+LowModules = mod-l2-0
+
+; Shared l2 cache
+
+[Module mod-l2-0]
+Type = Cache
+Geometry = geo-l2
+HighNetwork = net-l1-l2 
+LowNetwork = net-l2-mm
+LowModules = mod-mm
+AddressRange = BOUNDS 0x00000000 0xFFFFFFFF
+
+
+[Module mod-mm]
+Type = MainMemory
+BlockSize = 512
+Latency = 200
+HighNetwork = net-l2-mm
+
+
+[Network net-l2-mm]
+DefaultInputBufferSize = 16384 
+DefaultOutputBufferSize = 16384
+DefaultBandwidth = 512 
+
+[Network net-l1-l2]
+DefaultInputBufferSize = 4096 
+DefaultOutputBufferSize = 4096
+DefaultBandwidth = 512 
+
+
+[Entry core-0]
+Type = CPU
+Core = 0
+Thread = 0
+DataModule = mod-dl1-0
+InstModule = mod-il1-0
+
+[Entry core-1]
+Type = CPU
+Core = 1
+Thread = 0
+DataModule = mod-dl1-0
+InstModule = mod-il1-0
+
+

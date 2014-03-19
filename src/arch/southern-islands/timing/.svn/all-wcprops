@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/southern-islands/timing
+END
+vector_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/vector_mem.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/Makefile.in
+END
+calc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/calc.c
+END
+uop.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/uop.c
+END
+wavefront_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/wavefront_pool.c
+END
+scalar_unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/scalar_unit.c
+END
+lds.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/lds.c
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/sched.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/Makefile.am
+END
+compute-unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/compute-unit.c
+END
+gpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/gpu.c
+END
+southern-islands-timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/southern-islands-timing.h
+END
+simd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/simd.c
+END
+branch_unit.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/multi2sim-4.0-hc/!svn/ver/1/src/arch/southern-islands/timing/branch_unit.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/multi2sim-4.0-hc/!svn/ver/13/src/arch/southern-islands/timing/Makefile
+END

@@ -1,0 +1,147 @@
+
+Loading ELF sections
+  section 0: name='', offset=0x0, addr=0x0, size=0, flags={}
+  section 1: name='.interp', offset=0x154, addr=0x8048154, size=19, flags={SHF_ALLOC}
+  section 2: name='.note.ABI-tag', offset=0x168, addr=0x8048168, size=32, flags={SHF_ALLOC}
+  section 3: name='.note.gnu.build-id', offset=0x188, addr=0x8048188, size=36, flags={SHF_ALLOC}
+  section 4: name='.gnu.hash', offset=0x1ac, addr=0x80481ac, size=32, flags={SHF_ALLOC}
+  section 5: name='.dynsym', offset=0x1cc, addr=0x80481cc, size=128, flags={SHF_ALLOC}
+  section 6: name='.dynstr', offset=0x24c, addr=0x804824c, size=148, flags={SHF_ALLOC}
+  section 7: name='.gnu.version', offset=0x2e0, addr=0x80482e0, size=16, flags={SHF_ALLOC}
+  section 8: name='.gnu.version_r', offset=0x2f0, addr=0x80482f0, size=80, flags={SHF_ALLOC}
+  section 9: name='.rel.dyn', offset=0x340, addr=0x8048340, size=8, flags={SHF_ALLOC}
+  section 10: name='.rel.plt', offset=0x348, addr=0x8048348, size=40, flags={SHF_ALLOC}
+  section 11: name='.init', offset=0x370, addr=0x8048370, size=46, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 12: name='.plt', offset=0x3a0, addr=0x80483a0, size=96, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 13: name='.text', offset=0x400, addr=0x8048400, size=476, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 14: name='.fini', offset=0x5dc, addr=0x80485dc, size=26, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 15: name='.rodata', offset=0x5f8, addr=0x80485f8, size=43, flags={SHF_ALLOC}
+  section 16: name='.eh_frame_hdr', offset=0x624, addr=0x8048624, size=60, flags={SHF_ALLOC}
+  section 17: name='.eh_frame', offset=0x660, addr=0x8048660, size=228, flags={SHF_ALLOC}
+  section 18: name='.ctors', offset=0xf0c, addr=0x8049f0c, size=8, flags={SHF_WRITE|SHF_ALLOC}
+  section 19: name='.dtors', offset=0xf14, addr=0x8049f14, size=8, flags={SHF_WRITE|SHF_ALLOC}
+  section 20: name='.jcr', offset=0xf1c, addr=0x8049f1c, size=4, flags={SHF_WRITE|SHF_ALLOC}
+  section 21: name='.dynamic', offset=0xf20, addr=0x8049f20, size=208, flags={SHF_WRITE|SHF_ALLOC}
+  section 22: name='.got', offset=0xff0, addr=0x8049ff0, size=4, flags={SHF_WRITE|SHF_ALLOC}
+  section 23: name='.got.plt', offset=0xff4, addr=0x8049ff4, size=32, flags={SHF_WRITE|SHF_ALLOC}
+  section 24: name='.data', offset=0x1014, addr=0x804a014, size=8, flags={SHF_WRITE|SHF_ALLOC}
+  section 25: name='.bss', offset=0x101c, addr=0x804a01c, size=8, flags={SHF_WRITE|SHF_ALLOC}
+  section 26: name='.comment', offset=0x101c, addr=0x0, size=42, flags={16|32}
+  section 27: name='.shstrtab', offset=0x1046, addr=0x0, size=252, flags={}
+  section 28: name='.symtab', offset=0x15f4, addr=0x0, size=1088, flags={}
+  section 29: name='.strtab', offset=0x1a34, addr=0x0, size=570, flags={}
+
+Loading program headers
+  virtual address for program header table: 0x8048034
+  header loaded at 0x8048034
+    type=PT_PHDR, offset=0x34, vaddr=0x8048034, paddr=0x8048034
+    filesz=288, memsz=288, flags=5, align=4
+  header loaded at 0x8048054
+    type=PT_INTERP, offset=0x154, vaddr=0x8048154, paddr=0x8048154
+    filesz=19, memsz=19, flags=4, align=1
+  header loaded at 0x8048074
+    type=PT_LOAD, offset=0x0, vaddr=0x8048000, paddr=0x8048000
+    filesz=1860, memsz=1860, flags=5, align=4096
+  header loaded at 0x8048094
+    type=PT_LOAD, offset=0xf0c, vaddr=0x8049f0c, paddr=0x8049f0c
+    filesz=272, memsz=280, flags=6, align=4096
+  header loaded at 0x80480b4
+    type=PT_DYNAMIC, offset=0xf20, vaddr=0x8049f20, paddr=0x8049f20
+    filesz=208, memsz=208, flags=6, align=4
+  header loaded at 0x80480d4
+    type=PT_NOTE, offset=0x168, vaddr=0x8048168, paddr=0x8048168
+    filesz=68, memsz=68, flags=4, align=4
+  header loaded at 0x80480f4
+    type=1685382480, offset=0x624, vaddr=0x8048624, paddr=0x8048624
+    filesz=60, memsz=60, flags=4, align=4
+  header loaded at 0x8048114
+    type=1685382481, offset=0x0, vaddr=0x0, paddr=0x0
+    filesz=0, memsz=0, flags=6, align=4
+  header loaded at 0x8048134
+    type=1685382482, offset=0xf0c, vaddr=0x8049f0c, paddr=0x8049f0c
+    filesz=244, memsz=244, flags=4, align=1
+
+Loading program interpreter '/lib/ld-linux.so.2'
+
+Loading ELF sections
+  section 0: name='', offset=0x0, addr=0x0, size=0, flags={}
+  section 1: name='.note.gnu.build-id', offset=0x114, addr=0x114, size=36, flags={SHF_ALLOC}
+  section 2: name='.hash', offset=0x138, addr=0x138, size=188, flags={SHF_ALLOC}
+  section 3: name='.gnu.hash', offset=0x1f4, addr=0x1f4, size=224, flags={SHF_ALLOC}
+  section 4: name='.dynsym', offset=0x2d4, addr=0x2d4, size=448, flags={SHF_ALLOC}
+  section 5: name='.dynstr', offset=0x494, addr=0x494, size=382, flags={SHF_ALLOC}
+  section 6: name='.gnu.version', offset=0x612, addr=0x612, size=56, flags={SHF_ALLOC}
+  section 7: name='.gnu.version_d', offset=0x64c, addr=0x64c, size=200, flags={SHF_ALLOC}
+  section 8: name='.rel.dyn', offset=0x714, addr=0x714, size=104, flags={SHF_ALLOC}
+  section 9: name='.rel.plt', offset=0x77c, addr=0x77c, size=48, flags={SHF_ALLOC}
+  section 10: name='.plt', offset=0x7b0, addr=0x7b0, size=112, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 11: name='.text', offset=0x820, addr=0x820, size=100399, flags={SHF_ALLOC|SHF_EXECINSTR}
+  section 12: name='.rodata', offset=0x19060, addr=0x19060, size=14848, flags={SHF_ALLOC}
+  section 13: name='.eh_frame_hdr', offset=0x1ca60, addr=0x1ca60, size=1668, flags={SHF_ALLOC}
+  section 14: name='.eh_frame', offset=0x1d0e4, addr=0x1d0e4, size=9540, flags={SHF_ALLOC}
+  section 15: name='.data.rel.ro', offset=0x1fca0, addr=0x20ca0, size=636, flags={SHF_WRITE|SHF_ALLOC}
+  section 16: name='.dynamic', offset=0x1ff1c, addr=0x20f1c, size=184, flags={SHF_WRITE|SHF_ALLOC}
+  section 17: name='.got', offset=0x1ffd4, addr=0x20fd4, size=12, flags={SHF_WRITE|SHF_ALLOC}
+  section 18: name='.got.plt', offset=0x1fff4, addr=0x20ff4, size=36, flags={SHF_WRITE|SHF_ALLOC}
+  section 19: name='.data', offset=0x20020, addr=0x21020, size=2100, flags={SHF_WRITE|SHF_ALLOC}
+  section 20: name='.bss', offset=0x20854, addr=0x21858, size=192, flags={SHF_WRITE|SHF_ALLOC}
+  section 21: name='.gnu_debuglink', offset=0x20854, addr=0x0, size=16, flags={}
+  section 22: name='.shstrtab', offset=0x20864, addr=0x0, size=202, flags={}
+  program interpreter entry: 0x11d0
+
+mapping region for stack from 0xbf800000 to 0xbfffffff
+  saved 'argc=1' at 0xbfff0000
+Loading auxiliary vector at 0xbfff00c4
+
+Arguments:
+  argument 0 at 0xbfff013c: 'threadtest'
+
+Environment variables:
+  env var 0 at 0xbfff0147: 'ORBIT_SOCKETDIR=/tmp/orbit-pli'
+  env var 1 at 0xbfff0166: 'SSH_AGENT_PID=1602'
+  env var 2 at 0xbfff0179: 'TERMINATOR_UUID=urn:uuid:06e3fcc1-f394-48f0-b54d-82128f185ba7'
+  env var 3 at 0xbfff01b7: 'GIO_LAUNCHED_DESKTOP_FILE_PID=3783'
+  env var 4 at 0xbfff01da: 'GPG_AGENT_INFO=/tmp/keyring-WvUV7g/gpg:0:1'
+  env var 5 at 0xbfff0205: 'SHELL=/bin/bash'
+  env var 6 at 0xbfff0215: 'TERM=xterm'
+  env var 7 at 0xbfff0220: 'XDG_SESSION_COOKIE=e83ef905cb4092d33aff539c00000031-1355583654.977907-1717231818'
+  env var 8 at 0xbfff0271: 'WINDOWID=75497476'
+  env var 9 at 0xbfff0283: 'GNOME_KEYRING_CONTROL=/tmp/keyring-WvUV7g'
+  env var 10 at 0xbfff02ad: 'USER=pli'
+  env var 11 at 0xbfff02b6: 'LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:'
+  env var 12 at 0xbfff07d7: 'XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0'
+  env var 13 at 0xbfff0811: 'XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0'
+  env var 14 at 0xbfff0845: 'SSH_AUTH_SOCK=/tmp/keyring-WvUV7g/ssh'
+  env var 15 at 0xbfff086b: 'DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path'
+  env var 16 at 0xbfff089e: 'SESSION_MANAGER=local/ubuntu:@/tmp/.ICE-unix/1565,unix/ubuntu:/tmp/.ICE-unix/1565'
+  env var 17 at 0xbfff08f0: 'GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/terminator.desktop'
+  env var 18 at 0xbfff0935: 'XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg'
+  env var 19 at 0xbfff0962: 'DESKTOP_SESSION=ubuntu'
+  env var 20 at 0xbfff0979: 'PATH=/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games'
+  env var 21 at 0xbfff09df: '_=/usr/local/bin/m2s'
+  env var 22 at 0xbfff09f4: 'QT_IM_MODULE=xim'
+  env var 23 at 0xbfff0a05: 'AMDAPPSDKROOT=/opt/AMDAPP'
+  env var 24 at 0xbfff0a1f: 'PWD=/home/pli/multi2sim-4.0-hc/C_Code/threadtest'
+  env var 25 at 0xbfff0a50: 'XMODIFIERS=@im=ibus'
+  env var 26 at 0xbfff0a64: 'LANG=en_US.UTF-8'
+  env var 27 at 0xbfff0a75: 'GNOME_KEYRING_PID=1554'
+  env var 28 at 0xbfff0a8c: 'MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path'
+  env var 29 at 0xbfff0ac2: 'COMPIZ_CONFIG_PROFILE=ubuntu'
+  env var 30 at 0xbfff0adf: 'UBUNTU_MENUPROXY=libappmenu.so'
+  env var 31 at 0xbfff0afe: 'GDMSESSION=ubuntu'
+  env var 32 at 0xbfff0b10: 'HOME=/home/pli'
+  env var 33 at 0xbfff0b1f: 'SHLVL=2'
+  env var 34 at 0xbfff0b27: 'GNOME_DESKTOP_SESSION_ID=this-is-deprecated'
+  env var 35 at 0xbfff0b53: 'LOGNAME=pli'
+  env var 36 at 0xbfff0b5f: 'DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-IaDPnXh3LM,guid=1882f2e7f53c8a2246bae60400000023'
+  env var 37 at 0xbfff0bc1: 'XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/'
+  env var 38 at 0xbfff0c10: 'LESSOPEN=| /usr/bin/lesspipe %s'
+  env var 39 at 0xbfff0c30: 'DISPLAY=:0'
+  env var 40 at 0xbfff0c3b: 'GTK_IM_MODULE=ibus'
+  env var 41 at 0xbfff0c4e: 'XDG_CURRENT_DESKTOP=Unity'
+  env var 42 at 0xbfff0c68: 'LESSCLOSE=/usr/bin/lesspipe %s %s'
+  env var 43 at 0xbfff0c8a: 'XAUTHORITY=/home/pli/.Xauthority'
+  env var 44 at 0xbfff0cab: 'COLORTERM=gnome-terminal'
+Program entry is 0x11d0
+Initial stack pointer is 0xbfff0000
+Heap start set to 0x804b000

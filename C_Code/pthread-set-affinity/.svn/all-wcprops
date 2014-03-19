@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/multi2sim-4.0-hc/!svn/ver/11/C_Code/pthread-set-affinity
+END
+debug.syscall.pthreadaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/debug.syscall.pthreadaffinity
+END
+report.pipeline.pthreadaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/report.pipeline.pthreadaffinity
+END
+debug.call.pthreadaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/debug.call.pthreadaffinity
+END
+run.bash
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/run.bash
+END
+mem-config
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/mem-config
+END
+pthread-set-affinity
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/pthread-set-affinity
+END
+pthread-set-affinity.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/pthread-set-affinity.c
+END
+report.mem.pthreadaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/report.mem.pthreadaffinity
+END
+cpu-config
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/cpu-config
+END
+debug.loader.pthreadaffinity
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/debug.loader.pthreadaffinity
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/multi2sim-4.0-hc/!svn/ver/8/C_Code/pthread-set-affinity/Makefile
+END

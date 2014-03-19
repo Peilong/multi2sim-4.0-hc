@@ -1,0 +1,180 @@
+#define _GNU_SOURCE 
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sched.h>
+#include <math.h>
+#include <pthread.h>
+
+#define CPU_NUM 8
+
+/* ==================== Global Varialbes =================== */
+int cpunum = CPU_NUM; //number of CPUs
+
+
+/* ================= Function Declaration ================== */
+
+// -------------- waste_time Function ----------------
+// Purpose: Waste a period time and implement 
+//          computational executions
+//----------------------------------------------------
+double waste_time(long n)
+{
+	double res = 0;
+	long i = 0;
+	while (i <n * 2000) // originally 200000 
+	{
+		i++;
+		res += sqrt(i);
+	}
+	return res;
+}
+
+// -------------- thread_func Function ---------------
+// Purpose: thread function called by main thread 
+//          bond all CPU cores except for CPU 1
+//----------------------------------------------------
+void *thread_func (void *arg)
+{
+	int ret = 0;
+	int threadno = arg;	
+	
+	cpu_set_t mask ;
+	CPU_ZERO (&mask);
+	if (threadno == 0)
+		CPU_SET (threadno, &mask);
+	else
+		CPU_SET (threadno+1, &mask); // CPU1 must be occupied by acc_function
+	
+	printf ("thread function is called, arg = %d\n", threadno);
+	ret = pthread_setaffinity_np(pthread_self(), sizeof(mask), &mask );
+	if(ret < 0)
+	{
+		printf("pthread_setaffinity_np err \n");
+		return ;
+	}
+
+	int x1 = 0;
+	while(1)
+	{
+		if(x1 > 9000) //initially, 900000000
+		{
+			break;
+		}
+		x1++;
+	}
+
+	waste_time(10);
+
+	ret =pthread_getaffinity_np(pthread_self(), sizeof(mask), &mask );
+	if(ret < 0)
+	{
+		printf("pthread_getaffinity_np err \n");
+		return ;
+	}
+	
+	int j;
+	for( j = 0; j < cpunum; j++)
+	{
+		//printf ("CPU_COUNT = %d\n", CPU_COUNT(&mask));
+		if(CPU_ISSET(j,&mask))
+			printf("\n>>=== thread[%lu]\t bind cpu[%d]\n", pthread_self(), j);
+	}
+}
+
+int main (int argc, char **argv)
+{
+	/* ========= Local varialbes declaration =============*/
+	int rtn = 0;          // set/get affinity return flag
+	char i, j;            // counter
+	struct timeval time;  // used in 'gettimeofday' acc_funct
+
+
+	/* ========= Thread variable initialization ========= */
+	// ** Accelerated function is always bonded to CPU1 ** //
+	// Suppose we have N CPUs, Acc_function is bonded to CPU1,
+	// other CPUs must be utilized by thread[0], thread[1] ...
+	// thread [N-2] (N-1 not accelerated threads in total)
+	// So, N CPUs are fully occupied.
+	pthread_t thread[cpunum - 2];
+
+	printf("Total [%d] CPU cores\n",cpunum);
+	
+
+	/* ============ CPU SET initialization ============== */
+	cpu_set_t cs;
+	CPU_ZERO(&cs);
+
+
+	/* ========= Get the default CPU core info ========== */
+	// If rtn == 0, that means 'get' successfully returned.
+	// Then, jump over the if condition
+	rtn = sched_getaffinity(0,sizeof(cs),&cs);
+	if (rtn != 0) 
+	{
+		printf("Failed to get CPU cores info [%d]\n",rtn);
+		return 3;
+	}
+
+
+	/* ======= Check what is inside CPU Set 'cs' ======== */
+	printf("As default, process will be bound to CPU cores:\n");
+	for (i=0; i<cpunum; i++)
+	{
+		if(CPU_ISSET(i,&cs))
+		printf("I am running on CPU core[%d]\n",i);
+	}
+
+	for (j=0; j<10; j++)
+	{
+		// Pthread Create
+		for (i=0; i<cpunum; i++)
+		{
+			rtn = pthread_create (&thread[i], NULL, thread_func, (void *)i);
+			if (rtn != 0)
+				printf ("pthread_create err \n");
+			//else
+				//printf ("pthread_create thread [%d] success!\n", i);
+		}
+
+
+		/* ===== Bond the 'acc_function' with CPU core 1 ==== */
+		CPU_ZERO(&cs);
+		CPU_SET(1,&cs);
+		rtn=sched_setaffinity(0, sizeof(cs), &cs);
+		if (rtn < 0)
+		{
+			printf("Failed to bound CPU [%d]\n",rtn);
+			return 4;
+		}
+
+
+		/* ======== Check which CPU core is bonded ========= */
+		printf("After set, process will be bound to CPU cores:\n");
+		for (i=0; i<cpunum; i++)
+		{
+			if( CPU_ISSET(i,&cs) )
+			printf("I am running on CPU core[%d]\n",i);
+		}
+
+		// Accelerated Function
+		gettimeofday (&time, NULL);
+		printf ("===========================================\n");
+		printf ("Accelerated function is called at [%d] time!\n", j);
+		printf ("Current time: %ld\n", time.tv_sec);
+		printf ("===========================================\n");
+
+
+		// Pthread Join
+		for (i=0; i<cpunum; i++)
+		{
+			rtn = pthread_join (thread[i], NULL);
+			if (rtn != 0)
+				printf ("pthread_join err \n");
+			//else
+				//printf ("pthread_join thread [%d] success!\n", i);
+		}
+	}
+	
+}
+
